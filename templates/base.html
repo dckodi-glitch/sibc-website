@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="{{ locale }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="description" content="Sarana International Buddhist Center in Tukwila, Washington. A temple open to everyone.">
+  <title>{{ title }} · Sarana International Buddhist Center</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='site.css') }}">
+  <script defer src="{{ url_for('static', filename='site.js') }}"></script>
+</head>
+<body>
+<!-- THESIS: An open temple, not a promotional portal. OWN-WORLD: White, bamboo green and saffron; spacious type and uncropped source photography. STORY: Welcome, understand, find SIBC, support it. FIRST VIEWPORT: Full name, inclusive welcome and real temple image, with directions and calendar close at hand. FORM: An open, asymmetric photographic welcome flowing into a ruled community directory; no invented events or claims. -->
+<a class="skip-link" href="#main" lang="en">Skip to content</a>
+<div class="review-bar" lang="en">Local review preview <span aria-hidden="true">·</span> No live payments. <a href="/{{ locale }}/review/">What needs SIBC review</a></div>
+<header class="site-header">
+  <a class="brand" href="/{{ locale }}/" aria-label="Sarana International Buddhist Center home">
+    <span class="brand-mark" aria-hidden="true">S</span>
+    <span lang="en">Sarana International<span>Buddhist Center</span></span>
+  </a>
+  <div class="header-tools">
+    <nav class="language-nav" aria-label="Language" lang="en">
+    {% for code, item in locales.items() %}
+      <a lang="{{ code }}" href="/{{ code }}{{ path }}" {% if code == locale %}aria-current="true"{% endif %}>{{ item.name }}{% if code != 'en' %}<span class="sr-only" lang="en"> (draft)</span>{% endif %}</a>
+    {% endfor %}
+    </nav>
+    <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="primary-nav" lang="en">Menu <span aria-hidden="true">☰</span></button>
+  </div>
+  <nav id="primary-nav" class="primary-nav" aria-label="Main navigation">
+    {% for href, label in nav %}
+    <a href="/{{ locale }}{{ href }}" {% if path == href %}aria-current="page"{% endif %}>{{ label }}</a>
+    {% endfor %}
+  </nav>
+</header>
+{% if locale != 'en' %}
+<aside class="draft-notice container" lang="en">
+  <strong>{{ 'Sinhala' if locale == 'si' else 'Khmer' }} translation draft — not approved.</strong>
+  Navigation and the welcome are draft translations awaiting a native-speaker and SIBC review. Other content remains in English and is labeled accordingly.
+  <a href="/en{{ path }}">Read the English source</a>.
+</aside>
+{% endif %}
+<main id="main" tabindex="-1">{% block content %}{% endblock %}</main>
+<footer class="site-footer" lang="en">
+  <div class="container footer-grid">
+    <div><h2>Sarana International<br>Buddhist Center</h2><p>Sharing the Buddha's message<br>of peace and happiness.</p></div>
+    <div><h3>Find us</h3><address>15241 51st Ave S<br>Tukwila, WA 98188</address><a href="{{ map_url }}">Open directions <span aria-hidden="true">↗</span></a></div>
+    <div><h3>Stay connected</h3><a href="mailto:info@sibc-tukwila.org">Email SIBC</a><a href="/{{ locale }}/contact/temple_mailing_list/">Temple mailing list</a><a href="https://www.facebook.com/sibc.tukwila">Facebook <span aria-hidden="true">↗</span></a><a href="https://www.youtube.com/channel/UCxHXa7UJr1KoeDMY4JihwUA">YouTube <span aria-hidden="true">↗</span></a></div>
+  </div>
+  <div class="container footer-bottom"><span>Open to everyone, regardless of religion, tradition or culture.</span><a href="/{{ locale }}/review/">Sources & review status</a><a href="/sitemap.xml">Sitemap</a><a href="/feed.xml">RSS</a><a href="/atom.xml">Atom</a></div>
+</footer>
+</body>
+</html>

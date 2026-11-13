@@ -1,0 +1,1565 @@
+[
+  {
+    "path": "/about/",
+    "title": "About SIBC",
+    "source": "https://sibc-tukwila.org/about/",
+    "html": "<p> The following pages are available under the about section.</p><ul><li><a href=\"/about/address/\">Address and Directions</a></li><li><a href=\"/about/community/\">Community and Participation</a></li><li><a href=\"/about/media/\">Temple Photos and Videos</a></li></ul>",
+    "historical": false,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/activities/",
+    "title": "Temple Activities",
+    "source": "https://sibc-tukwila.org/activities/",
+    "html": "<p> The following pages are available under the activities section.</p><ul><li><a href=\"/activities/dhamma_school/\">Dhamma School at SIBC</a></li><li><a href=\"/activities/meditation/\">Meditation at SIBC</a></li></ul>",
+    "historical": false,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/about/address/",
+    "title": "Address and Directions",
+    "source": "https://sibc-tukwila.org/about/address/",
+    "html": "<div><h3>Mailing Address</h3>Sarana International Buddhist Center\n15241 51st Ave S,\nTukwila, WA 98188\nUSA\n</div><div><h3>Address for GPS devices</h3><ul><li><span>House Number:</span> 15241</li><li><span>Street:</span> 51st Avenue S</li><li><span>City:</span> Tukwila</li><li><span>State:</span> Washington</li><li><span>Zip code:</span> 98188</li></ul></div><div><h2>Google Maps</h2><div> </div></div>",
+    "historical": false,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/archived/",
+    "title": "Archived Events",
+    "source": "https://sibc-tukwila.org/events/archived/",
+    "html": "<ul><li>[Sat, Oct 26, 2024] <a href=\"/events/2024/october/katina/\">Katina Cheewara Pooja (Robe Donation Ceremony) - 2024</a></li><li>[Fri, Jul 26, 2024] <a href=\"/events/2024/vas_religious_events/\">Vassana Weekly Religious Event Series - 2024</a></li><li>[Sat, Jul 20, 2024] <a href=\"/events/2024/july/vasaradhana/\">Vassana Aradhana Ceremony - 2024</a></li><li>[Sun, Jun 16, 2024] <a href=\"/events/2024/june/poson-seela-event/\">Poson Celebration - 2024</a></li><li>[Sat, May 18, 2024] <a href=\"/events/2024/may/vesak-seela-event/\">Vesak Celebration - 2024</a></li><li>[Sun, Apr 21, 2024] <a href=\"/events/2024/april/newyear/\">Sri Lankan New Year - 2024</a></li><li>[Mon, Jan 01, 2024] <a href=\"/events/2024/january/blessings/\">Blessings for the New Year - 2024</a></li><li>[Sat, Oct 28, 2023] <a href=\"/events/2023/october/katina/\">Katina Cheewara Pooja (Robe Donation Ceremony) - 2023</a></li><li>[Tue, Aug 01, 2023] <a href=\"/events/2023/vas_religious_events/\">Vassana Weekly Religious Event Series - 2023</a></li><li>[Sat, Jul 29, 2023] <a href=\"/events/2023/july/vasaradhana/\">Vassana Aradhana Ceremony - 2023</a></li><li>[Sun, Jun 04, 2023] <a href=\"/events/2023/june/poson-religious-event/\">Poson Religious Event - 2023</a></li><li>[Sat, Apr 22, 2023] <a href=\"/events/2023/april/new_year/\">Blessings for the Sri Lankan New Year - 2023</a></li><li>[Sat, Jan 28, 2023] <a href=\"/events/2023/january/venerable_lh_birthday/\">Venerable Pagnananda Birthday Blesssings - 2023</a></li><li>[Sun, Jan 01, 2023] <a href=\"/events/2023/january/blessings/\">Blessings for the New Year - 2023</a></li><li>[Sun, Oct 23, 2022] <a href=\"/events/2022/october/katina/\">Katina Cheewara Pooja (Robe Donation Ceremony) - 2022</a></li><li>[Wed, Aug 31, 2022] <a href=\"/events/2022/vas_religious_events/\">Vassana Weekly Religious Event Series - 2022</a></li><li>[Sat, Jul 16, 2022] <a href=\"/events/2022/july/vasaradhana/\">Vassana Aradhana Ceremony - 2022</a></li><li>[Sat, Jun 18, 2022] <a href=\"/events/2022/june/poson-religious-event/\">Poson Religious Event - 2022</a></li><li>[Sun, Aug 01, 2021] <a href=\"/events/2021/vas_religious_events/\">Vassana Weekly Religious Event Series - 2021</a></li><li>[Sat, Jul 24, 2021] <a href=\"/events/2021/july/vasaradhana/\">Vassana Aradhana Ceremony - 2021</a></li><li>[Sat, Jun 26, 2021] <a href=\"/events/2021/june/poson-religious-event/\">Poson Religious Event - 2021</a></li><li>[Sat, May 29, 2021] <a href=\"/events/2021/may/vesak-seela-event/\">Vesak Seela Event - 2021</a></li><li>[Sat, Apr 24, 2021] <a href=\"/events/2021/april/new_year/\">Blessings for the Sri Lankan New Year - 2021</a></li><li>[Fri, Jan 01, 2021] <a href=\"/events/2021/january/blessings/\">Blessings for the New Year - 2021</a></li><li>[Sat, Oct 10, 2020] <a href=\"/events/2020/october/katina_fundraiser/\">Katina Cheewara Pooja (Robe Donation Ceremony) Fundraiser - 2020</a></li><li>[Sat, Aug 01, 2020] <a href=\"/events/2020/vas_bodhipuja/\">Vassana Weekly Bodhi Pooja Series - 2020</a></li><li>[Sat, Jul 11, 2020] <a href=\"/events/2020/july/vasaradhana/\">Vassana Aradhana Ceremony - 2020</a></li><li>[Sat, Feb 01, 2020] <a href=\"/events/2020/february/srilankan_day/\">Sri Lankan Day - 2020</a></li><li>[Wed, Jan 01, 2020] <a href=\"/events/2020/january/blessings/\">Blessings for the New Year - 2020</a></li><li>[Sun, Oct 20, 2019] <a href=\"/events/2019/october/katina/\">Katina Cheewara Pooja (Robe Donation Ceremony) - 2019</a></li><li>[Sat, Sep 07, 2019] <a href=\"/events/2019/august/special-meditation/\">Buddha Pooja and Meditation Session - 2019</a></li><li>[Sat, Aug 31, 2019] <a href=\"/events/2019/august/blessings-for-school/\">Buddha Pooja and Blessings for School - 2019</a></li><li>[Sat, Aug 17, 2019] <a href=\"/events/2019/august/shramadaana/\">Shrama Daana - 2019</a></li><li>[Thu, Aug 01, 2019] <a href=\"/events/2019/vas_bodhipuja/\">Vassana Weekly Bodhi Pooja Series - 2019</a></li><li>[Sat, Jul 20, 2019] <a href=\"/events/2019/july/vasaradhana/\">Vassana Aradhana Ceremony - 2019</a></li><li>[Sat, Jun 15, 2019] <a href=\"/events/2019/june/poson/\">Poson - 2019</a></li><li>[Sat, May 18, 2019] <a href=\"/events/2019/may/vesak/\">Vesak - 2019</a></li><li>[Sat, Apr 20, 2019] <a href=\"/events/2019/april/newyear/\">Sri Lankan New Year - 2019</a></li><li>[Sun, Mar 17, 2019] <a href=\"/events/2019/march/foodfestival/\">Sri Lankan Food Festival - 2019</a></li><li>[Sat, Feb 02, 2019] <a href=\"/events/2019/february/felicitation/\">Sangha Nayaka Felicitation Ceremony - 2019</a></li><li>[Tue, Jan 01, 2019] <a href=\"/events/2019/january/blessings/\">Blessings for the New Year - 2019</a></li><li>[Sat, Oct 27, 2018] <a href=\"/events/2018/october/katina_fundraiser/\">Katina Cheewara Pooja (Robe Donation Ceremony) Fundraiser - 2018</a></li><li>[Sat, Oct 27, 2018] <a href=\"/events/2018/october/katina_dana/\">Katina Dana - 2018</a></li><li>[Fri, Oct 26, 2018] <a href=\"/events/2018/october/katina/\">Katina Cheewara Pooja (Robe Donation Ceremony) - 2018</a></li><li>[Fri, Oct 26, 2018] <a href=\"/events/2018/october/katina_pirith/\">Katina Pirith Day - 2018</a></li><li>[Fri, Oct 05, 2018] <a href=\"/events/2018/october/special_dhamma_desana/\">Special Dhamma Desana - 2018 October</a></li><li>[Sat, Sep 01, 2018] <a href=\"/events/2018/blessings_for_school/\">Bodhipuja and Blessings for the new school year- 2018</a></li><li>[Wed, Aug 01, 2018] <a href=\"/events/2018/vas_bodhipuja/\">Vassana Weekly Bodhipuja Series - 2018</a></li><li>[Wed, Aug 01, 2018] <a href=\"/events/2018/august/special_dhamma_desana/\">Special Dhamma Desana - 2018 August</a></li><li>[Sat, Jul 28, 2018] <a href=\"/events/2018/vasaradhana/\">Vassana Aradhana Ceremony - 2018</a></li><li>[Sat, Apr 15, 2017] <a href=\"/events/2017/avurudu/\">Sinhala / Tamil New Year Celebration - 2017</a></li></ul>",
+    "historical": false,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2017/avurudu/",
+    "title": "Sinhala / Tamil New Year Celebration - 2017",
+    "source": "https://sibc-tukwila.org/events/2017/avurudu/",
+    "html": "<div><h2>Sinhala / Tamil New Year Celebration - 2017</h2></div><div><h4>This is a past event. This event took place on April 15, 2017</h4></div><div><h2>What is the Sinhala / Tamil New Year Celebration?</h2><p>Sinhala and Tamil New Year, generally known as <strong>Aluth Avurudda</strong> in Sri Lanka, is an event celebrated by Sri Lankans. This event is celebrated every year in April. <a href=\"https://en.wikipedia.org/wiki/Sinhalese_New_Year\">Wikipedia</a> has an excellent introduction to this traditional event.</p><h2>New Year Celebration at SIBC</h2><p>SIBC is conducting a Buddha pooja and Seth Pirith chanting and an offering of blessings for the Sinhala and Tamil New year. The ceremony will be held on <strong>Saturday, 15-Apr 2017</strong> starting at 4.45PM at the SIBC temple premises in Tukwila, Washington. Events will finish by 7pm.</p><h3>5.00PM : Buddha Pooja</h3><p>Resident monks will also conduct a Buddha pooja and we have an opportunity offer our gratitude to Buddha, Dhamma and Sangha. Children will have the opportunity offer traditional greetings with Betel leaves to the monks, parents and elders and get blessings for the new year.</p><h3>6.00PM : <em>Pirith</em> chanting</h3><p><strong>Pirith</strong> is the Sinhala word for the Pali word “paritta”, which means protection. Buddhists believe that recitation and contemplation of the words of the Buddha protects them from bad influences and promotes peace of mind and love. Seth pirith is a special form of pirith chanting conducted in Sri Lanka to offer blessings.</p><h3>6.45PM : Sri Lankan traditional kiribath and snack foods</h3><p>These religious events will be followed by a traditional Sri Lankan pot luck comprising of Kiribath (Milk rice), and other snacks. Please sign up to bring food items to share with your friends. (Web link will be sent soon)</p><h2>Notes</h2><h3>Attire / What to bring</h3><p>You may dress in traditional Sri Lankan clothes or simply what’s comfortable. Please note that it’s customary to wear light clothes when visiting a Buddhist temple. Please bring flowers if you wish to participate in the Buddha pooja. You may bring a few Betel leaves if you would like your children to take part in traditional greeting.</p><h3>Can we invite our friends?</h3><p>All SIBC events, including Sinhala and Tamil New year celebrations are open to everyone regardless of race or religion. Reserve the date and tell your friends. We look forward to seeing you there.</p></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/donations/campaigns/bathroom_project/",
+    "title": "Special Campaign - SIBC Bathroom Project",
+    "source": "https://sibc-tukwila.org/donations/campaigns/bathroom_project/",
+    "html": "<p>SIBC is planning to create an additional bathroom for the benefit of the monks as well as the visting public. This webpage highlights the details of this project.</p><p>To pledege a donation, please use the <a href=\"/donations/campaigns/bathroom_project/#donation_form\">donation form below</a> or visit it directly <a href=\"https://forms.gle/bf7mZdceWSSwHvzR6\">here</a>.</p><h2>Q &amp; A</h2><h3>Is this part of the larger kitchen and residence expansion project?</h3><p>Currently the garage has been converted into a Monk’s residence with the addition of 3 bedrooms. The kitchen and residence expansion project is the long term plan to replace the garage with a 2-story building. Longer term plans is in concept stage see initial sketches below. The project would take several years to plan and complete.</p><p>As part of the longer-term plan there are plans to build monk’s bedrooms and bathrooms in the ground floor. The kitchen and dining area would be located in the upper floor which would be on the same level as the Dhamma sala. The bathroom being constructed now, would be included in the longer-term plan and will reduce the need build additional bathrooms in ground floor</p><h3>What’s included in the bathroom remodeling plan?</h3><p>Removal of the temporary toilet in the basement including tearing down and removal of debris (basement will be used for storage only). Construction of enclosure walls and creating the bathroom 7.4 x 7.8 feet Heating, Plumbing and electrical wiring and fixing bathroom fittings (shower has already been donated) Digging and removal of dirt.</p><h3>Will there be additional expenses we have to incur in sewer connections?</h3><p>None - the remodeled bathroom will use the existing sewer connection.</p><h3>What are the dimensions?</h3><p>Bathroom is 7ft 6 inches x 7ft x 8 inches. See images below for the details</p><h3>Are permits required?</h3><p>No permits are required since this is a remodeling of the existing toilet in the basement. This was consulted with the architect of the project.</p><h3>How can members donate money and items for this project?</h3><p>The bathtub and shower has already been donated by devotees The contractors quotation includes the sink, toilet and all other bathroom fittings.</p><h3>What is the cost?</h3><p>$25,000 to be paid to the contractor on completion.</p><h3>When can the work begin? how long will the project take</h3><p>Contract can begin with approval from Venerable Loku Hamuduruwo with the agreement from Dayaka sabha. Project is expected to take 3 weeks.</p><h3>What will happen to the staircase that is being used as a shortcut to take items from the residence to Dhamma sala?</h3><p>The bathroom is being constructed in the landing area of the stairs - stairs will not be accessible in the current location and needs to be removed Contractors will attach the staircase next to the garage (behind the first parking stall)</p><h3>What about the front entrance to the residence and adjoining building?</h3><p>Stairs to the residence as well as the basement will remain. Front foyer will be enclosed with a French-door so that the bathroom door and the stairs to the residence will remain covered.</p><h2>Images</h2><h3>Overall Plan for Dormatory</h3><p></p><h3>Placement of the bathroom - Front view</h3><p></p><h3>Placement of the bathroom - Back view</h3><p></p><h2><a></a>Signup for a Donation</h2><p>If you have difficulty seeing this form, please access it <a href=\"https://forms.gle/bf7mZdceWSSwHvzR6\">directly</a>. </p>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": [
+      {
+        "url": "https://sibc-tukwila.org/images/other/temple_bathroom_image1_optimized.png",
+        "alt": "Overall plan for the dormatory",
+        "local": "/static/images/temple_bathroom_image1_optimized.webp"
+      },
+      {
+        "url": "https://sibc-tukwila.org/images/other/temple_bathroom_image2_optimized.png",
+        "alt": "Placement 1",
+        "local": "/static/images/temple_bathroom_image2_optimized.webp"
+      },
+      {
+        "url": "https://sibc-tukwila.org/images/other/temple_bathroom_image3_optimized.png",
+        "alt": "Placement 2",
+        "local": "/static/images/temple_bathroom_image3_optimized.webp"
+      }
+    ]
+  },
+  {
+    "path": "/events/2018/blessings_for_school/",
+    "title": "Bodhipuja and Blessings for the new school year- 2018",
+    "source": "https://sibc-tukwila.org/events/2018/blessings_for_school/",
+    "html": "<div><h2>Bodhipuja and Blessings for the new school year- 2018</h2></div><div><h4>This is a past event. This event took place on September 01, 2018</h4></div><div><p>A Bodhi pooja and a seth pirith chanting will be held on Saturday, September 1st commencing at 5.00 PM. This event combines the blessing for our children for the start on new school year and Bodhi pooja for Vassana season.</p><p>The program is as follows</p><ul><li>4.45PM - Arrival and Networking</li><li>5.00PM - Pansil and Bodhi pooja</li><li>6.00PM - Seth pirith chanting</li><li>6.30PM - Light dinner and Refreshments</li><li>7.15PM - program concludes</li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2019/august/blessings-for-school/",
+    "title": "Buddha Pooja and Blessings for School - 2019",
+    "source": "https://sibc-tukwila.org/events/2019/august/blessings-for-school/",
+    "html": "<div><h2>Buddha Pooja and Blessings for School - 2019</h2></div><div><h4>This is a past event. This event took place on August 31, 2019</h4></div><div><h2>Buddha Pooja and Blessings for School - 2019</h2><p>Buddha pooja is conducted to offer obeisance to Buddhas including the present Goutama Buddha. This ancient devotional practice increases our affinity with infinite virtues of Buddhas and deepens and our commitment on the Path.</p><p>On completion of the Buddha pooja, Resident monks will also chant Seth pirith and bless the children for the up-coming school year. On conclusion of Seth pirith, you should encourage your children to get a <strong>pirith noola</strong>, a blessed string, from the resident monks. A <strong>pirith noola</strong>, or a Buddhist bracelet, it is a visual reminder that you’ve taken a vow to follow the five percepts and to follow the noble eightfold path. A pirith noola is also a reminder that you have received a blessing to be strong and to stay focused on good behavior.</p><p>Please bring your children for this pooja and encourage them to get a pirith noola.</p><p>The program is as follows</p><ul><li>Arrival, networking - 5.00 PM</li><li>Commencement of Buddha pooja and Seth pirith- 5.30PM</li><li>Conclusion of events - 7.30PM</li></ul><p>This pooja is sponsored by Dinesh and Ganga Uduwana. They cordially invite your presence at the pooja and to join your Dhamma friends for refreshments afterwards.</p></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/calendar/",
+    "title": "Events Calender",
+    "source": "https://sibc-tukwila.org/events/calendar/",
+    "html": "<div> The temple master calendar shows events taking place in the temple for all communities.</div><div><ul><li><a href=\"https://calendar.google.com/calendar/embed?src=4j5qf0tpnggubvq6s8mpgfhcl4%40group.calendar.google.com&amp;ctz=America%2FLos_Angeles\"> Open the calendar in a separate window</a></li><li><a href=\"https://calendar.google.com/calendar/ical/4j5qf0tpnggubvq6s8mpgfhcl4%40group.calendar.google.com/public/basic.ics\">Add this calendar to your Calendar (iCal format)</a></li></ul></div><div> </div>",
+    "historical": false,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/donations/campaigns/",
+    "title": "Campaigns in SIBC",
+    "source": "https://sibc-tukwila.org/donations/campaigns/",
+    "html": "<p>SIBC performs special campaings for specific projects that need additional donations.</p><h2>Active Campaigns for 2024</h2><ul><li><a href=\"/donations/campaigns/wall_project/\">SIBC Wall Project</a></li></ul><h2>Past Campaigns / Capital Projects</h2><ul><li><a href=\"/donations/campaigns/bathroom_project/\">SIBC Bathroom Project</a></li></ul>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2023/january/venerable_lh_birthday/",
+    "title": "Venerable Pagnananda Birthday Blesssings - 2023",
+    "source": "https://sibc-tukwila.org/events/2023/january/venerable_lh_birthday/",
+    "html": "<div><h2>Venerable Pagnananda Birthday Blesssings - 2023</h2></div><div><h4>This is a past event. This event took place on January 28, 2023</h4></div><div><p>Venerable Polwatte Pagnananda, the chief incumbent of SIBC Tukwila and the Chief Sangha Nayaka for Southern United States. celebrates his 70th birthday on January 26th 2023. In recognition of his dhamma service across the world during the past 50+ years, we want to invoke blessings for good health and many more years of service.</p><p><strong>Blessings and ceremony will be held on Saturday, January 28th 2023 from 10:00AM at the SIBC premises in Tukwila</strong></p><p>On conclusion of the Buddha pooja and Dana, children of Dhamma school as well as devotees and friends of SIBC will ceremoniously commemorate Ven. Pagnananda and recount his years of service to the community.</p><p>We cordially invite you to participate and to share your appreciation in person.</p><p>The program is as follows</p><ul><li>9:45AM - arrival and networking</li><li>10:00AM - Observance of Pansil and commencement</li><li>11:00AM - Buddha pooja</li><li>11:30AM - Cutting of birthday cake and offering Dana to monks</li><li>12:00 - Community potluck lunch</li><li>1:00PM - Felicitation ceremony commences</li><li>2:30PM - Close of ceremony and offering of tea and refreshments</li></ul><p>As a mark of our appreciation, we would like to offer a special pirikara donation to Ven. Pagnananda. You have the opportunity to sign-up for a pirikara donation by using the form below.</p><p><a href=\"https://forms.gle/yGMFYsFaxB8Ku5iV7\">Pirikara Signup Form</a></p><p>You can also volunteer to bring Dana items by registering using the form below</p></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/about/community/",
+    "title": "How to Participate in SIBC Activities",
+    "source": "https://sibc-tukwila.org/about/community/",
+    "html": "<p>Anyone can participate in any activity at SIBC. Following are some of the yearly events at the temple.</p><ul><li>Cambodian Day</li><li>Sri Lankan Day</li><li>Dhamma School</li><li>Dhamma Talk and Discussions</li><li>Meditation</li><li>Sinhala &amp; Tamil New Year</li><li>Seth Pirith</li><li>Chanting &amp; Counselling</li></ul><h2>Become a member</h2><p>Becoming a member means providing your contact details to the temple. You can be informed about temple events via the email lists as well. Please signup using the <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdvUUzV9-poZPMMqcGOOr9KxK6InikSdGN3rnD8VdREFLs0kg/viewform\">member signup form</a>.</p><p><strong>Information collected in this form are confidential and only visible to the monks</strong>.</p>",
+    "historical": false,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/contact/",
+    "title": "Contact SIBC",
+    "source": "https://sibc-tukwila.org/contact/",
+    "html": "<h2>Email</h2><p>info AT sibc-tukwila.org</p><h2>Regular Mail</h2><p>The mailing address for the temple is</p><div><div>Sarana International Buddhist Center\n15241 51st Ave S,\nTukwila, WA 98188\nUSA\n</div></div>",
+    "historical": false,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/activities/dhamma_school/",
+    "title": "Dhamma School at SIBC",
+    "source": "https://sibc-tukwila.org/activities/dhamma_school/",
+    "html": "<p>The Dhamma school is an avenue for children to learn about Dhamma and the way of life according to Buddhas way. The Dhamma school is held every third Sunday of the month, from 2.30pm to 6.30pm. Many children attend with traditional dresses although this is not a requirement.</p>",
+    "historical": false,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/donations/",
+    "title": "Donations",
+    "source": "https://sibc-tukwila.org/donations/",
+    "html": "<div><p>SIBC is a nonprofit organization that depends on voluntary help and donations from members and supporters. A little can change a lot, and all of your donations matter. Please use any one of the following methods to set up your donation.</p></div><div><h3>Monetary Donations to SIBC via Zelle</h3><p> Follow the details in <a href=\"https://docs.google.com/document/d/1y-wpOr5Cf9kGJWh5CpgiBCCEsmFkpGGfKwekt4adF1E/edit?usp=sharing\">this document</a> to set up a recurring donation.</p></div><div><h3>Monetary Donations to SIBC via Paypal (onetime or recurrent)</h3><div> <a href=\"https://www.paypal.me/SIBC\"> </a></div></div><div><h3>Monetary Donations to SIBC via a check</h3><div> Use Sarana International Buddhist Center or SIBC in the pay to the order of line. If you are sending the checks via regular mail, mail them toSarana International Buddhist Center\n15241 51st Ave S,\nTukwila, WA 98188\nUSA\n</div></div><div><h3>Pledged Monetary Donations</h3><div> A pledged donations is a committed donation by a devotee to make a recurring monthly donation. The recurring expenses of the temple are listed in the <a href=\"/donations/expenses/\">Temple Expenses page</a>. To make a new pledge, please use one of the above methods to start a a monthly contribution.</div><div> Already pledged donations are listed in <a href=\"/donations/pledged_donations/\">pledged donations page</a>.</div></div><div><h3>Monthly Food Donations (Dana)</h3><div> <a href=\"/donations/dana_schedule/\">The Dana schedule page</a></div></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": [
+      {
+        "url": "https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "path": "/events/",
+    "title": "Upcoming Events in SIBC",
+    "source": "https://sibc-tukwila.org/events/",
+    "html": "<p> The following pages are available under the events section.</p><ul><li><a href=\"/events/archived/\">Archived Events</a></li><li><a href=\"/events/calendar/\">Events Calender</a></li><li><a href=\"/events/upcoming/\">Upcoming Events</a></li></ul>",
+    "historical": false,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2019/february/felicitation/",
+    "title": "Sangha Nayaka Felicitation Ceremony - 2019",
+    "source": "https://sibc-tukwila.org/events/2019/february/felicitation/",
+    "html": "<div><h2>Sangha Nayaka Felicitation Ceremony - 2019</h2></div><div><h4>This is a past event. This event took place on February 02, 2019</h4></div><div><p>Venerable Polwatte Pagnananda, the chief incumbent of SIBC Tukwila, has been appointed as the chief Sangha Nayaka for South America in recognition of his Dhamma service in Americas during the past 20 years. Devotees and members of SIBC are organizing a felicitation ceremony to recognize this achievement. We also want to celebrate Venerable Pagnananda’s birthday which falls on January 26th. We want to invoke blessings for good health and many more years of service.</p><p>The program of this event is as follows</p><ul><li>9.45AM arrival and networking</li><li>10.00AM Aashirwadha pooja by Venerable Chadrasiri Maha Nayaka Thero (Chief Abbot of the Oregon Buddhist Vihara)</li><li>11.00AM Buddha pooja</li><li>11.30AM Cutting of birthday cake and offering Dana to monks</li><li>12.00PM Community lunch</li><li>1:00PM Community procession to felicitate Venerable Pagnanda with traditional drummers</li><li>1.30PM Felicitation ceremony commences</li><li>3.30PM close of ceremony and offering of tea and refreshments</li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/news/2020/kasawatha/",
+    "title": "Kasawatha TV Program",
+    "source": "https://sibc-tukwila.org/news/2020/kasawatha/",
+    "html": "<h2>December 29, 2020</h2><p>Venerable Polwatte Pagnananda, the chief incumbent of SIBC Tukwila, was featured in the Sri Lankan TV program <em>Kasawatha</em>(කසාවත). This is a documentary that follows the life of Venerable Polwatte Pagnananda, from his childhood to the present day.</p><h2>Program in Youtube</h2><div> </div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2024/october/katina/",
+    "title": "Katina Cheewara Pooja (Robe Donation Ceremony) - 2024",
+    "source": "https://sibc-tukwila.org/events/2024/october/katina/",
+    "html": "<div><h2>Katina Cheewara Pooja (Robe Donation Ceremony) - 2024</h2></div><div><h4>This is a past event. This event took place on October 26, 2024</h4></div><div><p>Katina event is the culmination of Vassana programs - during Katina, devotees present the Katina Cheewara to a resident monk as a gesture of their gratitude. We are conducting the Katina event with a pirith chanting and a Katina Dana.</p><p>Katina is also the main fund-raising event for SIBC. We want to channel our efforts this year to construct the outer wall of temple. If you have not donated already, you can help by committing to donate a cheewara at the Katina event. Please sign-up for a donation using <a href=\"https://tinyurl.com/SIBCwallDonate\">this form</a>.</p><p>Here’s an overview of events.</p><h2>Conveyance of Katina Cheewara and Maha Pirith chanting - Saturday October 26th</h2><p>Our events will begin at 5:00pm pm Saturday with the conveyance of the Cheewara to SIBC premises. Maha pirith chanting will commence at the SIBC premises in Tukwila in the especially constructed Pirith mandapa. A brief outline of the program is as follows</p><ul><li>5:00PM - Arrival and networking</li><li>6:00PM - Community Dinner</li><li>7:30PM - Commencement of Maha Pirith chanting</li><li>9:30PM - Conclusion of event</li></ul><h2>Katina pooja - Sunday October 27th</h2><p>Katina pooja program will start at 10:00AM on Sunday. A brief outline of the program is as follows</p><ul><li>9:45AM - Arrival and networking</li><li>10:00AM - Preparation of Buddha pooja</li><li>10:45AM - Buddha pooja and Katina Dana</li><li>12:00PM - Community lunch (sign up below)</li><li>1:00PM - Katina Perahara &amp; presentation of Katina cheewara (Kepa ceremony)</li><li>2:00PM - English Dhamma Discourse &amp; Meditation by Bhante Saranapala</li><li>3:00PM - Event adjourns</li></ul><p>You can contribute Dana items for the Katina Dana, using <a href=\"https://www.evite.com/signup-sheet/4806293928804352\">this link</a>.</p></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2018/october/katina/",
+    "title": "Katina Cheewara Pooja (Robe Donation Ceremony) - 2018",
+    "source": "https://sibc-tukwila.org/events/2018/october/katina/",
+    "html": "<div><h2>Katina Cheewara Pooja (Robe Donation Ceremony) - 2018</h2></div><div><h4>This is a past event. This event took place on October 26, 2018</h4></div><div><p>Katina event is the culmination of Vassana programs - during Katina, devotees present the Katina Cheewara to a resident monk as a gesture of their gratitude. <strong>For the year 2018, we are conducting the Katina ceremony at a grand scale with the participation of 13 monks, a first for our community.</strong> We will conduct a Maha pirith session at SIBC temple on 26-Oct (Friday) within a specially constructed <a href=\"http://serendib.btoptions.lk/article.php?id=1470&amp;issue=57\">Pirith Mandapa (Sacred space)</a>. This will be followed by the Katina Dana and the Perahera by children on 27-Oct (Saturday).</p><p>Please mark these dates in your calendar and tell your friends. You don’t want to miss this great ceremony conducted according to Sri Lankan cultural tradition.</p><p>We are conducting a fundraiser along with the Katina ceremony. The details can be found in the <a href=\"/events/2018/october/katina_fundraiser/\">Fundraiser</a> page.</p><p>Following are the two major events</p><h2>Maha Pirith chanting - Fri 26 October</h2><p>Maha pirith chanting on Friday evening at the SIBC premises in Tukwila in the especially constructed Pirith mandapa. As mentioned earlier, this year, we are fortunate to have 13 monks join the Maha pirith chanting. Pirith chanting will be followed by Dinner and snacks. Please plan to be at the temple by 6PM. We will finish activities by mid-night.</p><p>A brief outline of the program is as follows</p><ul><li>5.30PM - Arrival and networking</li><li>6PM ~ 7PM - English Dhamma sermon by Ven. Aparekke Punnasiri</li><li>7PM ~ 8PM - Community dinner</li><li>8PM - Gilanpasa and Inviting Monks to Maha Pirith chanting</li><li>8.30PM ~ 12AM - Maha pirith chanting</li></ul><p>The food contributions on the Pirith day are listed in the <a href=\"/events/2018/october/katina_pirith/\">Pirith day details page</a>.</p><h2>Katina pooja - Sat 27 October</h2><p>We will conduct the Katina program on Saturday 27-Nov. Program will start at 9.30AM with observance of Pan sil. Buddha pooja and offering of Dana to resident monks will commence at 11AM. Dana and community lunch will follow the Buddha pooja. Katina program will close at 2.30PM.</p><p>A brief outline of the program is as follows</p><ul><li>10AM - Arrival and networking</li><li>10.30AM - Pansil and blessings</li><li>11AM ~ 12PM - Buddha pooja Katina Dana to resident monks</li><li>12PM ~ 1PM - community lunch</li><li>1PM ~ 1.30PM - Katina Perahara organized by SIBC Dhamma school</li><li>2PM ~ 3PM - English Dhamma sermon on Katina by Ven. Bowala Rakhkhita</li></ul><h2>Some pictures from the Event</h2></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": [
+      {
+        "url": "https://lh3.googleusercontent.com/9Ikc-nRYRd-bs0fJEcwYNtTYPQQeFmTgAOVEuCaFf8RbI4yWh3QputPmNx2dvuyvIG9C2KP5TAJH8R8Y1sBAdI23m92wWeeSUlF1B3qMTtvzqLhpgBHGl02JgRcX-dhy6X87GraQUA=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/0c2PJbQXOnr_kj6EJRMfaNPkMCq3w3TQ58OASyPk7XJZgHNasz2ir_SIsXtrd575S0fninXxJrxW2C-OIlrUfXcTb9A75ua7iUteRModXLb8UH1GraFFbTWbFhU3kwkumY-nFwtH7Q=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/E-ufDKN47rAfNtH2oEOxSj-j5TM3KB5oAu9GbHcpPcBq-f7fnbfEeO_npR2O9DMb9FhLJXLxPIKB3E8k8U5JII_Cekc-OMAQC5wV0MG8FpkLiJV2SpjSOXyvwKnPzI2yqw1itLbMDQ=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/yG6woBbDkX3_U4gc_8r2cQxqzJQkuSl1o-Coa300UfvRl3wJpD_a_bkb4iCoZxgT2cO4FJFGFqW8gOzzakFD0gelq7ADWhjUrYTxFHJcE3osc3Z7VonOXwPMuDw7PKJ63DnC60CGvQ=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/Hrb16mqTJsSSL-1R7V1VT4L0Oky3sYUpVe8k4qRat3CPAe9W1VNrj9cmS1xBYzecC2-a20eTNtD-3DlQbIndCPMwdmHPtQASMGhibRoIIIQhCoj99qIpc_QtwummXZgsEQZBE4bpfg=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/_HSQCT3rwylOSDTY4V1BkpQVreoKcDKmGxJvrDRF0rPmpCCU5BdBlc6m5qryztZ8A29xhRYbB-Q0z9-zgOznKdvXtQN5A1LmPati9asqJI9SBKYws9NntF8z3rr1pzhFoTx-k2G6FA=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/M8h_Wjpp7XqgRtdmlpDWgymKtuwTZugTIQFJRU7W4oYrdoCg4D9s5rsDhPAl-4kXkLe6tW8yTYBhEAP__9osv55iMdZI49yrEoc_LB4QOOtEJHSXY--KnMvCRGurpo-iZFuZ4sE5aA=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/DcIlAwc74UD3IxEdIW0MqcAAsC7kRWZLB_CDR2iqRjyxhdsIfmso2kmGahzeNyhoWx3fve3-yBryxT6RkQ7cyOL7_QESGbUPL77X_R8caY2A1pQVG6qDuw6oJHQyhW6can0SrZWGkg=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/jPxSAuzirBrgX3kDiK8Be03CIgKxQ_LeD6hGnzEToBRnk6q9LBl84KMcysriGQDtr9rXk5M8qmWVtPn4LOFIGuWrA4op3qpYs19RLZrC6jnlwCDD4SgDO3ib12WyiMnktqKnTw44jg=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/mnv0h07m3Ac90McvkKaYHogANFkvbP40JKPoEIteEwflA8ttT5ENIM_DLQc4NKWsqEZEHElHO368Yu3xSsyRUqjIYJnd9h2qveqvSMz00fLGzkeNLzr_-cdssD4PdVHqBAd86fIFUQ=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/cAoUrmOU91NNq4fkAPEJQEkKnYiGWEB86dCk9VDwcPB4f2oD9G6v2Vleo1xWuz7ZSv3KDqsog7fGYCuiDzKz3emKNgSSwmVhrrFwm3LLPYl4mEyA1QjFbj-l1lPihHUD52T4cknM-g=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/ckAYPj9MUkGaVtR7ZfFHP3DperOTjSBEbHLuAvHUNxmrPLCalHs2C4pvhJzPvxatSFh26SPn2tXvkWqZxsVhRPxoGIXqI8JYoEkXziabfH0N_4JjDhhB5reda1y5b49enz6C9I_w-Q=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/OVuOyhQ2BiTK0a05CRLAECMD9Ylei2qndV9RPGSGeycIVY80EA2CfTobpzUqQlHjN4Ye4IAQgg6ylnLrwzZOPb_62Q50aruQIs5Uc3tkax4hSAfSKIs3E6fURrIMW7pH52qPv7-Wtg=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/yE7nXpJZZps-Lft0X2Qj5v8tTTRJlJEhERhg3zaxAzWT0PouVJLG1TYB-lDwXtNdA9rkuc1rjKqEYv9cCevtfRT7-8x1pAjuHiFVaD90vADYBK3e49dRD9bpYzzkIzXGvASFZnyT1A=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/Fs9Lkrb0vQZ1lc8gu117_XYKNQeMfD5W-dQKhX4UK-YCml85NKg2ZXD2uhwpaSjKEZbMaiD2To_NtnTlv8UbyX75YoKH7XkURNLxPJV7WBxmXgHCzSk5cFBzGCNZ1hIdgV3CHJeMQQ=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/-CoZlo0Ubh2hBIjJbUpAwyxHbL5kvwdOT9Qu8aQ005TQmEWmU6-fCuKARPSCW-L-4mWz6sSQkHobkwn8wrmtYFFJ5JnNuKXeFc2jOfGmoLrr-ygLXrZvjr6pfT0BNa0RbzZLGJ2SlQ=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/mSMAiHTh5PwrMp2tHI2ymtrSDaY6neun6s13VXcZJoW9esYs-R3wIB4YyWrqznls8ZsJDzEIpH9nxYxK_NAz53XHJw9UPj3UbJC8WmrmFybdobtl7DU1v7GdjrNjRoPoEzC-BCgI4A=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/AvONh2oHCoz6D_fJ-jVf-hsV4XDmyGL9bUI1kuVl3_LaFC7wFEW5Dv_HnWolRhxm8fz7WfRlwbp0GKpWFy2G9dAte6NHYnojY9Uo4OxdtQbqftXRCPayWfm86ILeetPFFtDXjxJgig=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/7d0vFLciVu6X_AfutudiJD5Gi8dCkanFb5tQQto-H3XQ44IPJ8zWLKGHFjnurU_NPozOnxN7OmQ3l6bYgxR3ZZ8eSowIuxd9L10YkKPmfWPW8eaDAeoRgObhwLLjIEoMofivGp2gWA=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/hID4N6EGqHbO43w5LQoEEB7m6WEnCDbSqaUqkUy01ocuV_N-JNb3CSbN7TEKLr33FRLA7eN-X1DcdWnIew5dqBFTk523oSIQWDaIVN6iu74fW2bhpHUWFG39W-BFWDQr46YfwC_b0g=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/zXysFP1w6D7mEYtm5nTNaeib721fCkxK7JUR_Og3qcP56P2uYXe2c9PaY0cGjLns9KOvhDUz6OfB9UlxYOUeWg9rblri_DAewBQAy0TfIcWYsR1pu3ikuGz0xcLhQzg4sb3B1_BHcA=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/NEi9Ern2qox8NJ0LLM0cRECpCdfgbX6jDSm0tNp_gMv-SqwQdHKcyPnyvJfsEV98JA0zF43IS6owceW69IeZVkfy5-NvdZYQXuf5yqwQKXkDDwvN1Mz5ZBpgyjBFBnoAq842qlM2dw=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/U2TX5lUCWm4ADr_gReGo8TqV7mra3v3XAORkctRnEACBVRESv19OlFtv3CthDsZb1530wooYA_MBMlJBZT2yQs6HEK0qcL8HaZyFCzOqrydA_pon3bp0JGfYX-4sKpEGiAcFDlLYrg=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/wWkWHoQ2eMKPEsvq7jq5W_CN68ppFLStgrT8HlYiONBcNJ2hJluO_ZamseLMpnS5zo3C6TrTuuskrMNMEFTAvscI4VnBSxjwzfSI-io_MK6L1dTkeQW3f17llCP1ca-IvYusgPv0UA=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/w8_vuK7ZqVJ11lN581fsH6A-PmXAiPt_VIWCeLzo8PISitheZHWweartu4ti_MUYjK5EUuqXOj6d8D06AW44nbSE-rR2NBDfky3IVrgtgbNOo1FUJt-ITNkV5vtlKaA5Ffoa-4vQDg=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/2j6qUYL4PRagRI3Vq1QWI5trvB3sf3906tZNVgCCIW1T1grB3LDQot_5PUPeyVVzxjkQ_FBmnLTnDaxxJONRr5HOFTi5a0hdTcwO1qaPvCTOW3fT4fkDBebMiGjVePAxXuTRdcwaiw=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/rZEYWYUAFGQqxVag4IgGsEa40ofPiAdJWf3siQ4diAbTYvkhvqjMUTCjB0tPgDZ1Fo_OCDF279yWXB4lNznuSsdV99ZL6CR6hlWxfp3rqH_ZGUeylLmKc_6a_IcBYaYVGxiNYKHO3g=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/cfzHmSIvahDM-ugj4CSy7kRHXuOeRhP_uFR4C5ZDH2fOlfWEofQ1wr6rUAqpHCSOFYPnsDoDQ8qEyFCSwWZf0Cgs1TjnQiXDZp5wcSIfqwj98gpiHFR1lmeUK81hcYaaBHO69QvMKQ=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/AU7hYCDsiUoesIJfDnQlpz6p6oGqIv2oXKTAJRxlGHizutZ5_U0o0mO6CKRNlTVGE95EwWsYqxvTf94TkOkGJxMLDXi9n6qdJNBR7vob-OA4l65DK-xzmN5BReSTVh30Y5tskF-EiQ=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/aNGEefXYdeVf26MjF5OLSczYyf8Z6cnQ4m4fLKMZpsqH-O0NFeyGjNqF2vgX-f_bcN7VNDUO25RjreFl3sXUHY9Ug2mHW74DHRrpF4tVaUafisvX6sH1OcHrORAZRmLO9IMUxDQz0w=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/mvjDxNHP8MCDfO6NAlt2FZo1KYPo9ICHuEQyaxQkCnBWZFlb9TQqUM3zSjZIflcNQ0q2tpp0GPkHU5EUAn6zlkqE0JOxBdC6zZT3NUx1Th39NqbOTxLZV8hoMsXlFaI6QQHOWBHLzg=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/c3qvDF63wt476GQPPwQr-mCDNxNj4ETDd5sJ8saHdCcQCeIl-xSxL6bmIUCMYVNEwhOxTD1Tlwp3IlBz6lniT2fWOyhfHDzpHCqKs8E5hlUXIf0PhFFM3u2Ww0VvJZrkhoyhB0WUQw=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/uz51EeChX8JjzNlk4JP3SlLI_0Rb230Qka-KbG1NCct3xIicFlq5OyOop3RUxRRdRZ4vVM7cNzxnaKp1vZdXT_hR596APXzlhGqJMCmOeJblOjT0JBtno0TqbRezv3nSoxiKC2JYtw=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/SUMr4ne2sX4sJlxX0kiY_BxKycBV7tDPRSWiiCN23S6ocNWQFo2FwP_kxGYBiRdyaz480kXL0-MQHn8yDf4LayQ0fWKbflZpcL1ar4MFcyBc6X0FWHFNSyAIYywQj35e59XgcLw5TQ=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/a4Yimv5Fr98V1PVeKykAqx_Dm9Azk7FUpb_Pt8WtQkCQU1gs5bekgm8jsZQlwaVA4-1IBe8-oX_FhKE2JzIyGLf5wH1Zqo5_uYBfoU0Gl5eW0_PXRduSzD4onnYuO72PNg9n3A_C_Q=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/wlIXCmkwgWk88eIrpvAgu_kzx3dNPoibeCtAQzzU8kMgVGW10Xlb5dllwwP4GB4Vx4hrTLovEtHCVb_2Ewr4sa-nYYy1JRQhQim62WzA-SwkwK_VMJuaK38yF_ykOleqB6pPfFes7A=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/vY45FJqfr3_zNa5Ju-4HQ4hzwYUM61FIcbcDF5QQbsfqaB_ot9JCmrn5v1wplXiHid28ltNbO3GI_ijAoPvOVXZwB79X4ArT-HoB8jtScQANIUpNeXBgzPLhC_bNXQn1RdNcMfrg0A=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/ymxcnP_twYl4HQD0wxSigqoyyA3QNiy8B7mh6oITCCPd1yZHKi60AMLQ3OZoJkVCo35_21QGzrNqkKf4ePgb8rsZAcBlZY-_7XSsTMaMWmIuMFsrXqdeC57jfoupAdvlpPYZCulhlg=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/JM0U7yT093RiuoznIIs-YjcUerup4DQltVzN70dqo46Y9OtZWOR5Bq1rwF0oxkkMOvaZRHSrIDbCqbTxg8OVCgDgfnDfK_d1rp1vhliQvmx5SUP8W6OA7bOAVMDq0ePLFxIqoifypA=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/AYPDzkyi8HVVia5xEFY9QWhH2_hXyNqNU_gcx_EMsA8knBk7ZSUqadtAAPFL-Dgis1CyDZbmVbC-ogNnKMB0Ewk4s55zl9rZf-u8HSkzpQnumIvdbsGb-zUMJwEWy7MJ1YW8wvonuA=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/HqBt0S2C08mucMmC8z1vvF2DIfKZzOhnlVo1dwu9ph5GhJ0IIlzV0bg_QTUYNzrnbPUB_g2r8SILPwpHWtscTFNHn_elnOLy4LYKw3rUVbQZHXvDUhYDBGzieGULsXTMn4M5zKTj_w=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/PS9iR9SRgWAhU7B_uH-YIjP6DPM1JL6ZKGwv36k13DjzBCPwwoBadEj8sqN1O6pEyR2EitLdN6SvNOpq7WJ2xO22NlW-DDKdmEwOKJthBCTCNYQDU0uNxrHU2pqSFETVDA0KRlEl-g=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/zdhTBoq7sK0io6KbkFMdjr-sOfZM-Ye8M7NbrEAL2KQHPRpuqZ3PctfGN3b3HYOpPIK4A3SCVnKNpTZSQHjFI9I11pCQG-2o7af2Zr-tupC-50XF2NsPOztm7fSqYFsD3_PU_leDuw=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/nyY2_BfoyXb0hFjEvjAJYcGN5Dl9_LrbPNg2zvsJFOv6QHC5D2F74QCF0cvA_4QHyhC0DlNKtthhiwRRSsMiuO-9WnVccIWvgUwZB5qEktwhJn5-94a3mFwjpJrGdLldWT7v8EodiA=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/vIexmPEWxicq7-qVsIOOBXa4HSmK6zBKF7Tw4TQcIHzm9lBvI4xmAunf1sRg3O7Kw-MnaWAoZT_tymSha2uW-9JhsqNaCInYTBcPcNrfPhcSVnCCZ-dWdWfC3urDQK5S7lENikTwLg=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/6VzzF9MYirpser9ZTAp-lJoaLSna4J-KmVB_f51ioprzGH3nNHmmufhFWyCl-dvc2JCA37z6_bLa6HqEb4pzkil9e26z7k9iFJkEc5Kn3UVJMvCG7rlUwTRLizcJMnxYTJrxwSZfaw=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/TIY8__0EshQLa0umNnVBJ3MMNBaWS_Brhpp2X2dDlMkA0uMY2mViYj_hXyuO9GEO_EG991ifSD5D1voN1az4B_TF8Losx-o-JEvwabus_NrfZYgjyCeJBtomaJyN1dlfs_-0cAaxNA=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/vKtanN0W0bgKZhi6l-lrQxKWKCT56FdXmbeuz0UIEma4UCTJHq-r_eC2CpZ71q8RKiLjhez66KaNYLSveVE1-scgLxV9e_vBXzGLTL4zsA4GKz7NLpxGSOUyzgyqYS4VjOy375ehRQ=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/MWIkOYKo_s3CBntLH0OyZ3vxvkMszOE9o-rR_7ebb6QTzdnT76rB9LzH73t7xtxylX-VBgZVGcMjf4_60TQhleVGBwLkTZlbvqKQdaXJzmEGsdGK5il_kN6rk1cB9LSA4T01f0arSQ=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/ZH2P_GiRd2oJC7D-SpG3oyon4FXFJ4lEfqguluLrm_TunEgLJfodF-ud4EZylOV6JB4hazWPeXBMtPs_XAjO-9EbsAn_ioTBRHGOobiBt8rddYg2dhwfF-JMDK2GDFZF2pkCpTTdoA=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/WkMHL7gU9fRyQfCRMJH5lSVjppcLxeL_xWgqu7ow8KkOIOUcmpnhQC3fFXeSjB8zxUtNQ3kgG7JVJUK98fsnA9xIYrZbfanT_2fjcORrE8IWc1Z8bbKAIL5oRgcB7aZyIRu2t9uO4w=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/lIjZHLZQjeXWndVV0VQUBPzNXyET9VqCHIIf1p3WFg6TFugx1nbOtkKWGz_DLyPeqvVC0mykHoG879jHB613Iy15-09ixg1cUNwIcbHnsC2yH6rQNUCY_8WnRkcxKNmQp0esCgV1nw=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/eEC512nq0K2IkzwDSlMwXBwyaWxPvEHrxgtN_NRTJsLZly0XO0JpufC56XWs5fC3CwR17CbPoZaXX793Tsh3UW1atvJjcKcxzEYJX4o_OfTy7ZRtCW5GQyZSj4PMt0CG_sIQgibz5Q=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/HZv2vB9JpRCx6BYfwb4Ndu_fT_GRsznOtTxjCghms7O97k-JQSan-hbgxNuQl4SlWJQOx4TmJPWLc3FMFLgx_ytkFKfLQRZhWZ6Xs2BG7xI9afu0nqDQ3PAVezhYd2wYro80BgRTvA=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/ReBdkwpJOP4t_b6fY-py70o-cf1ZEpZS94LoHYjBOOYxev5OeSZg3FSlvenUAGiDPtgh7zLpuLlY1eJTGNFcQLCp6LCdym0edyHIUalFywMYGzn6DKObrf8174I-Dd0XlefZ3Sh72w=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/DXC88Q9ui-TKGBxwAwsl597ifCjyMfMOSzqYiQCuP8fT5NXF3B1Uu43kX9Qy2msQ9MTpwx4Z9Zm-OtfphSDaQCGcjW263SAK5-ijV-I1jf-XOHFhXLUfCKALHiMyH9TCnoziOHq9Vw=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/zjvkmtI_HvzJRHeYkPOfJVlQiP_Fz9qtB2lqX1uS07VIgkw-qCRHTfL5CAC9EVd1crvP6Tf9NdyShE96cNjm_G4oVeHivvEr-6VFpyogbvMEewJhhWux8pCTDaqDbR1grgEvoH6ZFg=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/5JPwl86WShqdZeEq1GWzlW3uF1rABA9uxZbf9n72d9WOHQp3BkQNEbYmRUhGyOpaKtGLyk370_LueiBSGKtqwghPSTz_p5-xBT3fDvFEWM5RUQ2Pz1Y5MCTBfSth3XwHfERhWC-9TA=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/0DRm1F2SELwn3_NKxuYcBnCwe-j3HkkwToZBUSTjn5ecGL6Lr4cUQZisogEtn5fCEIN4gITxZYFyluUSn-jQjNv9yLpW9dxt2ls0_JOX5Y6fAACe9bBwCQNJ68PgAD3vNW1vp7uw3g=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/A2XWfwCoYCuaie-ky3KbsJyg9NDsx0bATd245z8EqgpkBCGJt34y3g3gDHsQ9v_MQAH5mfopDVIkVB3l9CZLqH9zWf0zGO_hUiwUk3ldaplizHMy19gUUnUDGc2e39LjRSu1WXqlxQ=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/bRgoOVz5TuOOEG72GSgWUUzkBFEj9fBlhiZfHoOmzkHf4VdpVvyLOz-TZpG_oKu4akoLhjgJvPLi846NeyvwimHcozoaQMJlJmoKEhP3zVmDer0nDnR5vNfs8ULCKH1oxGkIUclGXw=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/INi52YTQDVX6ky78DIh4IstYRA5Ova_2Z2Ei7G86dIgKYvzR6-mhg_QAdOczYZcH2MwOF8p6eRR1ZuSEK6oXey7T2Yqxro6XCmMP56xK9d23J_YiYnZBWo-yICwDL--xiohJHwVnAA=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/Xpi_aW2YLigSm-JYMNzdwUBMLU7A8b-GfcM8SWjPr7TjdQY2BFSVnXeRgw6gsZ-8A0HEjRpV04v91vt3TnEjH6TIyTJL69ykVbSm0xRWvVMCd7_w6N3xnWHxZxSmX7KRZ4S7kTg54A=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/twQDM52YFieDNlKedRvCI7FCHPpiAD8Jf-svpvVaVSqY2Smb_1yCRY4e8fjH6KBifxXLvtWL7GvrjkK-DdIzy4htl5OUJ5fwIQVUXIVhr5mBCNJrecJ3b5rQjCreBgp2rJEcdUKmiQ=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/uLz_PPZ_LUffqh26r7hbxgKZe7V5sl7GhEHqj_NDalH0hn5Sid1Zo62ES1GvqBA0Zcp91NBBKlF2Fu9qnl1VAEJ_uH5nnVjzSW20o6Pl7_DIVmyMMf0YS9q8ei01t0hz5DurC7ztvg=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/m3euDj9QTITBZ8KiuL63o6tJPHKnpgdewoMo-hI_yBsqRk_TN6TnyYCELQzzm0ECis0MpoIgwoQDtX1pwI9asf0objfVQKajODzW4ZoPhF5V4-Alz3CDfszkrQLuoLy34cnssZnbLw=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/eP3_M_tAXIaXvqlTsrZSDDxZy5ZZKlOofrIzOmv4laOACy8JCnCglpAkiNaHxaChtvF6SbThdxYpCcJWN4FdpN0FUDmb5H_cHa2pzmOj3RpJ-5oEE9SCuCuYqJB9KKqqYdLr6JJ5PQ=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/SyxJEGqEA4PEvAA88ISroMuiNRtZ-P5l729Iy0NUTt85NwPdX5pAjaCzsSNQCC5hLIqUIZhQOCIf4d2xsNCJ5BN6N-IPRZ3c0ig0Rh5IhjiK2C1DveWeN-2umOmLpcjIk_Ap4zh8Qw=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/MCirB3uMuPhUuH5RqnLELVDl8SVIefyEQ0IYZALagMohoHK-CVaR1RQJiH9VD8j6GuTZgRbhPh5HTnChAwa3BuZU08aL7G2gzwbNi0HoNkUBmXLmGG-o3gZ61Kt-y6xjU--O5YDPDg=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/xt6xdxn7y29cpEYO1GEyiNXJu_vSETgGfD6yLAauKPk7Esou5R_O3chUU_qcuz_kkhT-TwYicLw9UnlBbLIfJ6HeKJp8gukhcwCV_k2ZPOLMQwHr9T_fxHbadnBERMQBPYC3j18OvQ=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/LuteiyQeUw6cfH7DHjNPWKpi7VrXHmDIg_p-Rfa7004jHNSuYN94WWNQai5M2gfH4fZxjifHc6IeD_wXwFXDtMXcqAHhBbw_XQd085z1UwHwwiCETokJtv67JNbcTzi-7d_ZaeRDvg=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/VyVxxrq-oCug3uFYnqY1hUhzujLtAKEylIrjWuwi_AnrPLv2UCEuHQqUbFhKWWHULbiJq2zqEhycY6Da5CFtBmMhiahtICgrz_CttAipeSCjaptq2vf0swTRgVvw3iq64WMjIhAnjw=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/lzvD_ECTgQROH8KK0Ebup0GluYo2FQ0EUJYiA8G8H65dU-Z951J0F9AAvg07SsVCYlmR7TY6CY4LIzVo9wOmWO2-5ffBdBfpelIdTd8JZUg9sozb57CbVFmxcoOCOEoC5GqjoCYDtw=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/9GF21IFX7I1BDQcuSumJYam06FjVWIzxnFRygGcdXysOufMHMdUbV-JDotrm_LPKN59BV5ORFdiCNst4GP2yp8Jhek-jQjhHtvOEftAubYjFeQmWkyej4aWZh0CoqqjLfwcVIAAT8g=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/ctn6wklxP60Y_LmGCu0XU_yjeJjVipI5TrfWU2EHIceXjEZSu8kU-cvYTR7xZSIy7xVl0Cs_gMzwaEvJbsudK48ufutut_IjCb7SKxzx_J_TNzXh3nETCMeoq4M8nA1uY9PSdHe93Q=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/PVoiPDhWhJJ592rGu6InqEdiBtgDG1PxBkmA5lsH1226mXhA2mpm50SXCEA8k0BZPbBVV2rVUqO4CBOh3x9tBHTYtekd3IpfoYgzLxrJpiGeELrTMmtTLCoETGVFwiFKb94Zvb_GVw=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/2v7YHTgoQ6drvj_EJ4uUbEvwJyQdeXvzWUkV2DMX2SJK5dy9yZMKTwaXLR3ZsLFJxhg3Ln4-7mSmtYI4z7ahr2gTzmtcm7RGLYK0p8Y3SyJ6iiPba2_B1paH4ZUN9fzsvZQvGWMWWQ=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/uTYeM4NGtcloBXmLN6RLCa_amzkc3TsGU7uL6sJPmHSHliGPGGyRVe3sF73koKoO7_IyrmBBMoGxUpbCgRVSn1X64RyxzUBupqFrtA5YefyOKBF8lE-pGWuzK5n4TL_1re3IjsLHCw=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/uVer1Ep2FrAbeKH44U6ITGA39sKPtNBsa6NDwPbDYsylThviCU3YdXZ9e5OvDjBN5o7xn2cs0fXmagwUnmSKvoB68gNpVhyegeiT7r8QGx-5llVbOIvS1-dgi8MgBC0U-oFXVUJm7g=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/lG1_DsqPVxpEcdIR_xP693l9MNKzkmeYIUw3MG-dVdujPXqOIX8sEL8AlO9ylXQ5Bd2iKkDqjwfCK_Wlp2Yh_gxQyy_wrle_nXssPfWUrztCifCgmcbVV3XY0XCVwsuyYNahk7TTyA=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/AF5KFmQvb-ugr00pciuOjk8s46BfCOuL0j9Ur98jviy5fOY2btTtAFaK5Jf-Hf_pfyWW2bLTQ0OYA3rZeKyQgF_6aIoLI8BHU10jzxNPg-YTEag5ipv16-ujVdEoPbgc4-V0J1ZFoA=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/xhq0fZuCW9i5xL8x09pqL1ZUNZRifBDRFWRRDRs6pF8w5_jf1HsmpNNcHcSlj7eUHlEX292oQVLxo0TuAVosO009nXLqjwoCwrY7UXxJNySpnPzkmbjTm3DsiPcYLm6NyFFzU-Sq7w=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/8_mp_b5qVcTfMgojgItRp56lUB7IeK5biQ-jG-aIkFdVYse4esjYe2XUjGYkOSTH2toLpufD_G0lG6Lwau8J2MrIYeCiZRh-6f9jYKpakDV1GDHcNbqfoADJ0OJakQl3Tdy1EYEiVQ=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/rYSd5rGSyGj1cNSbfYGd9noNuB19c9S1ZNBBXu1kyKKawophVDQSDFq-8pL4SGrFZzbI6glRSA3VKJeWu7fyJO3hhzeEFRejxzwWohjhp6GJRblGoBYwV74QeTjTBxwz-NwubRIJug=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/f7ef7_SVWi46QuaW3Kz9-DHaswgWPrVgo1tEjQaf8vrM1cFE5fSxIDtqZHYKv5TTiP65GSFPAWf6XUzlTU40aNPBPBjWlP-i0gmTGXpeuohAWmZ7eE82Fm0n3Fp-tjlN5dE_b7AdWA=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/ErF24pyBlxR6XOj6Trpsqc7Mui03Ae-w2G0NSfGlxXbEJcREE4dMEezTSzNEGxtaYPBkCUPv5ERFe5AmPciz1N8wIBR_cfORRjIlKMwrCelkPoHgy6_k1HRFnu5COcyMTFpiVikJSQ=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/FrGa86cMmX5_sc76zFJHqRZU1zFdT_7GCHGPibfJJ4XOjn-ZlSvyBQYzh5fGg1k2rVLzwB8Xnvhx93Odx04f4Kw0I8IUgEna2IEoSZWpFDNLHpiaGQJF9JXszGGJE4gGJyZP2deY9Q=w1920-h1080",
+        "alt": ""
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/tMmvW18F6jE1cJXY8pM5iQ0S353laICWD_gwMPxv1dlJe42lR3FXl7mAqlAUeomdzxdcMhpNGHsvVjRYFx5HIcW106_N-KKg4qPBfQ_HOcoZQWaTXT4vR9ELmpYFEI-S5t-95vrrGA=w1920-h1080",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "path": "/events/2019/october/katina/",
+    "title": "Katina Cheewara Pooja (Robe Donation Ceremony) - 2019",
+    "source": "https://sibc-tukwila.org/events/2019/october/katina/",
+    "html": "<div><h2>Katina Cheewara Pooja (Robe Donation Ceremony) - 2019</h2></div><div><h4>This is a past event. This event took place on October 20, 2019</h4></div><div><p>Katina event is the culmination of Vassana programs - during Katina, devotees present the Katina Cheewara to a resident monk as a gesture of their gratitude. <strong>For the year 2019, we are conducting the Katina ceremony with the participation of 8 monks.</strong> We will conduct a Maha pirith session at SIBC temple on October 19th (Saturday) within a specially constructed <a href=\"http://serendib.btoptions.lk/article.php?id=1470&amp;issue=57\">Pirith Mandapa (Sacred space)</a>. This will be followed by the Katina Dana and the Perahera by children on October 20th (Sunday).</p><p>Please mark these dates in your calendar and tell your friends. You don’t want to miss this great ceremony conducted according to Sri Lankan cultural tradition.</p><p>We are conducting a fundraiser along with the Katina ceremony. The details can be found in the <a href=\"/events/2019/october/katina_fundraiser/\">Fundraiser</a> page.</p><p>Following are the two major events</p><h2>Maha Pirith chanting - Saturday October 19</h2><p>Maha pirith chanting on Saturday evening at the SIBC premises in Tukwila in the especially constructed Pirith mandapa. As mentioned earlier, this year, we are fortunate to have 8 monks join the Maha pirith chanting. Pirith chanting will be followed by Dinner and snacks. Please plan to be at the temple by 6PM. We will finish activities by mid-night.</p><p>A brief outline of the program is as follows</p><ul><li>5.30PM - Arrival and networking</li><li>6PM ~ 7PM - English Dhamma sermon by Ven. Aparekke Punnasiri</li><li>7PM ~ 9PM - Community dinner</li><li>9PM - Gilanpasa and Inviting Monks to Maha Pirith chanting</li><li>9PM ~ 12AM - Maha pirith chanting</li></ul><h2>Katina pooja - Sunday October 20</h2><p>We will conduct the Katina program on Sunday October 20th. Program will start at 10.30AM with observance of Pan sil. Buddha pooja and offering of Dana to resident monks will commence at 11AM. Dana and community lunch will follow the Buddha pooja. Katina perahara will commence at 1.30PM. Katina program will close at around 3PM.</p><p>A brief outline of the program is as follows</p><ul><li>10AM - Arrival and networking</li><li>10.30AM - Pansil and blessings</li><li>11AM ~ 12PM - Buddha pooja Katina Dana to resident monks</li><li>12PM ~ 1PM - community lunch</li><li>1PM ~ 1.30PM - preparation and start of Katina Perahara organized by SIBC Dhamma school</li><li>2PM ~ 3PM - English Dhamma sermon on Katina</li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2022/october/katina/",
+    "title": "Katina Cheewara Pooja (Robe Donation Ceremony) - 2022",
+    "source": "https://sibc-tukwila.org/events/2022/october/katina/",
+    "html": "<div><h2>Katina Cheewara Pooja (Robe Donation Ceremony) - 2022</h2></div><div><h4>This is a past event. This event took place on October 23, 2022</h4></div><div><p>We commenced the Vassana period in July with the kind patronage Mr. and Mrs. Chandra and Madhu Ranaweera family. We have been conducting weekly Vassana programs since July - thank you for your active participation. We also thank the resident monks who took an active interest in conducting programs and keeping us in the path of Dhamma.</p><p>Katina event is the culmination of Vassana programs - during Katina, devotees present the Katina Cheewara to a resident monk as a gesture of their gratitude. We will conduct a Maha pirith session at SIBC temple on October 22nd (Saturday) within a specially constructed Pirith Mandapa. This will be followed by the Katina Dana and the Perahera by children on October 23rd (Sunday).</p><p>Please mark these dates in your calendar and tell your friends. You don’t want to miss this great ceremony conducted according to Sri Lankan cultural tradition.</p><p>Katina is also the main fund-raising event for SIBC for the rest of the year. Your generous donations in the past have enabled us to complete the work in the Dharma Shala and the parking lot, which will benefit the community for many more years to come.</p><p>You can help by committing to donate a cheewara at the Katina event. This year, especially in view of our fundraising goal, we have a suggested donation amount of $150 per family. We will gladly accept any amount higher or lower than this amount. Make your donation in person during the event (preferred) or directly via the <a href=\"https://www.paypal.com/paypalme/SIBC\">SIBC paypal</a>.</p><p>Use <a href=\"https://forms.gle/Y1iTyTUya4EJfum19\">donations form</a> to record your donation:</p><p>Here’s an overview of events.</p><h2>Maha Pirith chanting - Saturday October 22nd</h2><p>Maha pirith chanting on Saturday evening at the SIBC premises in Tukwila in the especially constructed Pirith mandapa. Pirith chanting will be followed by Dinner and snacks. Please plan to be at the temple by 6PM. We will finish activities by mid-night. A brief outline of the program is as follows</p><ul><li>5.30PM - arrival and networking</li><li>6~7PM English Dhamma sermon</li><li>7~8 PM - Sri Lankan dinner</li><li>8 PM - Gilanpasa and Inviting Monks to Maha Pirith chanting</li><li>8~11 mid-night - Maha pirith chanting</li></ul><h2>Katina pooja - Sunday October 23rd</h2><p>We will conduct the Katina pooja program on Sunday October 23rd. Program will start at 10.30AM with the observance of Pan sil. Buddha pooja and offering of Dana to resident monks will commence at 11AM. Dana and community lunch will follow the Buddha pooja. Katina perahara will commence at 1.30PM.</p><p>A brief outline of the program is as follows</p><ul><li>10AM - Arrival and Dana preparations</li><li>10.30AM - Preparations for Katina Dana</li><li>11~12PM - Buddha pooja Katina Dana to resident monks</li><li>12~1PM - community lunch</li><li>1~1.30PM - Preparation and commencement of Katina Perahera organized by SIBC Dhamma school</li><li>2~3PM - English Dhamma sermon on Katina</li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2023/october/katina/",
+    "title": "Katina Cheewara Pooja (Robe Donation Ceremony) - 2023",
+    "source": "https://sibc-tukwila.org/events/2023/october/katina/",
+    "html": "<div><h2>Katina Cheewara Pooja (Robe Donation Ceremony) - 2023</h2></div><div><h4>This is a past event. This event took place on October 28, 2023</h4></div><div><p>Katina event is the culmination of Vassana programs - during Katina, devotees present the Katina Cheewara to a resident monk as a gesture of their gratitude. We are conducting the Katina event with a pirith chanting and a Katina Dana.</p><p>Katina is also the main fund-raising event for SIBC. We want to channel our efforts this year to pay-off the remainder of the loan we have taken to construct the new bathroom. Currently we have a deficit of $12,000 including capital and the interest. We kindly suggest a donation of $200 per family while we will gladly accept any amount higher or lower than this amount. If you are working for Microsoft, Boeing or T-mobile you can donate to the SIBC cultural fund whose funds are used for cultural events organized by SIBC including Katina event.</p><p>You can help by committing to donate a cheewara at the Katina event. Please sign-up to donate a Katina cheewara by adding your name using <a href=\"https://forms.gle/V4EBi1G4DPjNPwDh6\">this form</a>.</p><p>Here’s an overview of events.</p><h2>Conveyance of Katina Cheewara and Maha Pirith chanting - Saturday October 28th</h2><p>Our events will begin at 4:45pm pm Saturday with the conveyance of the Cheewara to SIBC premises. Maha pirith chanting will commence at the SIBC premises in Tukwila in the especially constructed Pirith mandapa. A brief outline of the program is as follows</p><ul><li>4:45PM - Arrival and networking</li><li>5:30PM ~ 6:30PM - English Dhamma sermon by <strong>Venerable Tenipita Sudave</strong>.</li><li>6:30PM - 8:00PM - Community Dinner</li><li>8:00PM - Commencement of Maha Pirith chanting</li><li>11:00PM - Conclusion of events</li></ul><h2>Katina pooja - Sunday October 29th</h2><p>Katina pooja program will start at 10:00AM on Sunday with observance of Pan sil. Buddha pooja and offering of Dana to resident monks will commence at 11:00AM. Dana and community lunch will follow the Buddha pooja. Katina Cheewara will be brought to the temple in a Katina perahara organized by Dhamma school children and devotees. Katina perahara starts from SIBC premises at 1PM.</p><p>A brief outline of the program is as follows</p><ul><li>9:45AM - Arrival and networking</li><li>10:00AM - Preparation of Buddha pooja by the community</li><li>10:45AM ~ 12:00PM - Buddha pooja and Katina Dana to monks</li><li>12:00PM ~ 1:00PM - community lunch</li><li>1:00PM ~ 1.30PM - Arrive in Perahara and presentation of Katina cheewara</li><li>1:30PM ~ 2:30PM - Dhamma sermon on Katina</li><li>3:00PM - program end</li></ul><p>You can contribute Dana items for the Katina Dana by signing up below</p></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2018/october/katina_dana/",
+    "title": "Katina Dana - 2018",
+    "source": "https://sibc-tukwila.org/events/2018/october/katina_dana/",
+    "html": "<div><h2>Katina Dana - 2018 (Oct 27th)</h2></div><div><h4>This is a past event. This event took place on October 27, 2018</h4></div><div><p>Katina event is the culmination of Vassana programs - during Katina, devotees present the Katina Cheewara to a resident monk as a gesture of their gratitude. <strong>For the year 2018, we are conducting the Katina ceremony at a grand scale with the participation of 13 monks, a first for our community.</strong> We will conduct a Maha pirith session at SIBC temple on 26-Oct (Friday) within a specially constructed <a href=\"http://serendib.btoptions.lk/article.php?id=1470&amp;issue=57\">Pirith Mandapa (Sacred space)</a>. This will be followed by the Katina Dana and the Perahera by children on 27-Oct (Saturday).</p><p>The full program of the Katina events is available in the <a href=\"/events/2018/october/katina/\">Katina Program page</a>.</p></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2019/october/katina_fundraiser/",
+    "title": "Katina Cheewara Pooja (Robe Donation Ceremony) Fundraiser - 2019",
+    "source": "https://sibc-tukwila.org/events/2019/october/katina_fundraiser/",
+    "html": "<div><h2>Katina Cheewara Pooja (Robe Donation Ceremony) Fundraiser - 2019</h2></div><div><p>Katina is the main fund-raising event for SIBC for the rest of the year. Generous donations in the past from the SIBC members have enabled us to complete the work in the Dhamma hall and the parking lot, which will benefit the community for many more years to come. <strong>With your donations last year, we paid off the mortgage too. This year, we want to focus on building a stream of donations to cover monthly expenses.</strong></p><p>You can help by committing to donate a cheewara at the Katina event. Please sign-up to donate a Katina cheewara by signing up below. <strong>This year, especially in view of our fund raising goal, we have a suggested donation amount of $200 per family. We will gladly accept any amount higher or lower than this amount.</strong></p><p>We will have a fundraising desk set up on the day of the Katina ceremony. You can use a check addressed to the temple (Sarana International Buddhist Center) or cash to make your donation.</p><h2>Signup link</h2><p><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSeJO9oVnKAE9XylMxhUc-j424nc61j2Pt_7-FzZ675f79_O9g/viewform\">Use this form</a>.</p></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2020/october/katina_fundraiser/",
+    "title": "Katina Cheewara Pooja (Robe Donation Ceremony) Fundraiser - 2020",
+    "source": "https://sibc-tukwila.org/events/2020/october/katina_fundraiser/",
+    "html": "<div><h2>Katina Cheewara Pooja (Robe Donation Ceremony) Fundraiser - 2020</h2></div><div><h4>This is a past event. This event took place on October 10, 2020</h4></div><div><p>Katina is the main fund-raising event for SIBC for the rest of the year. Generous donations in the past from the SIBC members have enabled us to complete the work in the Dhamma hall and the parking lot, which will benefit the community for many more years to come.</p><p>You can help by committing to donate a cheewara at the Katina event. Please sign-up to donate a Katina cheewara by using the form below. <strong>This year we have a suggested donation amount of $150 per family. We will gladly accept any amount higher or lower than this amount.</strong></p><p>Please use the electronic funds transfer methods listed in the <a href=\"/donations/\">donations page</a> to make your contribution.</p></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2018/october/katina_fundraiser/",
+    "title": "Katina Cheewara Pooja (Robe Donation Ceremony) Fundraiser - 2018",
+    "source": "https://sibc-tukwila.org/events/2018/october/katina_fundraiser/",
+    "html": "<div><h2>Katina Cheewara Pooja (Robe Donation Ceremony) Fundraiser - 2018</h2></div><div><h4>This is a past event. This event took place on October 27, 2018</h4></div><div><p>Katina is the main fund-raising event for SIBC for the rest of the year. Generous donations in the past from the SIBC members have enabled us to complete the work in the Dhamma hall and the parking lot, which will benefit the community for many more years to come. <strong>This year, we want to focus our energies on paying off the remainder of the mortgage. We have about $30,000 left in our mortgage and with your help, we would like to pay this amount off.</strong></p><p>You can help by committing to donate a cheewara(Robe) at the Katina event. Please sign-up to donate a Katina robe by signing up below. <strong>This year, especially in view of our fund raising goal, a pledge of $200 is recommended per family but we will gladly accept any amount</strong>. Also not that the amount you pledge is not displayed to others. It’s for our information only.</p><p>We will have a fundraising desk set up on the day of the Katina ceremony. You can use a check addressed to the temple (Sarana International Buddhist Center) or cash to make your donation.</p></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2018/october/katina_pirith/",
+    "title": "Katina Pirith Day - 2018",
+    "source": "https://sibc-tukwila.org/events/2018/october/katina_pirith/",
+    "html": "<h2>Maha Pirith chanting - Friday 26 October</h2><p>Maha pirith chanting on Friday evening at the SIBC premises in Tukwila in the especially constructed Pirith mandapa. A brief outline of the program is as follows</p><ul><li>5.30PM - Arrival and networking</li><li>6PM~7PM - English Dhamma sermon by Ven. Aparekke Punnasiri</li><li>7PM~8PM - Community dinner</li><li>8PM - Gilanpasa and Inviting Monks to Maha Pirith chanting</li><li>8.30PM~12AM - Maha pirith chanting</li></ul><h2>Snacks contributions on the Pirith day</h2><table><thead><tr><th scope=\"col\">Name</th><th scope=\"col\">Food item</th><th scope=\"col\">Quantity</th></tr></thead><tbody><tr><td>Dinithi &amp; Sathya</td><td>Fish Patties</td><td>150</td></tr><tr><td>Dinithi &amp; Sathya</td><td>Vegetable Buns</td><td>75</td></tr><tr><td>Bddika &amp; Gavesha</td><td>Fish buns</td><td>75</td></tr><tr><td>Sajeevi &amp; friends</td><td>Sandwiches(Fish)</td><td>40</td></tr><tr><td>Sajeevi &amp; friends</td><td>Sandwiches(Fish)</td><td>40</td></tr><tr><td>Sajeevi &amp; friends</td><td>Sandwiches(Eggs)</td><td>40</td></tr><tr><td>Sajeevi &amp; friends</td><td>Sandwiches(Eggs)</td><td>40</td></tr><tr><td>Chathu &amp; Nipuna</td><td>Cake</td><td>30</td></tr><tr><td>Punsala &amp; Malinda</td><td>Cake</td><td>30</td></tr><tr><td>Randi &amp; Dilan</td><td>Cake</td><td>30</td></tr><tr><td>Shyamika &amp; Sathya</td><td>Cake</td><td>30</td></tr><tr><td>Salinee &amp; Ranga</td><td>Cake</td><td>30</td></tr><tr><td>Kushi &amp; Mahesh</td><td>Cookies</td><td>50</td></tr><tr><td>Dinithi &amp; Sathya</td><td>Cookies</td><td>50</td></tr><tr><td>Dinithi &amp; Sathya</td><td>Tea</td><td>150</td></tr><tr><td>Dinithi &amp; Sathya</td><td>Cofee</td><td>150</td></tr><tr><td>Dinithi &amp; Sathya</td><td>Water bottles</td><td>all</td></tr><tr><td>Isuru &amp; Pavithri</td><td>Water bottles</td><td>N/A</td></tr><tr><td>Dinithi &amp; Sathya</td><td>Juice</td><td>all</td></tr><tr><td>Dinithi &amp; Sathya</td><td>Plates/Cups/Spoons/Tissues</td><td>all</td></tr><tr><td>Salinee &amp; Ranga</td><td>Dessert Cups</td><td>150</td></tr></tbody></table><h2>Dinner Contributions on the Pirith Day</h2><table><thead><tr><th scope=\"col\">Name</th><th scope=\"col\">Food Item</th><th scope=\"col\">Quantity</th></tr></thead><tbody><tr><td>Dinithi &amp; Sathya</td><td>Yellow Rice</td><td>150</td></tr><tr><td>Dinithi &amp; Sathya</td><td>Seenisambol</td><td>150</td></tr><tr><td>Dinithi &amp; Sathya</td><td>Green Beans</td><td>150</td></tr><tr><td>Sonalee &amp; Viraj</td><td>Cutlets</td><td>150</td></tr><tr><td>Nilu &amp; Upul</td><td>Cutlets</td><td>100</td></tr><tr><td>Nishadi &amp; Pradeep</td><td>Cutlets (Vegetable)</td><td>50</td></tr><tr><td>Dayani &amp; Tilak</td><td>Potato Curry (අල කිරිහොදි)</td><td>40</td></tr><tr><td>Subha &amp; Manju</td><td>Potato Curry (අල කිරිහොදි)</td><td>40</td></tr><tr><td>Randika &amp; Jaliya</td><td>Potato Curry (අල කිරිහොදි)</td><td>30</td></tr><tr><td>Ivanthi &amp; Sanjeewa</td><td>Caramel Pudding</td><td>30</td></tr><tr><td>Shaymika &amp; Sathya</td><td>Caramel Pudding</td><td>30</td></tr><tr><td>Goury &amp; Chathura</td><td>Caramel Pudding</td><td>30</td></tr><tr><td>Thushari &amp; Charitha</td><td>Caramel Pudding</td><td>30</td></tr><tr><td>Randika &amp; Jaliya</td><td>Fruits</td><td>30</td></tr><tr><td>Krishani &amp; Deepal</td><td>Fruits (Grapes)</td><td>30</td></tr><tr><td>Kanchana &amp; Manjula</td><td>Fruits</td><td>30</td></tr></tbody></table>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/contact/temple_mailing_list/",
+    "title": "SIBC Mailing List",
+    "source": "https://sibc-tukwila.org/contact/temple_mailing_list/",
+    "html": "<h2>Temple Email List</h2><p>The temple mailing list is managed via a Google group.</p><p>Once you are added to the list, you will start receiving emails from the sibc-members@googlegroups.com address.</p><p>This is only used for announcements from the temple.</p><h2>Frequently Asked Questions</h2><h3>I have signed up but I don’t seem to receive any emails from the temple?</h3><p>It seems for some of you, these emails are marked as spam. To avoid this, follow the steps below</p><ol><li>Search the spam folder and mark the temple emails as not spam.</li><li>Add the mailing list address and the temple email address (the sender) as contacts.</li></ol><h4>Gmail</h4><p>Following images show how to apply these instructions for gmail.</p><ol><li>Enter the following text to the search bar in:spam sibc-members@googlegroups.com</li><li>if there are emails that show up with the spam tag, click one of them.<ul><li></li></ul></li><li>Using the top banner, mark the email as not spam.<ul><li></li></ul></li><li>Additionally, hover over the email sender details and add the email address to the contacts list<ul><li></li></ul></li></ol><h4>Other email providers</h4><ul><li>For outlook.com See <a href=\"https://support.microsoft.com/en-us/office/mail-goes-to-the-junk-folder-by-mistake-f409b58c-2617-47e2-8a97-cab612d98eff\">this Microsoft support article</a></li></ul>",
+    "historical": false,
+    "review": "SIBC content review required",
+    "images": [
+      {
+        "url": "https://sibc-tukwila.org/images/mailing_list/sarana_spam.png",
+        "alt": "spam label",
+        "local": "/static/images/sarana_spam.webp"
+      },
+      {
+        "url": "https://sibc-tukwila.org/images/mailing_list/spam_banner.png",
+        "alt": "spam banner",
+        "local": "/static/images/spam_banner.webp"
+      },
+      {
+        "url": "https://sibc-tukwila.org/images/mailing_list/sarana_add_to_contacts.png",
+        "alt": "add to contacts",
+        "local": "/static/images/sarana_add_to_contacts.webp"
+      }
+    ]
+  },
+  {
+    "path": "/about/media/",
+    "title": "Temple Photos and Videos",
+    "source": "https://sibc-tukwila.org/about/media/",
+    "html": "<div> These media files (images and videos) of the temple are made available in the public domain with no royalties.</div>",
+    "historical": false,
+    "review": "SIBC content review required",
+    "images": [
+      {
+        "url": "https://lh3.googleusercontent.com/Pgd4uvyWSs7utzPlIaLU2Ht12uFR-D9eYuarhpAP6ed__dwHV7-Q6tmakx3x03EXObb6wx5YTBk5xJXeZhMWGt5KoOaMrMWLEOwcT5zQULpgJBz8CzWLB6YDnjukN_5_wBBUdOXS=w1920-h1080",
+        "alt": "",
+        "local": "/static/images/temple-1.webp"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/mLhUn6UsVfXBXdAWRsD2MHirjb6nU1gQeuhm2mF6BCISYGO8OUd09dBZq3FYZNggja7PfejUW32U57Ya1oO4Xw5qa9H5C5fmI9kCRtOLYLfPOYLYSgfzSgPUescGivGU4wq_YC2Z=w1920-h1080",
+        "alt": "",
+        "local": "/static/images/temple-2.webp"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/S2EGUzdULjNrUsTqawm17nezGemOgFeI9LNAZQfPOuoPqrfvTMTnWSBOgnO_4pZ6PqsWKjAwv4_DO3K91ynRIIjh2yYCjFhSuHegKapXDlLFLINowIAH8GQJzYbqCqhJ_jGl0emG=w1920-h1080",
+        "alt": "",
+        "local": "/static/images/temple-3.webp"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/dIvePJ48d4xhNUc_NebJTmX-rcvLo92tPkEg5bbvbaBdzxs5WAjE9u2hCs2dSui8obie1WoXxwW93b1O1xz3j-F_ZNosGN1l6Y8gbVhSYbhRUT3VoWnbKzzr8Fm2S8dCwhMDmSxe=w1920-h1080",
+        "alt": "",
+        "local": "/static/images/temple-4.webp"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/90fnbgcuWL1SISjtPbYl04GelXH6sezcLeBhMeebz0W3ULudulkonLIS_f7VJlpo_zBOV44acv15b9Av8JANurEgjWIuiNtBLFwXakZ506IRj79mYkyzYYhSoslYqvsDsieqSdfJ=w1920-h1080",
+        "alt": "",
+        "local": "/static/images/temple-5.webp"
+      }
+    ]
+  },
+  {
+    "path": "/activities/meditation/",
+    "title": "Meditation at SIBC",
+    "source": "https://sibc-tukwila.org/activities/meditation/",
+    "html": "<p>Meditation is an ancient ritual of buddhists that help them calm their minds.</p>",
+    "historical": false,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/donations/dana_schedule/",
+    "title": "SIBC Dana Schedule",
+    "source": "https://sibc-tukwila.org/donations/dana_schedule/",
+    "html": "<div> You may choose a day of the month and sign up for the monthly Dana donation. This program allows a specific day of each month dedicated for you and your family to offer Dana to the Sangha. For example: if you choose your day of the month as the 28th, every month on the 28th will be the Dana day by you and your family. If you are available on the assigned day, you may come and offer the meal physically at the temple. If you are not available, you can either donate raw materials or monetary donation (cash, check or paypal).</div><div><p>If you are using a mobile device or a smaller screen, <a href=\"https://calendar.google.com/calendar/embed?src=4ca10b431eo7c8p50f7qmvo96k%40group.calendar.google.com&amp;ctz=America%2FLos_Angeles\"> open the calendar separately</a> for a better experience.</p></div><div> </div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2023/january/blessings/",
+    "title": "Blessings for the New Year - 2023",
+    "source": "https://sibc-tukwila.org/events/2023/january/blessings/",
+    "html": "<div><h2>Blessings for the New Year - 2023</h2></div><div><h4>This is a past event. This event took place on January 01, 2023</h4></div><div><p>The New Year 2023 is upon us. While being thankful for the past year, it’s time to look forward to a new year and new beginnings. SIBC is conducting a Seth Pirith chanting and a Bodhi pooja session to offer blessings for the New year. The ceremony will be held on <strong>Sunday, 1st of January 2023, starting at 4:30PM at the SIBC temple premises in Tukwila</strong>. We plan to conclude the events by 7.00PM.</p><p>Following is the program</p><ul><li>4.30 PM : Arrival</li><li>4.45 PM : Start of the Bodhi pooja.</li><li>6.00 PM : Seth Pirith.</li><li>6.45 PM : Community dinner.</li></ul><p>The community dinner is intended to be a traditional Sri Lankan pot luck comprising of Kiribath (Milk rice) and other snacks. Please signup below for any food items you wish to bring</p></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2025/january/blessings/",
+    "title": "Blessings for the New Year - 2025",
+    "source": "https://sibc-tukwila.org/events/2025/january/blessings/",
+    "html": "<div><h2>Blessings for the New Year - 2025</h2></div><div><p>The New Year 2025 is upon us. While being thankful for the past year, it’s time to look forward to a new year and new beginnings.</p><p>SIBC is conducting a seth pirith chanting and a bodhi pooja session to offer blessings for the new year. The ceremony will be held on <strong>Wednesday, 1st of January 2025, starting at 10:30 AM at the SIBC temple premises in Tukwila</strong>. We plan to conclude the events by 2:00 PM.</p><p>Following is the program</p><ul><li>10.30 AM: Arrial</li><li>11.00 AM: Buddha pooja and offering Dana for mahasanga</li><li>12.30 AM: Seth Pirith</li><li>1.00 PM: Community Lunch</li></ul><p>The community lunch is intended to be a traditional Sri Lankan pot luck comprising of Kiribath (Milk rice) and other snacks. Please signup for food contributions below.</p></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2019/january/blessings/",
+    "title": "Blessings for the New Year - 2019",
+    "source": "https://sibc-tukwila.org/events/2019/january/blessings/",
+    "html": "<div><h2>Blessings for the New Year - 2019</h2></div><div><h4>This is a past event. This event took place on January 01, 2019</h4></div><div><p>While being thankful for the past year, it’s time to look forward to the new year of 2019. SIBC is conducting a Seth Pirith chanting and a Bodhi pooja session to offer blessings for the New year. The ceremony will be held on <strong>Tuesday, 1st of January 2019, starting at 4.00PM</strong> at the SIBC temple premises in Tukwila. We plan to conclude the events by 7.00PM.</p><p>Following is the program</p><ul><li>4.00PM : Arrival</li><li>4.15PM : Start of the Bodhi pooja.</li><li>5.30PM : Seth Pirith.</li><li>6.30PM : Community dinner.</li></ul><p>The community dinner is intended to be a traditional Sri Lankan potluck comprising of Kiribath (Milk rice) and other snacks. Please signup for food items below.</p></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2021/january/blessings/",
+    "title": "Blessings for the New Year - 2021",
+    "source": "https://sibc-tukwila.org/events/2021/january/blessings/",
+    "html": "<div><h2>Blessings for the New Year - 2021</h2></div><div><h4>This is a past event. This event took place on January 01, 2021</h4></div><div><p>The New Year 2021 is upon us. Although the year 2020 has been an unprecedented time for the entire world, it is time to look forward to a new year and new beginnings. SIBC is conducting a Seth Pirith chanting and other religious activities to offer blessings for the new year.</p><p><strong>The ceremony will be held entirely online on Friday, 1st of January 2021, starting at 5.30PM at the SIBC temple premises in Tukwila.</strong> There will be a few devotees in person at the temple for a symbolic gathering but all other devotees are requested to participate online.</p><p>Following is the program</p><ul><li>5.30 PM : Start of the religious activities.</li><li>6.30 PM : Seth Pirith.</li></ul><h2>Youtube Video</h2><div> </div></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2020/january/blessings/",
+    "title": "Blessings for the New Year - 2020",
+    "source": "https://sibc-tukwila.org/events/2020/january/blessings/",
+    "html": "<div><h2>Blessings for the New Year - 2020</h2></div><div><h4>This is a past event. This event took place on January 01, 2020</h4></div><div><p>The New Year 2020 is upon us. While being thankful for the past year, it’s time to look forward to a new year and new beginnings. SIBC is conducting a Seth Pirith chanting and a Bodhi pooja session to offer blessings for the New year. The ceremony will be held on <strong>Wednesday, 1st of January 2020, starting at 4.30PM at the SIBC temple premises in Tukwila</strong>. We plan to conclude the events by 7.00PM.</p><p>Following is the program</p><ul><li>4.30 PM : Arrival</li><li>4.45 PM : Start of the Bodhi pooja.</li><li>6.00 PM : Seth Pirith.</li><li>6.45 PM : Community dinner.</li></ul><p>The community dinner is intended to be a traditional Sri Lankan pot luck comprising of Kiribath (Milk rice) and other snacks.</p></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2024/january/blessings/",
+    "title": "Blessings for the New Year - 2024",
+    "source": "https://sibc-tukwila.org/events/2024/january/blessings/",
+    "html": "<div><h2>Blessings for the New Year - 2024</h2></div><div><h4>This is a past event. This event took place on January 01, 2024</h4></div><div><p>The New Year 2024 is upon us. While being thankful for the past year, it’s time to look forward to a new year and new beginnings.</p><p>SIBC is conducting a Seth Pirith chanting and a Bodhi pooja session to offer blessings for the new year. The ceremony will be held on <strong>Monday, 1st of January 2024, starting at 4:30 PM at the SIBC temple premises in Tukwila. We plan to conclude the events by 7:30 PM</strong>. This year, we also plan to light candles in the temple premises after the seth pirith chanting.</p><p>Following is the program</p><ul><li>4:30 PM : Arrival</li><li>4:45 PM : Start of the Bodhi pooja.</li><li>6:00 PM : Seth Pirith.</li><li>6:45 PM : Lighting of candles</li><li>7:00 PM : Community dinner.</li></ul><p>The community dinner is intended to be a traditional Sri Lankan pot luck comprising of Kiribath (Milk rice) and other snacks. Please signup for food contributions in the form below</p></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/news/",
+    "title": "Temple News",
+    "source": "https://sibc-tukwila.org/news/",
+    "html": "<ul><li>[Tue, Dec 29, 2020] <a href=\"/news/2020/kasawatha/\">Kasawatha TV Program</a></li><li>[Sat, Dec 01, 2018] <a href=\"/news/2018/sangha_nayaka_appointment/\">Sangha Nayaka Appointment Ceremony</a></li></ul>",
+    "historical": false,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/donations/pledged_donations/",
+    "title": "Pledged Donations to SIBC",
+    "source": "https://sibc-tukwila.org/donations/pledged_donations/",
+    "html": "<div><h2> Monthly Recurring Donations</h2><p> Given the various expenses the temple has to cover every month, we encourage our patrons and well wishers to make a recurring monthly donation. We are moving to a model that focuses on smaller but recurring donations. If you were a yearly donor before, we encourage you to sign up for a monthly donation instead.</p><p> If you would like to sign up for a donation, please use the details in <a href=\"https://docs.google.com/document/d/1y-wpOr5Cf9kGJWh5CpgiBCCEsmFkpGGfKwekt4adF1E/edit?usp=sharing\">this document</a> to set up a recurring donation.</p><h2> Current Pledges and Coverage</h2><p> The following table is a graphical representation of the monthly donations using $25 blocks. The Green blocks represent the portion already taken and the letters within the blocks indicate the donors initials. <strong>Last updated on August 4th 2021</strong></p><div> </div><table></table></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2021/june/poson-religious-event/",
+    "title": "Poson Religious Event - 2021",
+    "source": "https://sibc-tukwila.org/events/2021/june/poson-religious-event/",
+    "html": "<div><h2>Poson Religious Event - 2021</h2></div><div><h4>This is a past event. This event took place on June 26, 2021</h4></div><div><p>Poson poya is the most important full moon day for Sri Lankan Buddhists. The day marks the introduction of buddhism to Sri Lanka by Arhat Mahinda thero - the son of emperor Ashoka, in the third century BC. Buddhism has been followed ever since in Sri Lanka.</p><p>A special spiritual program has been organized at the Sarana International Buddhist Center on Saturday June 26th 2021 at 8.30AM. This event includes Buddha pooja, meditation, a Dhamma sermon and dana to maha Sangha.</p><p>Please signup for the Dana items using the form below.</p><h2>Flyer</h2><p></p></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": [
+      {
+        "url": "https://sibc-tukwila.org/images/flyers/poson-event-2021.png",
+        "alt": "Flyer",
+        "local": "/static/images/poson-event-2021.webp"
+      }
+    ]
+  },
+  {
+    "path": "/events/2019/june/poson/",
+    "title": "Poson - 2019",
+    "source": "https://sibc-tukwila.org/events/2019/june/poson/",
+    "html": "<div><h2>Poson - 2019</h2></div><div><h4>This is a past event. This event took place on June 15, 2019</h4></div><div><p>To mark the Poson celebrations, an Eight precepts (Ata-sil) program is planned for both children and adults on Saturday, 15th June at the Sarana International Buddhist Center premises, starting at 8.45AM.</p><p>This sil program is aligned with the conclusion of the academic year of Dhamma school and designed with children in mind. The program is offered in English and simple Sinhala so that children would be able to follow and be engaged. Adults are welcome to be present and take part in the program along with children.</p><p>Participants of the Ata-sil program should wear white in accordance with the Buddhist tradition. White traditional sarong and short for Boys and Lama-sari for girls is preferred and encouraged. We want the children to be comfortable, so if traditional garments are not their preferred option, white pants and shirts are acceptable.</p><p>Following is the program for the day</p><ul><li>08.45 AM - Arrive at Temple</li><li>09.00 AM - Buddha Pooja, and start of Observance of eight precepts</li><li>09.30 AM – Importance of Observing Sil - a short discussion</li><li>09.45 AM – Importance of Poson full moon day</li><li>10.00 AM – Tea and Snacks</li><li>10.20 AM - Meditation</li><li>10.40 AM – Jathaka Stories</li><li>11.00 AM – Buddha Pooja followed by Dana for Monks and Sil Observers</li><li>12.00 PM – Sil Pavaranaya Rituals</li><li>12.15 PM – Community Lunch</li><li>01.30 PM – Awarding of Certificates for completion of Dhamma school</li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2024/june/poson-seela-event/",
+    "title": "Poson Celebration - 2024",
+    "source": "https://sibc-tukwila.org/events/2024/june/poson-seela-event/",
+    "html": "<div><h2>Poson Celebration - 2024</h2></div><div><h4>This is a past event. This event took place on June 16, 2024</h4></div><div><p>Poson Poya is one of the most significant Poya days for Sri Lankan Buddhists. This sacred day commemorates the arrival of Buddhism in Sri Lanka in the 3rd century BCE. In honor of this momentous event, Sarana International Buddhist Center is organizing a special Seela program on June 16th.</p><p>We have planned two distinct programs: one tailored specifically for children, featuring a shorter Sil observance period and simplified Dhamma sermons, and another for adults, adhering to traditional practices and timings.</p><h2>Program for the Day</h2><p>The following program is for the Children’s Sil program. The adult program may continue till a later time based on the participation.</p><ul><li>08.15 AM - Arrive at Temple</li><li>08.30 AM - Buddha Pooja, and start of Observance of Ata Sil</li><li>09.00 AM – Importance of Observing Sil</li><li>09.25 AM – Importance of Poson Poya – Story and Discussion</li><li>09.50 AM – Tea Break</li><li>09.10 AM – Dhamma discussion</li><li>10.45 AM – Meditation</li><li>11.15 AM – Buddha Pooja, Dana for Monks and Sil Observers</li><li>12.00 PM – Walking meditation</li><li>12.30 PM – Jataka Story</li><li>01.15 PM - Sil pavaranaya ritual</li><li>01.45 PM – Certificate Awarding</li></ul><h2>Participating in the Sil program</h2><p>To help us make the necessary arrangements, please confirm your participation by completing the following form by <strong>June 14th 2024</strong>.</p><p>if you wish to attend, please <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSf6egYGJadpOZ0hRGtREs7Y-bszgNEJsnx29VT5bJTqygbISQ/viewform\">signup here</a>.</p><div><div><div><h3>Current Signups for the Sil Program</h3></div><div></div><div><div><div><p>Loading...</p></div></div></div></div></div><h2>Signup to bring a Dana item for the Sil Program</h2><p>if you wish to contribute to the Dana, please <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdblIHHbMpx-y_UCRzEetytqP9WszRpJvJZJ9DZCvCPtt7N3A/viewform\">signup here</a>.</p><div><div><div><h3>Current Contributors to the Dana</h3></div><div></div><div><div><div><p>Loading...</p></div></div></div></div></div></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2022/june/poson-religious-event/",
+    "title": "Poson Religious Event - 2022",
+    "source": "https://sibc-tukwila.org/events/2022/june/poson-religious-event/",
+    "html": "<div><h2>Poson Religious Event - 2022</h2></div><div><h4>This is a past event. This event took place on June 18, 2022</h4></div><div><p>Poson poya is the most important full moon day for Sri Lankan Buddhists. The day marks the introduction of buddhism to Sri Lanka by Arhat Mahinda thero - the son of emperor Ashoka, in the third century BC. Buddhism has been followed ever since in Sri Lanka.</p><p>Sarana International Buddhist Center has organized a Sil program for children on Saturday, June 18th at the temple premises. This program is specially catered towards children, with a shorter Sil observance period and simplified Dhamma sermons. If there are adults that want to observe Sil with the Children, they are welcome to do so.</p><p>Please let us know your participation by filling the following form by June 12th, so that we can plan accordingly (<strong>You don’t have to register again if you have registered via the Dhamma school</strong>)</p><p><a href=\"https://forms.gle/eTBwh13gVWi6ssz28\">Sil Program Registration</a></p><p>The tentative program is as follows</p><ul><li>8:45 AM - Arrive at Temple</li><li>09:00 AM - Buddha Pooja, and start of Observance of Ata Sil</li><li>09:30 AM – Importance of Observing Sil</li><li>09:45 AM – Importance of Poson Poya</li><li>10:00 AM – Tea Break</li><li>10:20 AM - Meditation</li><li>10:40 AM – Jathaka Story</li><li>11:00 AM – Buddha Pooja, Dana for Monks and Sil Observers</li><li>12:00 PM – Sil Pavaranaya Rituals</li><li>12:15 PM – Community Lunch</li></ul><p>If you are willing to be part of the Dana, Please sign up below.</p></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2023/june/poson-religious-event/",
+    "title": "Poson Religious Event - 2023",
+    "source": "https://sibc-tukwila.org/events/2023/june/poson-religious-event/",
+    "html": "<div><h2>Poson Religious Event - 2023</h2></div><div><h4>This is a past event. This event took place on June 04, 2023</h4></div><div><p>Poson poya is the most important full moon day for Sri Lankan Buddhists. The day marks the introduction of buddhism to Sri Lanka by Arhat Mahinda thero - the son of emperor Ashoka, in the third century BC. Buddhism has been followed ever since in Sri Lanka.</p><p>Sarana International Buddhist Center has organized a Sil program for both adults and children on <strong>Sunday June 4th</strong> at the temple premises. We plan to do two programs, one specially catered towards children, with a shorter Sil observance period and simplified Dhamma sermons, and the other for adults with a traditional focus and timing.</p><p>Please let us know your participation by filling the following form by <strong>June 1st</strong>, so that we can plan accordingly</p><p><a href=\"https://forms.gle/mWpjZ26aTZK6AiL86\">Form for Sil Signup</a></p><p>The tentative program is as follows</p><ul><li>08:45 AM - Arrive at Temple</li><li>09.00 AM - Buddha Pooja, and start of Observance of Ata Sil</li><li>09.20 AM – Importance of Observing Sil – Question and Answer session</li><li>09.45 AM – Importance of Poson Poya – Story and Discussion</li><li>10.05 AM – Tea Break</li><li>10.20 AM – Meditation</li><li>10.45 AM – Dhamma discussion</li><li>11.15 AM – Buddha Pooja, Dana for Monks and Sil Observers</li><li>12.00 PM – Walking meditation</li><li>12.30 PM – Jataka Story</li><li>01.15 PM - Sil pavaranaya ritual</li><li>01.45 PM – Certificate Awarding</li></ul><p>If you are willing to be part of the Dana, Please sign up below.</p></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/news/2018/sangha_nayaka_appointment/",
+    "title": "Sangha Nayaka Appointment Ceremony",
+    "source": "https://sibc-tukwila.org/news/2018/sangha_nayaka_appointment/",
+    "html": "<h2>December 01, 2018</h2><p>Ven. Polwatte Pagnananda, the chief incumbent of SIBC Tukwila, has been appointed as the <strong>chief Sangha Nayaka</strong> for South America in recognition of his Dhamma service in Americas during the past 20 years. The title and award was presented to Venerable Pagnananda at a ceremony held in Sri Lanka with the participation of Hon. Karu Jayasuriya, speaker of the Parliament of Sri Lanka and many other distinguished guests.</p><p><em>Sangha Nayaka</em>(leader of monks) is the high order of the monks and is granted by the agreement of the entire community of the monks. Such a post is commemorated festively in Sri Lanka, with the presence of civic and religious leaders. The event is marked with the presentation of a <em>vijini patha</em>, an especially crafted fan.</p><div><p></p></div><h2>News Coverage</h2><h3>Newspapers</h3><ul><li><a href=\"http://divaina.com/daily/index.php/pradeshiya-puwath/20273-2018-11-23-14-16-46?fbclid=IwAR1uwDP8-0-pbRZndrxVpEFUtXiZd4d0o8Y1-n94BjcaPqj8A0QTfyZUGUI\">Article in Divaina Newspaper</a> - November 26th 2018.</li></ul><h3>Television News</h3><h4>Ada Derana</h4><div> </div><h4>News 1st</h4><div> </div><h3>Pictures from in Social Media</h3><div><blockquote><p>2018, November 31st , December 1st Celebration pictures Sri-lanka, Kotte Rajamaha Viharaya, and Horana Millaniya Temple…</p><p>Posted by <a href=\"https://www.facebook.com/sibc.tukwila\">Sibc Tukwila</a> on <a href=\"https://www.facebook.com/sibc.tukwila/posts/2112257842163698\">Thursday, December 20, 2018</a>&lt;/blockquote&gt;&lt;/div&gt;</p></blockquote></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": [
+      {
+        "url": "https://sibc-tukwila.org/images/news/pagnanada_sangha_nayaka.jpg",
+        "alt": "smile",
+        "local": "/static/images/pagnanada_sangha_nayaka.webp"
+      }
+    ]
+  },
+  {
+    "path": "/search/",
+    "title": "Search",
+    "source": "https://sibc-tukwila.org/search/",
+    "html": "<div>    Search <a href=\"https://www.google.com/search?q=site:https%3A%2F%2Fsibc-tukwila.org%2F\">Google</a> for:search-term site:https://sibc-tukwila.org/</div>",
+    "historical": false,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2019/august/shramadaana/",
+    "title": "Shrama Daana - 2019",
+    "source": "https://sibc-tukwila.org/events/2019/august/shramadaana/",
+    "html": "<div><h2>Shrama Daana - 2019</h2></div><div><h4>This is a past event. This event took place on August 17, 2019</h4></div><div><h2>Shrama Daana (Volunteering event)</h2><p>In Sri Lanka and South Asian countries such as Cambodia, Thailand, devotees pay special attention to sustenance of the temple premises and the well-being of the resident monks during the Vassana period.</p><p><strong>On Saturday, August 17th</strong> , we will focus on cleaning the vihara premises.</p><p>Join your friends and lend a helping hand with following activities.</p><ul><li>Carpet cleaning (we have made plans to rent 2 carpet cleaning machines. We need 4~6 volunteers)</li><li>Pressure washing of exterior walls (There will be 2 pressure washers. We need 2~3 volunteers. Please come with pressure washers if you have any)</li><li>Painting the kitchen area of the monk’s residence (we have already painted the interior of the residence)</li><li>Planting flowers and maintaining the garden (this is a great activity for kids)</li><li>Arranging loose items in the main hall.</li></ul><p>Program is as follows</p><ul><li>Arrival at the premises - 9AM</li><li>Work begins - 9.30AM</li><li>Buddha pooja and Dana for monks - 11.30AM</li><li>Potluck community lunch - 12.30PM</li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2018/august/special_dhamma_desana/",
+    "title": "Special Dhamma Desana - 2018 August",
+    "source": "https://sibc-tukwila.org/events/2018/august/special_dhamma_desana/",
+    "html": "<div><h2>Special Dhamma Desana - 2018 August</h2></div><div><h4>This is a past event. This event took place on August 01, 2018</h4></div><div><h2>English Dhamma talk and discussion with Bhante Phillip Ṭhānavuḍḍho</h2><p>We are pleased to announce that Bhante Phillip Ṭhānavuḍḍho has accepted our invitation for a Dhamma talk at the Sarana International Buddhist Center (SIBC) in Tukwila, Washington.</p><p>During the Vassana period from July to October, Buddhist monks around the world reduce travel and reside in their local temples to focus on spiritual development. This practice, dating back 2500 years, started in India during the time of Buddha. Bhante Phillip Ṭhānavuḍḍho is observing the Vassana period in the Wat Atammayatarama in Woodinville, Washington.</p><blockquote><p><strong>Bhante</strong> is a pali prefix we use to address a Buddhist Monk similar to the way we address strangers with respect as <em>Sir</em> or <em>Madam</em>. You may address him as <strong>Bhante</strong> or <strong>Bhante Phra Phiilip</strong>.</p></blockquote><p>He was raised in Washington, D.C. and became a Buddhist at age 13, attending meditation classes at the Washington Buddhist Vihara. He ordained in Sri Lanka in 2013, after one year of intense training as an anagārika and another year as a samanēra, at the Na-Uyana Aranya forest temple, under the late Ven. Ariyadhamma Mahathera. In 2015, Phra Phillip relocated to Rayong, Thailand and re-ordained at Wat Lahanrai (วัดละหารไร่), living at a nearby forest temple. He studied for one year in Myanmar in 2017.</p><p>Before becoming a Buddhist monk, Bhante Phra Phillip worked as a lawyer in Washington, D.C. and did legal translation for four years in Sichuan Province, China. He is fluent in English, Spanish, Latin, and can speak basic Thai and Standard Mandarin Chinese (to HSK-2 level). He holds a dual Doctorate (JD/Ph.D) in Law and Philosophy from Indiana University and Georgetown University.</p></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2018/october/special_dhamma_desana/",
+    "title": "Special Dhamma Desana - 2018 October",
+    "source": "https://sibc-tukwila.org/events/2018/october/special_dhamma_desana/",
+    "html": "<div><h2>Special Dhamma Desana - 2018 October</h2></div><div><h4>This is a past event. This event took place on October 05, 2018</h4></div><div><h2>Special Dhamma sermon and Bodhi pooja - 5th October</h2><p>In conjunction with 2018 Vassana program, SIBC is pleased to offer a special Dhamma sermon by Thripitakawedi Panamwela Wajirabuddhi Maha Thero (Chief Abbot of the Georgia Buddhist Vihara), on Friday the 5th of October at 7 PM at the SIBC vihara premises in Tukwila, WA. This Dhamma sermon will be offered in English and Sinhala and the focus will be on children and young adults. Please come with your children and friends since this is a great opportunity to introduce them to a Dhamma sermon delivered in English.</p><p>The program is as follows</p><ul><li>6.30 PM - Devotees and friends arrive at the temple</li><li>6.45 PM - Offering of Gilanpasa (tea) to monks</li><li>7.00 PM - Pansil and Commencement of the Bodhi Pooja</li><li>7.30 PM - Light dinner</li><li>8.30 PM - Dhamma Sermon by Venerable Thripitakawedi Panamwela Wajirabuddhi</li><li>9.30 PM - Close of events</li></ul><p>Our guest speaker, Ven. Thripitakawedi Panamwela Wajirabuddhi, was born in Sri Lanka in the Matara District. He was ordained as a novice monk in 1980 at the Dharmaduthashrama Vidyala, Colombo 09, under the guidance of late Venerable Dr. Parawahera Pangnananda Nayaka Maha Thero. His higher ordination took place at Malwathu Maha Vihara, Kandy, Sri Lanka in 1987.</p><p>Venerable Wajirabuddhi has a BA <em>Thripitakavedi</em> degree from Bhikkhu University Anuradhapura, a Masters degree from the Buddhist &amp; Pali University of Sri Lanka and a Language skill Diploma from the Interactive college and technology in Atlanta, Georgia USA. He has been in Buddhist missions in Thailand and United States, and established the Georgia Buddhist Vihara in Atlanta, Georgia in year 2000.</p><p>This event is sponsored by <strong>Deepal Jayasinghe and Krishani Liyanage</strong>.</p></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2019/august/special-meditation/",
+    "title": "Buddha Pooja and Meditation Session - 2019",
+    "source": "https://sibc-tukwila.org/events/2019/august/special-meditation/",
+    "html": "<div><h2>Buddha Pooja and Meditation Session - 2019</h2></div><div><h4>This is a past event. This event took place on September 07, 2019</h4></div><div><h2>Buddha Pooja, sermon and meditation program</h2><p>In conjunction with 2019 Vassana program, SIBC is pleased to offer a special Dhamma sermon and Meditation program by <strong>Ven. Thalangama Dewananda Thero (Chief Abbot of the Indiana Buddhist Vihara), on Saturday the 7th of September at 6 PM</strong> at the SIBC vihara premises in Tukwila, WA.</p><p>This Dhamma sermon will be followed by a meditation session for children. Please come with your children since this will be a great opportunity to introduce meditation to them.</p><h3>Program:</h3><ul><li>5.30PM - Devotees and friends arrive at the temple</li><li>6.00 PM - Pooja for 28 Buddhas (අටවිසි බුද්ධ පූජාව)</li><li>6:30 PM - Dhamma sermon</li><li>7.30 PM - Meditation session</li><li>8.00 PM - Light dinner</li><li>8.30 PM - Close of events</li></ul><p>Our guest speaker, Venerable Thalangama Devananda Maha Thero (Bhante Devananda) was born in 1972. He was ordained on June 17, 1982 and took high ordination (උපසම්පදා) ten years later in 1992 under Bhante Aluthnuwara Anuruddha.</p><p>Bhante Devananda is the chief abbot (විහාරාධිපති) and meditation instructor of Indiana Buddhist Temple. He founded Indiana Buddhist Temple in 2003. He is also the deputy incumbent (විහාරාධිකාරී) of Sri Jayawardenapura Kotte Rajamaha Viharaya, Kotte, Sri Lanka. Bhante conducts Dhamma sermons and meditation retreats to various places including correctional facilities with medium and maximum securities, US Army base, hospitals, hospice centers, senior facilities, yoga centers, universities, schools, Theravada, Mahayana and Tibetan Buddhist temples and other meditation centers.</p><p>This event is sponsored by the families of Ruwan Egodagamage, Jaliya Ekanayake, Charitha Kankanamge, Manjula Peiris, Ajith Ranabahu, Isuru Suriarachchi, Heshan Suriyaarachchi.</p><p>Please visit the link below and let them know if you are attending the event. We would like to get an accurate count of children and families so that we can plan the refreshments.</p></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2020/february/srilankan_day/",
+    "title": "Sri Lankan Day - 2020",
+    "source": "https://sibc-tukwila.org/events/2020/february/srilankan_day/",
+    "html": "<div><h2>Sri Lankan Day - 2020</h2></div><div><h4>This is a past event. This event took place on February 01, 2020</h4></div><div><p>SIBC is hosting a Sri Lanka day celebration on Saturday, February 1st 2020 at the SIBC temple premises in Tukwila, WA</p><p>Sri Lanka day celebrates the Sri Lanka independence day which falls on 4-Feb. We would also like to make this the opportunity to offer good health and blessings to Venerable Polwatte Pagnanananda thero, whose birthday falls on January 30th.</p><p>This is an opportunity to celebrate everything Sri Lanka. If you have traditional Sri Lankan clothes, please come dressed in style. Weather permitting, we will raise the Sri Lanka flag and sing the national anthem outdoors. We will screen an award winning Sri Lankan children’s movie suitable for all audiences (with English captions).</p><ul><li>10.30 AM: Arrival and networking</li><li>11.00 AM: Buddha pooja and offering of Dana to resident monks</li><li>12:00 PM: Community lunch</li><li>1:00 PM: Raising of Sri Lanka flag with the national anthem of Sri Lanka</li><li>1.30 PM: Screening of Sinhala children’s movie (popcorn and tea will be served during the movie)</li><li>3.30 PM: close of events</li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2021/april/new_year/",
+    "title": "Blessings for the Sri Lankan New Year - 2021",
+    "source": "https://sibc-tukwila.org/events/2021/april/new_year/",
+    "html": "<div><h2>Blessings for the Sri Lankan New Year - 2021</h2></div><div><h4>This is a past event. This event took place on April 24, 2021</h4></div><div><p>Sinhala and Tamil New Year heralds the dawn of the new year for people of Sri Lanka and South Asia. This year, SIBC is celebrating Sinhala and Tamil New year on Sat, 24-Apr at the temple premises in Tukwila. Mayor of Tukwila, Hon. Allan Ekberg, will be the guest of honor.</p><p>Celebrations will be held in-person with social distancing, as well as online. <strong>For the benefit of in-person attendees, we will be conducting 2 blessings, starting at 11AM as well as 1PM.</strong></p><h2>Program</h2><ul><li>10.30 AM – Arrival of in-person attendees</li><li>11.00 AM – Commencement of in-person and online events with observance of five precepts</li><li>11.00 AM – Seth pirith (New year blessings) and offering of Buddha Pooja</li><li>12.00 PM – Community Lunch with New year specialties (see special arrangements below)</li><li>1.00 PM – Seth pirith (New year blessings) offered for the second batch of in-person attendees (see below)</li><li>2.00 PM – Close of events</li></ul><h3>Attending in-person</h3><p>In accordance with the Covid-19 guidelines offered by King county, we will accommodate attendees in the Dhamma sala with social distancing in place. We will also provide additional accommodation to attendees in the covered overflow waiting area.</p><p>Please register below if you would like to attend in person and bring Dana/Lunch items. If you would like to join events online, please visit the temple <a href=\"https://www.youtube.com/channel/UCxHXa7UJr1KoeDMY4JihwUA\">youtube channel</a></p><h3>Special arrangements for Dana and Community Lunch</h3><p>You can sign-up to bring Dana items for resident monks as well as for the community lunch. If you are volunteering for Dana items, you may consider joining in person or send it via someone attending the event in person.</p><p>Please sign-up for Dana items by registering below. (please mark in-person attendance column if you plan to bring Dana items and attend in-person)</p><h3>Seth pirith (New year blessings) at 11AM and at 1PM</h3><p>For the convenience of attendees, Resident monks would like to offer new year blessings at 11AM as well as at 1PM in the Dhamma sala. You are welcome to attend the blessings at either of these times at the Dhamma sala.</p><h3>Dress code</h3><p>We don’t have a dress code, but it’s an opportunity to wear traditional Sri Lankan clothes with your children. If not, you can wear what’s comfortable. Weather permitting, you will have the opportunity to meet your friends outdoors and exchange new year greetings. We kindly ask you to wear a mask during your stay at the temple premises and to observe social distancing guidelines.</p></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2023/april/new_year/",
+    "title": "Blessings for the Sri Lankan New Year - 2023",
+    "source": "https://sibc-tukwila.org/events/2023/april/new_year/",
+    "html": "<div><h2>Blessings for the Sri Lankan New Year - 2023</h2></div><div><h4>This is a past event. This event took place on April 22, 2023</h4></div><div><p>Sinhala and Tamil New Year heralds the dawn of the new year for people of Sri Lanka and South Asia. This year, SIBC is celebrating Sinhala and Tamil New year on Saturday April 22nd, at the temple premises in Tukwila.</p><h2>Program</h2><ul><li>9:45AM – Arrival and networking</li><li>10.00 AM – Lighting the oil lamp and observance of five precepts</li><li>10:30AM - Oil anointment ceremony / Seth pirith (New year blessings)</li><li>11.00 AM – Offering of Buddha Pooja and Dana for Maha Sangha</li><li>12.30 PM – Traditional Ganudenu with parents / traditional greeting with Bulath</li><li>1:00PM - Community Lunch with New year specialties</li></ul><p>Please sign-up for Dana items by registering below.</p><h3>Dress code</h3><p>We don’t have a dress code, but it’s an opportunity to wear traditional Sri Lankan clothes with your children. If not, you can wear what’s comfortable. Weather permitting, you will have the opportunity to meet your friends outdoors and exchange new year greetings.</p></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2019/march/foodfestival/",
+    "title": "Sri Lankan Food Festival - 2019",
+    "source": "https://sibc-tukwila.org/events/2019/march/foodfestival/",
+    "html": "<div><h2>Sri Lankan Food Festival - 2019</h2></div><div><h4>This is a past event. This event took place on March 17, 2019</h4></div><div><div><p>Sarana International Buddhist Center is excited to announce the upcoming Sri Lankan Food Festival to raise funds for the temple. This event will take place on the temple premises on the <strong>17th of March, 2019, from 3.00PM to 7.30PM</strong>.</p><p>Attendees have the opportunity to buy a number of traditional Sri Lankan food items, such as <a href=\"https://en.wikipedia.org/wiki/Idiyappam\">String hoppers</a>, <a href=\"https://en.wikipedia.org/wiki/Kottu\">Koththu</a>, Roasted flat bread, <a href=\"https://en.wikipedia.org/wiki/Vada_(food)\">Wadai</a> and others.</p><p>A limited number of items can be pre-ordered using the form below. Note that the pre-orders are best effort and the listed prices are approximate.</p></div></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2024/april/newyear/",
+    "title": "Sri Lankan New Year - 2024",
+    "source": "https://sibc-tukwila.org/events/2024/april/newyear/",
+    "html": "<div><h2>Sri Lankan New Year - 2024</h2></div><div><h4>This is a past event. This event took place on April 21, 2024</h4></div><div><p>The <a href=\"https://en.wikipedia.org/wiki/Sinhalese_New_Year\">Sri Lankan Sinhala and Tamil new year</a> celebrations will be held in the SIBC premises on <strong>Sunday 21st April, from 10.30AM onwards</strong>.</p><p>Agenda for the day</p><ul><li>10-10.30AM - Arrival and networking</li><li>10.45AM - Oil Anointing Ceremony (හිස තෙල් ගෑම)</li><li>11.00AM - Buddha pooja</li><li>11.30AM - Offering Dana to monks</li><li>12.30PM - Worshipping the parents (බුලත් දී දෙමවුපියන් වැදීම )</li><li>1.00PM - Community Lunch</li><li>1.30PM - Games</li></ul><p>We plan to have the following games</p><ul><li>Balloon burst (බැලුන් පිපිරවීම) - Kids</li><li>Musical Chairs (සංගීත පුටු තරඟය) - Kids</li><li>Musical Chairs (සංගීත පුටු තරඟය) - Men</li><li>Musical Chairs (සංගීත පුටු තරඟය) - Women</li><li>Marking the eye of the elephant (අලියාට ඇස තැබීම) - Kids</li><li>Marking the eye of the elephant (අලියාට ඇස තැබීම) - Adults</li><li>Lime and spoon race (හැන්ද මත දෙහි ගෙඩිය තබාගෙන යාම) - Kids ( 7 and under)</li><li>Lime and spoon race (හැන්ද මත දෙහි ගෙඩිය තබාගෙන යාම) - Kids (8 and above)</li><li>Lime and spoon race (හැන්ද මත දෙහි ගෙඩිය තබාගෙන යාම) - Men</li><li>Lime and spoon race (හැන්ද මත දෙහි ගෙඩිය තබාගෙන යාම) - Women</li><li>Blindfolded Feeding (අන්ධයාට කිරි කැවීම) - Kids</li><li>Blindfolded Feeding (අන්ධයාට කිරි කැවීම) - Adults</li><li>Tug of war (කඹ ඇදීම) - Kids</li><li>Finding the coin (කාසිය සෙවීම) - Kids</li></ul><div><div><div><h2>Sponsors for the Avurudu Games</h2></div><div> Please signup to sponsor a game or consolation prizes using <a href=\"https://forms.gle/WJ8Rcd24D5rUUCYh6\">this form</a>.</div><div><div><div><p>Loading...</p></div></div></div></div></div></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2019/april/newyear/",
+    "title": "Sri Lankan New Year - 2019",
+    "source": "https://sibc-tukwila.org/events/2019/april/newyear/",
+    "html": "<div><h2>Sri Lankan New Year - 2019</h2></div><div><h4>This is a past event. This event took place on April 20, 2019</h4></div><div><p>The <a href=\"https://en.wikipedia.org/wiki/Sinhalese_New_Year\">Sri Lankan Sinhala and Tamil new year</a> celebrations will be held in the SIBC premises on <strong>Saturday 20th April, from 10.30AM onwards</strong>.</p><p>Agenda for the day</p><ul><li>10-10.30AM - Arrival and networking</li><li>10.45AM - Oil Anointing Ceremony (හිස තෙල් ගෑම)</li><li>11.00AM - Buddha pooja</li><li>11.30AM - Offering Dana to monks</li><li>12.30PM - Worshipping the parents (බුලත් දී දෙමවුපියන් වැදීම )</li><li>1.00PM - Community Lunch</li><li>1.30PM - Games</li></ul><p>The following games are planned</p><ul><li>Balloon burst (බැලුන් පිපිරවීම) - Kids</li><li>Musical Chairs (සංගීත පුටු තරඟය) - Kids</li><li>Musical Chairs (සංගීත පුටු තරඟය) - Men</li><li>Musical Chairs (සංගීත පුටු තරඟය) - Women</li><li>Marking the eye of the elephant (අලියාට ඇස තැබීම) - Kids</li><li>Marking the eye of the elephant (අලියාට ඇස තැබීම) - Adults</li><li>Lime and spoon race (හැන්ද මත දෙහි ගෙඩිය තබාගෙන යාම) - Kids ( 7 and under)</li><li>Lime and spoon race (හැන්ද මත දෙහි ගෙඩිය තබාගෙන යාම) - Kids (8 and above)</li><li>Lime and spoon race (හැන්ද මත දෙහි ගෙඩිය තබාගෙන යාම) - Men</li><li>Lime and spoon race (හැන්ද මත දෙහි ගෙඩිය තබාගෙන යාම) - Women</li><li>Blindfolded Feeding (අන්ධයාට කිරි කැවීම) - Kids</li><li>Blindfolded Feeding (අන්ධයාට කිරි කැවීම) - Adults</li><li>Fancy dress contest (විවිධ ඇඳුම් තරඟය) - Kids</li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/donations/expenses/",
+    "title": "Recurring Expenses in SIBC",
+    "source": "https://sibc-tukwila.org/donations/expenses/",
+    "html": "<p>At the annual general meeting of SIBC on June 24th 2018, devotees who attended the meeting discussed and thought of adopting a more structured fund raising program and methodology for the benefit of the temple and it’s devotees. This was done at the request and guidance of Venerable Polwatte Paggnananda. Currently fixed expenses of the temple are running at about $2,200 per month. These expenses are listed below.</p><table><thead><tr><th scope=\"col\">#</th><th scope=\"col\">Cost Item</th><th scope=\"col\">Monthly Cost</th></tr></thead><tbody><tr><td>1</td><td>Electricity</td><td>$500 (Variable, based on the season)</td></tr><tr><td>1</td><td>Sewer &amp; Capacity Charge</td><td>$650</td></tr><tr><td>3</td><td>Garbage</td><td>$150</td></tr><tr><td>4</td><td>Water</td><td>$200 (Variable, based on temple activities)</td></tr><tr><td>5</td><td>Fire Alarm System</td><td>$127 (Billed quarterly at $390)</td></tr><tr><td>6</td><td>Internet &amp; Phone</td><td>$140</td></tr><tr><td>7</td><td>Property Insurance</td><td>$179 (Billed semiannually at $1074)</td></tr><tr><td>7</td><td>Property taxes</td><td>$171.53 (Billed annually at $2058.33)</td></tr><tr><td>9</td><td>Total</td><td>$2,118</td></tr></tbody></table><h2>Pledging a Donation</h2><p>We request all well wishes and devotees of the temple to contribute to bearing part of the temple expenses by pledging a donation and enjoy the happiness of being with Dhamma. Our plan is to obtain monthly donations going up to $2,500, accommodating ~$300 for unexpected expenses.</p><p>Payments can be made thru checks or any other payment method described in the <a href=\"/donations/\">donations</a> page.</p><p>Current pledges are listed in the <a href=\"/donations/pledged_donations/\">pledged donations</a> page.</p><h2>Submit a new Pledge</h2><p>To pledge a donation, please use <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSd_Tq37-CE87krNOvlsY964hbJdsmOS6Xfsko8lBTppBR0DVw/viewform?embedded=false\">this form</a>.</p><h2>Transparency</h2><p>The temple income and expenses are published to the temple members via a Google drive. The published documents include the bills for expenses and the account statement of the expenses account.</p><p>All of your contributions are tax exempted and a certificate will be issued during January of every year.</p>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/upcoming/",
+    "title": "Upcoming Events",
+    "source": "https://sibc-tukwila.org/events/upcoming/",
+    "html": "<ul><li>[Wed, Jan 01, 2025] <a href=\"/events/2025/january/blessings/\">Blessings for the New Year - 2025</a></li></ul>",
+    "historical": false,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2018/vas_bodhipuja/",
+    "title": "Vassana Weekly Bodhipuja Series - 2018",
+    "source": "https://sibc-tukwila.org/events/2018/vas_bodhipuja/",
+    "html": "<div><h2>Vassana Weekly Bodhipuja Series - 2018</h2></div><div><h4>This is a past event. This event took place on August 01, 2018</h4></div><div><h2>Weekly Vassana seth pirith, dhamma desana and bodhi pooja</h2><p>During the Vassana period from July to October, you have the opportunity to sponsor a bodhi pooja, dhamma desana or a seth pirith chanting each Friday or Saturday. You can conduct a pooja in memory of a loved one or to celebrate a special event such as anniversaries or birth days. You and your friends can reserve either Friday evening or Saturday for a pooja.</p></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2019/vas_bodhipuja/",
+    "title": "Vassana Weekly Bodhi Pooja Series - 2019",
+    "source": "https://sibc-tukwila.org/events/2019/vas_bodhipuja/",
+    "html": "<div><h2>Vassana Weekly Bodhi Pooja Series - 2019</h2></div><div><h4>This is a past event. This event took place on August 01, 2019</h4></div><div><h2>Weekly Vassana Seth Pirith, Dhamma Sermon and Bodhi Pooja</h2><p>SIBC is pleased to offer weekly seth pirith and bodhi pooja during this Vassana period. <strong>The current signups are complete for year 2019</strong>.</p></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2020/vas_bodhipuja/",
+    "title": "Vassana Weekly Bodhi Pooja Series - 2020",
+    "source": "https://sibc-tukwila.org/events/2020/vas_bodhipuja/",
+    "html": "<div><h2>Vassana Weekly Bodhi Pooja Series - 2020</h2></div><div><h4>This is a past event. This event took place on August 01, 2020</h4></div><div><h2>Weekly Vassana Seth Pirith, Dhamma Sermon and Bodhi Pooja</h2><p>SIBC is pleased to offer weekly seth pirith and bodhi pooja during this Vassana period.</p><p><strong>Please note that these events will be conducted according to the Covid-19 guidelines for religious organizations offered by the State of Washington and King county health officials. The in-person participation will be limited.</strong></p></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2021/vas_religious_events/",
+    "title": "Vassana Weekly Religious Event Series - 2021",
+    "source": "https://sibc-tukwila.org/events/2021/vas_religious_events/",
+    "html": "<div><h2>Vassana Weekly Religious Event Series - 2021</h2></div><div><h4>This is a past event. This event took place on August 01, 2021</h4></div><div><h2>Weekly Vassana Seth Pirith, Dhamma Sermon and Bodhi Pooja</h2><p>SIBC is pleased to offer weekly seth pirith and bodhi pooja during this Vassana period. Please sign up to sponsor a religious event using the form below.</p><p><strong>Please note that these events will be conducted according to the Covid-19 guidelines for religious organizations offered by the State of Washington and King county health officials. This guidance may change based on the progress with vaccinations and we will send out updates when such guidance changes happen.</strong></p></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2023/vas_religious_events/",
+    "title": "Vassana Weekly Religious Event Series - 2023",
+    "source": "https://sibc-tukwila.org/events/2023/vas_religious_events/",
+    "html": "<div><h2>Vassana Weekly Religious Event Series - 2023</h2></div><div><h4>This is a past event. This event took place on August 01, 2023</h4></div><div><h2>Weekly Vassana Seth Pirith, Dhamma Sermon and Bodhi Pooja</h2><p>SIBC is pleased to offer weekly religious activities during this Vassana period. Please sign up to sponsor a religious event using the form below.</p></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2022/vas_religious_events/",
+    "title": "Vassana Weekly Religious Event Series - 2022",
+    "source": "https://sibc-tukwila.org/events/2022/vas_religious_events/",
+    "html": "<div><h2>Vassana Weekly Religious Event Series - 2022</h2></div><div><h4>This is a past event. This event took place on August 31, 2022</h4></div><div><h2>Weekly Vassana Seth Pirith, Dhamma Sermon and Bodhi Pooja</h2><p>SIBC is pleased to offer weekly religious activities during this Vassana period. Please sign up to sponsor a religious event using the form below.</p></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2024/vas_religious_events/",
+    "title": "Vassana Weekly Religious Event Series - 2024",
+    "source": "https://sibc-tukwila.org/events/2024/vas_religious_events/",
+    "html": "<div><h2>Vassana Weekly Religious Event Series - 2024</h2></div><div><h4>This is a past event. This event took place on July 26, 2024</h4></div><div><h2>Weekly Vassana Seth Pirith, Dhamma Sermon and Bodhi Pooja</h2><p>SIBC is pleased to offer weekly religious activities during this Vassana period. Please sign up to sponsor a religious event using the form below.</p></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2021/july/vasaradhana/",
+    "title": "Vassana Aradhana Ceremony - 2021",
+    "source": "https://sibc-tukwila.org/events/2021/july/vasaradhana/",
+    "html": "<div><h2>Vassana Aradhana Ceremony - 2021</h2></div><div><h4>This is a past event. This event took place on July 24, 2021</h4></div><div><h2>Vassana Aradhana (Invitation) Ceremony</h2><p>Vassana season is a period where Buddhist monks take time to offer advice and sermons to the lay people. Vassana season begins with the Esala poya, the full moon day in the month of July and ends in October with Katina pooja.</p><p>As part of this tradition, lay people invite the resident monks to engage in religious activities during the Vassana season. Vassana pooja is the formal event where the monks are cordially invited to commence the Vassana program for the year.</p><p>For the year 2021, the Vassana pooja is scheduled on <strong>24th of July</strong> .</p><p><strong>Your health is a top priority for us. We will be conducting this year’s Vassana ceremonies in accordance with the Covid-19 guidelines for religious organizations offered by the State of Washington and King county health officials. This post will be updated with more details of the specific measures taken by the temple to ensure healthy participation.</strong></p><h2>Inviting resident monks to observe Vassana period</h2><p>This year, <strong>Mr. and Mrs. Greshan and Chithra Fernando</strong> have graciously accepted to invite the monks to conduct the Vassana pooja at the temple. They are also the patrons for the Katina program that is celebrated in October.</p><p>Please join Greshan, Chithra and their family, your friends and the resident monks on <strong>Saturday, July 24th at 9.00 AM</strong> for a special pooja and pirith chanting to commence the Vassana season. Program is as follows</p><ul><li>9.00 am - Offering Buddha Pooja</li><li>9.30 am - Vas Aradhana</li><li>9.45am - Dhamma sermon</li><li>10.45 am - Offering Dana</li><li>12.30 pm - End of the Ceremony</li></ul><p>Please use the form at the bottom of this page to sign up for Dana items.</p><h2>Flyer</h2><p></p><h2>Youtube Video</h2><div> </div></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": [
+      {
+        "url": "https://sibc-tukwila.org/images/flyers/vas_aradhana_flyer_2021.jpg",
+        "alt": "Flyer",
+        "local": "/static/images/vas_aradhana_flyer_2021.webp"
+      }
+    ]
+  },
+  {
+    "path": "/events/2018/vasaradhana/",
+    "title": "Vassana Aradhana Ceremony - 2018",
+    "source": "https://sibc-tukwila.org/events/2018/vasaradhana/",
+    "html": "<div><h2>Vassana Aradhana Ceremony - 2018</h2></div><div><h4>This is a past event. This event took place on July 28, 2018</h4></div><div><h2>Vassana Aradhana (Invitation) Ceremony</h2><p>Vassana season is a period where Buddhist monks take time to offer advice and sermons to lay people such as you and me. Vassana season begins with the Esala poya, the full moon day in the month of July and ends in October with Katina pooja.</p><p>As lay people, we invite the resident Monks to engage us in religious activities during the Vassana season. Vassana pooja is the formal event where we cordially invite the Monks to commence the Vassana program for the year.</p><p>While Vassana season in India entails monsoon rains, we are very fortunate to have warm and long sunny days during this period. Vassana period also coincides with summer holidays where kids are off school and we relax. This is also an excellent time to get your family engaged in cultural and religious activities. SIBC is pleased to offer weekly seth pirith and bodhi pooja during this Vassana period. This is a great opportunity to conduct a pooja in memory of a loved one or to commemorate a special event such as a birth day or an anniversary.</p><h2>Inviting resident monks to observe Vassana period</h2><p>This year, <strong>Mr. and Mrs. Sathya and Dinithi Mallawarachchi</strong> have graciously accepted to invite the monks to conduct the Vassana pooja at the temple. They are also the patrons for the Katina program that is celebrated in October. Many of us have known Satya and Dinithi for years - let’s congratulate them and offer our best wishes and support.</p><p>Please join Satya &amp; Dinithi, your friends and the resident monks on <strong>Saturday, 28-Jul at 10.00 AM</strong> for a special pooja and pirith chanting to commence the Vassana season. Program is as follows</p><ul><li>10:00 AM - Arrival and networking</li><li>10.30AM - Observance of Pansil and invitation to Monks</li><li>11.00 AM - Buddha pooja and Dana to resident monks</li><li>12.00 PM - Community lunch</li><li>1.30 PM - Close of events</li></ul><p>On completion of the Bodhi pooja, We will conduct a community lunch.</p></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2020/july/vasaradhana/",
+    "title": "Vassana Aradhana Ceremony - 2020",
+    "source": "https://sibc-tukwila.org/events/2020/july/vasaradhana/",
+    "html": "<div><h2>Vassana Aradhana Ceremony - 2020</h2></div><div><h4>This is a past event. This event took place on July 11, 2020</h4></div><div><h2>Vassana Aradhana (Invitation) Ceremony</h2><p>Vassana season is a period where Buddhist monks take time to offer advice and sermons to the lay people. Vassana season begins with the Esala poya, the full moon day in the month of July and ends in October with Katina pooja.</p><p>As part of this tradition, lay people invite the resident monks to engage in religious activities during the Vassana season. Vassana pooja is the formal event where the monks are cordially invited to commence the Vassana program for the year.</p><p>For the year 2020, the Vassana pooja is scheduled on <strong>11th of July</strong> and the Katina pooja is scheduled on 10th and 11th of October.</p><p><strong>Your health is a top priority for us. We will be conducting this year’s Vassana ceremonies in accordance with the Covid-19 guidelines for religious organizations offered by the State of Washington and King county health officials. As such, this event will have a limited in-person participation. This post will be updated with more details of the specific measures taken by the temple to ensure healthy participation.</strong></p><h2>Inviting resident monks to observe Vassana period</h2><p>This year, <strong>Mr. and Mrs. Pradeep Jalthota</strong> have graciously accepted to invite the monks to conduct the Vassana pooja at the temple. They are also the patrons for the Katina program that is celebrated in October.</p><p>Please join Pradeep and his family, your friends and the resident monks on <strong>Saturday, July 11th at 4.30 PM</strong> for a special pooja and pirith chanting to commence the Vassana season. Program is as follows</p><ul><li>4:00 PM - Arrival and networking</li><li>4.30 PM - Observance of Pansil and invitation to Monks</li><li>5.00 PM - Buddha pooja and pirith chanting</li><li>6.00 PM - Light refreshments</li><li>7.00 PM - Close of events</li></ul><h2>Youtube Video</h2><div> </div></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2022/july/vasaradhana/",
+    "title": "Vassana Aradhana Ceremony - 2022",
+    "source": "https://sibc-tukwila.org/events/2022/july/vasaradhana/",
+    "html": "<div><h2>Vassana Aradhana Ceremony - 2022</h2></div><div><h4>This is a past event. This event took place on July 16, 2022</h4></div><div><h2>Vassana Aradhana (Invitation) Ceremony</h2><p>Vassana season is a period where Buddhist monks take time to offer advice and sermons to the lay people. Vassana season begins with the Esala poya, the full moon day in the month of July and ends in October with Katina pooja.</p><p>As part of this tradition, lay people invite the resident monks to engage in religious activities during the Vassana season. Vassana pooja is the formal event where the monks are cordially invited to commence the Vassana program for the year.</p><p>For the year 2022, the Vassana pooja is scheduled on <strong>16th of July</strong> .</p><h2>Inviting resident monks to observe Vassana period</h2><p>This year, <strong>Mr. and Mrs. Chandra and Madhu Ranaweera</strong> have graciously accepted to invite the monks to conduct the Vassana pooja at the temple. They are also the patrons for the Katina program that is celebrated in October.</p><p>Please join Chandra, Madhu and their family, your friends and the resident monks on <strong>Saturday, July 16th at 9.00 AM</strong> for a special pooja and pirith chanting to commence the Vassana season. Program is as follows</p><ul><li>9.00 am - Offering Buddha Pooja</li><li>9.30 am - Vas Aradhana</li><li>9.45am - Dhamma sermon</li><li>10.45 am - Offering Dana</li><li>12.30 pm - End of the Ceremony</li></ul><p>Please use the form at the bottom of this page to sign up for Dana items.</p></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2024/july/vasaradhana/",
+    "title": "Vassana Aradhana Ceremony - 2024",
+    "source": "https://sibc-tukwila.org/events/2024/july/vasaradhana/",
+    "html": "<div><h2>Vassana Aradhana Ceremony - 2024</h2></div><div><h4>This is a past event. This event took place on July 20, 2024</h4></div><div><h2>Vassana Aradhana (Invitation) Ceremony</h2><p>Vassana season is a period where Buddhist monks take time to offer advice and sermons to the lay people. Vassana season begins with the Esala poya, the full moon day in the month of July and ends in October with Katina pooja.</p><p>As part of this tradition, lay people invite the resident monks to engage in religious activities during the Vassana season. Vassana pooja is the formal event where the monks are cordially invited to commence the Vassana program for the year.</p><p>For the year 2024, the Vassana pooja is scheduled on <strong>Saturday, July 20th of 2024</strong> .</p><h2>Inviting resident monks to observe Vassana period</h2><p>This year, <strong>Mr. &amp; Mrs Dayantha Kodituwakku</strong> &amp; <strong>Mr &amp; Mrs. Gavesha Ratnayaka</strong> have graciously accepted to invite the monks to conduct the Vassana pooja at the temple. They are also the patrons for the Katina program that is celebrated in October. Many of us have known these two families for many years - let’s congratulate them and offer our best wishes and support.</p><p>Please join Dayantha, Chandima, Gavesha, Buddika and your friends and the resident monks on <strong>Saturday, July 20th at 9:45 AM</strong> for a special pooja and pirith chanting to commence the Vassana season. Program is as follows:</p><ul><li>9:45 AM - Arrival and congregation</li><li>10:00 AM - Pooja and Vas Aradhana</li><li>10:15 AM - Dhamma Sermon</li><li>11:00 AM - Buddha pooja and Offering Dana</li><li>12:00 PM - Community lunch</li><li>12:30 PM - Close of events</li></ul><p>Please use the form at the bottom of this page to sign up for Dana items.</p></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2019/july/vasaradhana/",
+    "title": "Vassana Aradhana Ceremony - 2019",
+    "source": "https://sibc-tukwila.org/events/2019/july/vasaradhana/",
+    "html": "<div><h2>Vassana Aradhana Ceremony - 2019</h2></div><div><h4>This is a past event. This event took place on July 20, 2019</h4></div><div><h2>Vassana Aradhana (Invitation) Ceremony</h2><p>Vassana season is a period where Buddhist monks take time to offer advice and sermons to the lay people. Vassana season begins with the Esala poya, the full moon day in the month of July and ends in October with Katina pooja.</p><p>As part of this tradition, lay people invite the resident monks to engage in religious activities during the Vassana season. Vassana pooja is the formal event where the monks are cordially invited to commence the Vassana program for the year.</p><p>For the year 2019, the Vassana pooja is scheduled on <strong>20th of July</strong> and the Katina pooja is scheduled on 19th and 20th of October.</p><h2>Inviting resident monks to observe Vassana period</h2><p>This year, <strong>Mr. and Mrs. Milinda and Chamila Vitharana</strong> have graciously accepted to invite the monks to conduct the Vassana pooja at the temple. They are also the patrons for the Katina program that is celebrated in October.</p><p>Please join Milinda &amp; Chamila, your friends and the resident monks on <strong>Saturday, July 20th at 10.00 AM</strong> for a special pooja and pirith chanting to commence the Vassana season. Program is as follows</p><ul><li>10:00 AM - Arrival and networking</li><li>10.30AM - Observance of Pansil and invitation to Monks</li><li>11.00 AM - Buddha pooja and Dana to resident monks</li><li>12.00 PM - Community lunch</li><li>1.30 PM - Close of events</li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2023/july/vasaradhana/",
+    "title": "Vassana Aradhana Ceremony - 2023",
+    "source": "https://sibc-tukwila.org/events/2023/july/vasaradhana/",
+    "html": "<div><h2>Vassana Aradhana Ceremony - 2023</h2></div><div><h4>This is a past event. This event took place on July 29, 2023</h4></div><div><h2>Vassana Aradhana (Invitation) Ceremony</h2><p>Vassana season is a period where Buddhist monks take time to offer advice and sermons to the lay people. Vassana season begins with the Esala poya, the full moon day in the month of July and ends in October with Katina pooja.</p><p>As part of this tradition, lay people invite the resident monks to engage in religious activities during the Vassana season. Vassana pooja is the formal event where the monks are cordially invited to commence the Vassana program for the year.</p><p>For the year 2023, the Vassana pooja is scheduled on <strong>29th of July</strong> .</p><h2>Inviting resident monks to observe Vassana period</h2><p>This year, <strong>Mr. and Mrs. Kapila and Chamila Marasinghe, Mr. and Mrs. Dinesh and Ganga Uduwana</strong> have graciously accepted to invite the monks to conduct the Vassana pooja at the temple. They are also the patrons for the Katina program that is celebrated in November.</p><p>Please join Kapila, Chamila, Dinesh, Ganga and their families, your friends and the resident monks on <strong>Saturday, July 29th at 9.00 AM</strong> for a special pooja and pirith chanting to commence the Vassana season. Program is as follows</p><ul><li>9:00 am - Offering Buddha Pooja</li><li>9:30 am - Vas Aradhana</li><li>9:45am - Dhamma sermon</li><li>10:45 am - Offering Dana</li><li>12:30 pm - End of the Ceremony</li></ul><p>Please use the form at the bottom of this page to sign up for Dana items.</p></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2024/may/vesak-seela-event/",
+    "title": "Vesak Celebration - 2024",
+    "source": "https://sibc-tukwila.org/events/2024/may/vesak-seela-event/",
+    "html": "<div><h2>Vesak Celebration - 2024</h2></div><div><h4>This is a past event. This event took place on May 18, 2024</h4></div><div><p>The Vesak celebrations for the year 2024 will be held at the Sarana International Buddhist Center premises on Saturday May 18th 2024. We plan to do the Sil program in the morning and the Vesak festivities in the evening.</p><p>Following is the program for the day</p><h3>Morning Program : 7:30am to 4:00pm</h3><ul><li>Vesak Sil Program ( අට සිල් සමාදන් වීම ) from 7.30am to 4:00pm.</li></ul><h3>Evening Program : 4:00 pm onwards</h3><ul><li>Dan sal - මල් දන්සැල and සිසිල් පැන් දන්සැල</li><li>Fundraising event</li><li>Bodhi pooja</li><li>Bakthi Gee program</li><li>Hanging lanterns</li><li><p>Lighting of candles</p></li><li>7:30pm - Community Dinner.</li><li>10:00pm - Conclusion of events.</li></ul><h2>Participating in the Sil program</h2><p>if you wish to attend, please <a href=\"https://forms.gle/hQgMTbtqnsWP3jwt8\">signup here</a>.</p><div><div><div><h3>Current Signups for the Sil Program</h3></div><div></div><div><div><div><p>Loading...</p></div></div></div></div></div><h2>Contributing to the Dansala</h2><p>if you wish to contribute to the Dansala, please <a href=\"https://forms.gle/de4ByiQ7RqrN5ENM6\">signup here</a>.</p><div><div><div><h3>Current Contributors to the Dansala</h3></div><div></div><div><div><div><p>Loading...</p></div></div></div></div></div><h2>Signup to bring a Dana item for the Sil Program</h2><p>if you wish to contribute to the Dana, please <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSedzlDTDnfFPDVhD6MTtqR1qBT3MTVqS3O1gmIX-fzlfo9iAw/viewform\">signup here</a>.</p><div><div><div><h3>Current Contributors to the Dana</h3></div><div></div><div><div><div><p>Loading...</p></div></div></div></div></div><h2>Sponsor and support a Sil activity</h2><p>if you wish to support the sil program in any other way, say by providing a Gilanpasa (Tea or other beverages) or volunteering, please <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfFV9xuGwZra1PEXrJ75RMG8jvB2mRnd97OI7xkzhRYDTiSuw/viewform\">signup here</a>.</p><div><div><div><h3>Current Sil Activity Sponsors</h3></div><div></div><div><div><div><p>Loading...</p></div></div></div></div></div></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2019/may/vesak/",
+    "title": "Vesak - 2019",
+    "source": "https://sibc-tukwila.org/events/2019/may/vesak/",
+    "html": "<div><h2>Vesak - 2019</h2></div><div><h4>This is a past event. This event took place on May 18, 2019</h4></div><div><p>The Vesak celebrations for the year 2019 will be held at the Sarana International Buddhist Center premises on Saturday May 18th 2019. Following is the program for the day</p><ul><li>10.00AM - 4.30PM : Sil program (for adults)</li><li>5.00PM - 7.00PM : Buddhist devotional songs (භක්ති ගීත)</li><li>7.00PM - 8.00PM : Bodi Pooja(බෝධි පූජාව)</li><li>8.00PM onwards: Vesak lantern lighting</li></ul><p>Please signup for the Sil program and food contributions using the form below. <strong>Please note that this Sil program is for adults</strong> - a childrens Sil program will be organized for the Poson full moon poya day next month.</p></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2021/may/vesak-seela-event/",
+    "title": "Vesak Seela Event - 2021",
+    "source": "https://sibc-tukwila.org/events/2021/may/vesak-seela-event/",
+    "html": "<div><h2>Vesak Seela Event - 2021</h2></div><div><h4>This is a past event. This event took place on May 29, 2021</h4></div><div><p>The Vesak celebrations for the year 2021 will be held at the Sarana International Buddhist Center premises on Saturday May 29th 2021. Following is the program for the day</p><ul><li>8.00AM - Start of the event with Buddha pooja and committing to the eight precepts (අට සිල් සමාදන් වීම)</li><li>8.30AM to 10.30AM - Meditation</li><li>10.30AM - Buddha Pooja</li><li>11.00AM - Pindapatha Daana (පිණ්ඩපාත දානය)</li><li>12.30PM - Walking meditation (සක්මන් භාවනාව)</li><li>1.00PM - Sutra Chanting (ධම්මචක්ක සුත්‍ර සජ්ජායනය)</li><li>2.00PM - Dhamma Discussion</li><li>3.30PM - Gilanpasa Daana (ගිලන්පස දානය)</li><li>4.00PM - Special Dhamma Sermon and uncommiting the eight precepts (අට සිල් පවාරණය)</li><li>5.00PM - Gilanpasa Buddha Pooja and pirith chanting.</li></ul><p>Please signup for the Sil program using the form below. <strong>Please note that this Sil program is for adults</strong> - a childrens Sil program will be organized later in the year.</p><h2>Flyer</h2><p></p></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": [
+      {
+        "url": "https://sibc-tukwila.org/images/flyers/silprogram-web-optimized.png",
+        "alt": "Flyer",
+        "local": "/static/images/silprogram-web-optimized.webp"
+      }
+    ]
+  },
+  {
+    "path": "/donations/campaigns/wall_project/",
+    "title": "Special Campaign - SIBC Wall Project",
+    "source": "https://sibc-tukwila.org/donations/campaigns/wall_project/",
+    "html": "<h2>Highlights</h2><p>Pledge your wall donation <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfHcmjndcHVdSxs-eraK_8CBReOOzx6ua7Rwc7ZX3AFmWkSHg/viewform\">using this form</a></p><p>Make donations to the building fund via Zelle : <strong>sibc.buildingfund@gmail.com</strong></p><div><div><div><h3>Current Fund Raising Progress</h3></div><div></div></div></div><div><div><div><h3>Current Donors</h3></div><div></div></div></div><div><h3>Collections via Temple Religious Events</h3></div><div><table><tbody><tr><th scope=\"col\">Religious Event Collections</th></tr><tr><td>June 20</td><td>Vas Aradhana</td><td>$275</td></tr><tr><td>June 27</td><td>Weekly Pooja</td><td>$200</td></tr><tr><td>August 02</td><td>Weekly Pooja</td><td>$200</td></tr><tr><td>August 10</td><td>Weekly Pooja</td><td>$50</td></tr><tr><td>August 17</td><td>Weekly Pooja</td><td>$100</td></tr><tr><td>August 24</td><td>Weekly Pooja</td><td>$50</td></tr><tr><td>August 31</td><td>Weekly Pooja</td><td>$100</td></tr><tr><td>Sept 07</td><td>Weekly Pooja</td><td>$250</td></tr><tr><td>Sept 21</td><td>Weekly Pooja</td><td>$75</td></tr><tr><td>Sept 28</td><td>Weekly Pooja</td><td>$100</td></tr><tr><td>Oct 12</td><td>Weekly Pooja</td><td>$120</td></tr><tr><td>Oct 19</td><td>Weekly Pooja</td><td>$50</td></tr></tbody></table></div><div><h3>Collections via Special Events</h3></div><div><table><tbody><tr><th scope=\"col\">Food Festival</th></tr><tr><td>Total Collection : $7000</td></tr><tr><td>Lead Organizer</td><td>Sathya Mallawarachchi</td></tr><tr><td>Gayani Ratnayake</td><td>Gayani's Beli Mal</td></tr><tr><td>Hassan Huzair</td><td>Crushed Pepper</td></tr><tr><td>Gagana Jayasinghe</td><td>Mihiri Foods</td></tr><tr><td>Manjula Peris</td><td>Seattle Pipena Kakulu</td></tr><tr><td>Sam Samaranayake</td><td>Rolls by Sam</td></tr><tr><td>Kasun Jayasinghe &amp; Lahiru Gammanpila</td><td>Wild Kottu</td></tr><tr><td>Nishadi Kolonne</td><td>Atapattu Sweet house</td></tr></tbody></table></div><div><table><tbody><tr><th scope=\"col\">70's Bowling Night</th></tr><tr><td>Total Collection : $3600</td></tr><tr><td>Team Captains</td><td>Team collection</td></tr><tr><td>Buddika Ratnayake</td><td>$600</td></tr><tr><td>Gavesha Ratnayake</td><td>$525</td></tr><tr><td>Enoka Fernando</td><td>$450</td></tr><tr><td>Inoka Wijesekara</td><td>$525</td></tr><tr><td>Kusala Bandara</td><td>$525</td></tr><tr><td>Manjula Wijenayake</td><td>$450</td></tr><tr><td>Nipuna Gunasekara</td><td>$525</td></tr></tbody></table></div><h2>Background</h2><p>In year 2024, SIBC aims to enhance our temple by building a concrete wall to replace the existing fence. The estimated cost for this project is $35,000 to $40,000. We have established a dedicated capital account to collect funds exclusively for this project, ensuring full transparency. All raised funds will be used solely for the wall construction, while all Katina expenses will be covered by two patron families.</p><p>SIBC serves as a vital cultural and community hub for the Sri Lankan community, as well as a place of worship for Buddhists. Many lasting friendships and community bonds have been formed here. It is also a place where our children can connect with their heritage and take pride in their roots. In keeping with traditional Sri Lankan aesthetics, we plan to adorn the wall with cloud-shaped structures (“Walakulu Bamma”).</p><h2>2024 Project: Concrete Wall Construction</h2><ul><li>Location: Along 51st Ave S, replacing the current fence.</li><li>Dimensions: Approximately 160 ft in length.</li><li>Current Gate: Will remain in place.</li><li>Cloud Adornments: Not included in the initial construction but will be considered in future enhancements (phase 2).</li><li>Durability: 50 year life, low maintenance, ability to support cloud structure</li></ul><h2>Project Estimates and Timeline</h2><ul><li>Cost: Initial estimates are $35,000+.</li><li>Timeline: Start date upon securing full funding. The project is expected to take 4-6 weeks once commenced.</li></ul><h2>Project Funding</h2><ul><li>Planning and Management: Volunteers from the Kodituwakku and Ratnayake families.</li><li>Funding Sources: Donations, fundraising events, and volunteer efforts.</li><li><p>Fundraising Events: Few planned are below. Seeking more community leaders/events:</p><ul><li>Wall Project Pledge (Ven Sanga Saba, all friends of SIBC)</li><li>Food Festival (Dayaka Sabha)</li><li>Community Bowling Night (Chandima &amp; Dayantha)</li></ul></li></ul><h2>How You Can Help</h2><p>Pledge your wall donation <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfHcmjndcHVdSxs-eraK_8CBReOOzx6ua7Rwc7ZX3AFmWkSHg/viewform\">here</a></p><ul><li>Pay via : sibc.buildingfund@gmail.com.</li><li>Participate in Fundraisers: Join and support community fundraising events.</li><li>Lead a Fundraising : Help SIBC reach $40,000 goal; organize &amp; raise funds.</li></ul><p>Your support is crucial to making this vision a reality. Together, we can build a lasting legacy for our community.</p><h2>Images</h2><h3>Current Fence</h3><p>The current fence proposed to replace (July 2024) </p><h3>Proposed Wall - Front and Top</h3><table><tbody><tr><td></td><td></td></tr><tr><td>Proposed Phase 1 : This is example 4 foot wall proposed for phase 1. Pending review of ability to withhold a cloud. Approximately 160ft in length. Final wall may look different.</td><td>Proposed Phase 2 : Add cloud topper to wall. Below is the potential cloud structure considered. Appropriate material and feasibility under review. Final cloud may look different. 16 inch Height, 20 inch width, 5 inch depth.</td></tr></tbody></table><h2>FAQ (last updated : August 2024)</h2><h2>Purpose - Why are we focusing on this project?</h2><h3>Is the fund raising for Katina?</h3><p>All raised funds will be used solely for the wall construction, while all Katina expenses will be covered by Kodituwakku and Ratnayake families who are patrons for Katina.</p><h3>Who proposed this project for 2024?</h3><p>Ven. Pangananda and the Sanga proposed this as it presents a unique opportunity to integrate Sri Lankan cultural aesthetics to SIBC. In keeping with traditional Sri Lankan aesthetics, we plan to adorn the wall with cloud-shaped structures (“Walakulu Bamma”). Other projects proposed by Dayaka Saba were also considered.</p><h3>I am not a devotee, why are you reaching out to me?</h3><p>SIBC serves as a vital cultural and community hub for the Sri Lankan community, as well as a place of worship for Buddhists. Many lasting friendships and community bonds have been formed here. It is also a place where our children can connect with their heritage and take pride in their roots to Sri Lanka. eg. During Easter bombing crisis in Sri Lanka SIBC hosted a community gathering with Ven Pangnanda’s leadership for all faiths and nationalities. SIBC throughout the year hosts secular events such as Avrudu, community lunches etc.</p><h3>Is this the most urgent project for SIBC?</h3><p>Currently there is urgent need to relace the broken fence. This presents a unique opportunity for SIBC to bring a Sri Lankan Cultural look currently missing. Furthermore this effort is laying the foundation for future large projects with the creation of a separate account for capital projects and expanding donation options to DAF and stocks.</p><h3>What the role of Katina patrons in this project?</h3><p>Ven. Pangananda asked that the 2 families lead this project to completion before October with the help of entire community, Sanga. He asked that they manage all stakeholders (including contractors, donors etc) so that Ven. can be free to concentrate on his religious and philanthropic activities here and in Sri Lanka. They may reach out to you on behalf of Sanga to ask for help.</p><h2>Project Details - What are we building?</h2><h3>Why did you decide on a wall, which is more expensive than a fence?</h3><p>Few options were considered are below.</p><ul><li>Composite fence ($30k) -no cultural look,15 year life, easy maintenance, residential look</li><li>Aluminum fence with laser cut cloud ($35k) - 35 year life, easy maintenance, industrial look</li><li>Concrete wall that can hold a cloud ($40k) - 50 year life, low maintenance, cultural look</li></ul><p>While upfront cost is high, over a longer time horizon concrete wall offers better value as well as cultural aesthetics. Hence Ven Pangananada decided on a concrete wall.</p><h3>Why is the wall 4 feet?</h3><p>This will avoids lengthy permitting process required in City of Tukwila which can take up to 6-12 months.</p><h3>Why do you need funds by August 31, we usually donate for Katina in October?</h3><p>The project needs $40k to start &amp; engage a contractor. Contractors recommend we complete before the rains start. Hence construction need to start in Sep or earlier, which means we need all funds to be in place before Aug 31. Ven Pangananga, Katina Patrons, Dayaka Saba have pledged not to raise loans for this project. These funds are for the wall not Katina. Once the project funds are met, you may continue to donate to SIBC general fund or future building fund projects throughout the remaining year and beyond.</p><h3>What happens if we don’t collect $40k before Aug 31?</h3><p>The fund raising will continue until fund need is met (beyond Oct 2024 however long it takes) and contractor will be engaged when the funds are cleared and available. At that time an appropriate begin date will be established with contractor based on weather. Project will require new quotes (likely higher cost) if it slips the Sep projection.</p><h2>Donations - How do we plan to raise the money?</h2><p>$40k is a fairly large fund target for such a short amount of time, how are we planning to meet it ? While this is a medium size project for Seattle area (eg. bathroom project cost $30k last year), it is a large amount for a short window. We plan to raise funds as follows :</p><ul><li>$6k from 2 community events planned</li><li>$5-10k from small/medium contributions $1-999</li><li>$24-31k from large contributions $1000-5000+</li></ul><p>We encourage everyone to contribute what you are comfortable. We may add other events or extend to next year if we don’t meet our goal in time.</p><h3>I don’t have zelle, can I direct transfer from my bank ?</h3><p>Yes you can. Please transfer to Building Fund Account :</p><ul><li><strong>[Bank details omitted pending SIBC review]</strong></li><li><strong>[Bank details omitted pending SIBC review]</strong></li></ul><h3>I don’t have cash to donate, can I donate stocks towards the fund ?</h3><p>Yes you can. If you have highly appreciated stocks you can avoid paying capital gains taxes as well as get a tax deduction on donation. Please allow for 5-10 business days to clear. Please contact Chandima Kodituwakku for more information ([Personal phone omitted pending review]).</p><h3>I want to give to the SIBC general fund instead. Can I still do that during this time ?</h3><p>Absolutely, we welcome all donations, monthly recurring or one time. More information here https://sibc-tukwila.org/donations/</p><h3>Can you use Employer Matching funds to pay for the project ?</h3><p>Employer matching funds through Benevity can only be used for community and civil actions such as volunteering etc. They cannot be used for construction or religious activities. If your employer matches we encourage you to submit your donation receipt to request match or report volunteer hrs. For more information contact Deepal Jayasinghe.</p><h3>If I am coming to the food festival and bowling event, do I still need to donate ?</h3><p>Food festival and bowling events are secular (non religious) events. Please attend and bring your friends to extend the reach for our community. These are charitable fundraising events (you get something in return), not donations. Donations are still open to you at any level you are comfortable and much appreciated. Pledge &amp; pay through Aug 30 here. https://tinyurl.com/SIBCwallDonate</p>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": [
+      {
+        "url": "https://sibc-tukwila.org/images/other/wall/current_wall.png",
+        "alt": "Wall",
+        "local": "/static/images/current_wall.webp"
+      },
+      {
+        "url": "https://sibc-tukwila.org/images/other/wall/new_wall.png",
+        "alt": "Placement 1",
+        "local": "/static/images/new_wall.webp"
+      },
+      {
+        "url": "https://sibc-tukwila.org/images/other/wall/top_wall.png",
+        "alt": "Placement 1",
+        "local": "/static/images/top_wall.webp"
+      }
+    ]
+  },
+  {
+    "path": "/events/2017/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/events/2017/",
+    "html": "<div><ul><li>[2017-04-15]   <a href=\"/events/2017/avurudu/\">Sinhala / Tamil New Year Celebration - 2017</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2018/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/events/2018/",
+    "html": "<div><ul><li>[2018-07-28]   <a href=\"/events/2018/vasaradhana/\">Vassana Aradhana Ceremony - 2018</a></li><li>[2018-08-01]   <a href=\"/events/2018/august/special_dhamma_desana/\">Special Dhamma Desana - 2018 August</a></li><li>[2018-08-01]   <a href=\"/events/2018/vas_bodhipuja/\">Vassana Weekly Bodhipuja Series - 2018</a></li><li>[2018-09-01]   <a href=\"/events/2018/blessings_for_school/\">Bodhipuja and Blessings for the new school year- 2018</a></li><li>[2018-10-05]   <a href=\"/events/2018/october/special_dhamma_desana/\">Special Dhamma Desana - 2018 October</a></li><li>[2018-10-26]   <a href=\"/events/2018/october/katina_pirith/\">Katina Pirith Day - 2018</a></li><li>[2018-10-26]   <a href=\"/events/2018/october/katina/\">Katina Cheewara Pooja (Robe Donation Ceremony) - 2018</a></li><li>[2018-10-27]   <a href=\"/events/2018/october/katina_fundraiser/\">Katina Cheewara Pooja (Robe Donation Ceremony) Fundraiser - 2018</a></li><li>[2018-10-27]   <a href=\"/events/2018/october/katina_dana/\">Katina Dana - 2018 (Oct 27th)</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2018/august/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/events/2018/august/",
+    "html": "<div><ul><li>[2018-08-01]   <a href=\"/events/2018/august/special_dhamma_desana/\">Special Dhamma Desana - 2018 August</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2018/october/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/events/2018/october/",
+    "html": "<div><ul><li>[2018-10-05]   <a href=\"/events/2018/october/special_dhamma_desana/\">Special Dhamma Desana - 2018 October</a></li><li>[2018-10-26]   <a href=\"/events/2018/october/katina/\">Katina Cheewara Pooja (Robe Donation Ceremony) - 2018</a></li><li>[2018-10-26]   <a href=\"/events/2018/october/katina_pirith/\">Katina Pirith Day - 2018</a></li><li>[2018-10-27]   <a href=\"/events/2018/october/katina_dana/\">Katina Dana - 2018 (Oct 27th)</a></li><li>[2018-10-27]   <a href=\"/events/2018/october/katina_fundraiser/\">Katina Cheewara Pooja (Robe Donation Ceremony) Fundraiser - 2018</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2019/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/events/2019/",
+    "html": "<div><ul><li>[2019-01-01]   <a href=\"/events/2019/january/blessings/\">Blessings for the New Year - 2019</a></li><li>[2019-02-02]   <a href=\"/events/2019/february/felicitation/\">Sangha Nayaka Felicitation Ceremony - 2019</a></li><li>[2019-03-17]   <a href=\"/events/2019/march/foodfestival/\">Sri Lankan Food Festival - 2019</a></li><li>[2019-04-20]   <a href=\"/events/2019/april/newyear/\">Sri Lankan New Year - 2019</a></li><li>[2019-05-18]   <a href=\"/events/2019/may/vesak/\">Vesak - 2019</a></li><li>[2019-06-15]   <a href=\"/events/2019/june/poson/\">Poson - 2019</a></li><li>[2019-07-20]   <a href=\"/events/2019/july/vasaradhana/\">Vassana Aradhana Ceremony - 2019</a></li><li>[2019-08-01]   <a href=\"/events/2019/vas_bodhipuja/\">Vassana Weekly Bodhi Pooja Series - 2019</a></li><li>[2019-08-17]   <a href=\"/events/2019/august/shramadaana/\">Shrama Daana - 2019</a></li><li>[2019-08-31]   <a href=\"/events/2019/august/blessings-for-school/\">Buddha Pooja and Blessings for School - 2019</a></li><li>[2019-09-07]   <a href=\"/events/2019/august/special-meditation/\">Buddha Pooja and Meditation Session - 2019</a></li><li>[2019-10-20]   <a href=\"/events/2019/october/katina_fundraiser/\">Katina Cheewara Pooja (Robe Donation Ceremony) Fundraiser - 2019</a></li><li>[2019-10-20]   <a href=\"/events/2019/october/katina/\">Katina Cheewara Pooja (Robe Donation Ceremony) - 2019</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2019/january/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/events/2019/january/",
+    "html": "<div><ul><li>[2019-01-01]   <a href=\"/events/2019/january/blessings/\">Blessings for the New Year - 2019</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2019/february/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/events/2019/february/",
+    "html": "<div><ul><li>[2019-02-02]   <a href=\"/events/2019/february/felicitation/\">Sangha Nayaka Felicitation Ceremony - 2019</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2019/march/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/events/2019/march/",
+    "html": "<div><ul><li>[2019-03-17]   <a href=\"/events/2019/march/foodfestival/\">Sri Lankan Food Festival - 2019</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2019/april/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/events/2019/april/",
+    "html": "<div><ul><li>[2019-04-20]   <a href=\"/events/2019/april/newyear/\">Sri Lankan New Year - 2019</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2019/may/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/events/2019/may/",
+    "html": "<div><ul><li>[2019-05-18]   <a href=\"/events/2019/may/vesak/\">Vesak - 2019</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2019/june/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/events/2019/june/",
+    "html": "<div><ul><li>[2019-06-15]   <a href=\"/events/2019/june/poson/\">Poson - 2019</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2019/july/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/events/2019/july/",
+    "html": "<div><ul><li>[2019-07-20]   <a href=\"/events/2019/july/vasaradhana/\">Vassana Aradhana Ceremony - 2019</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2019/august/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/events/2019/august/",
+    "html": "<div><ul><li>[2019-08-17]   <a href=\"/events/2019/august/shramadaana/\">Shrama Daana - 2019</a></li><li>[2019-08-31]   <a href=\"/events/2019/august/blessings-for-school/\">Buddha Pooja and Blessings for School - 2019</a></li><li>[2019-09-07]   <a href=\"/events/2019/august/special-meditation/\">Buddha Pooja and Meditation Session - 2019</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2019/october/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/events/2019/october/",
+    "html": "<div><ul><li>[2019-10-20]   <a href=\"/events/2019/october/katina/\">Katina Cheewara Pooja (Robe Donation Ceremony) - 2019</a></li><li>[2019-10-20]   <a href=\"/events/2019/october/katina_fundraiser/\">Katina Cheewara Pooja (Robe Donation Ceremony) Fundraiser - 2019</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2023/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/events/2023/",
+    "html": "<div><ul><li>[2023-01-01]   <a href=\"/events/2023/january/blessings/\">Blessings for the New Year - 2023</a></li><li>[2023-01-28]   <a href=\"/events/2023/january/venerable_lh_birthday/\">Venerable Pagnananda Birthday Blesssings - 2023</a></li><li>[2023-04-22]   <a href=\"/events/2023/april/new_year/\">Blessings for the Sri Lankan New Year - 2023</a></li><li>[2023-06-04]   <a href=\"/events/2023/june/poson-religious-event/\">Poson Religious Event - 2023</a></li><li>[2023-07-29]   <a href=\"/events/2023/july/vasaradhana/\">Vassana Aradhana Ceremony - 2023</a></li><li>[2023-08-01]   <a href=\"/events/2023/vas_religious_events/\">Vassana Weekly Religious Event Series - 2023</a></li><li>[2023-10-28]   <a href=\"/events/2023/october/katina/\">Katina Cheewara Pooja (Robe Donation Ceremony) - 2023</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2023/january/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/events/2023/january/",
+    "html": "<div><ul><li>[2023-01-01]   <a href=\"/events/2023/january/blessings/\">Blessings for the New Year - 2023</a></li><li>[2023-01-28]   <a href=\"/events/2023/january/venerable_lh_birthday/\">Venerable Pagnananda Birthday Blesssings - 2023</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2023/april/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/events/2023/april/",
+    "html": "<div><ul><li>[2023-04-22]   <a href=\"/events/2023/april/new_year/\">Blessings for the Sri Lankan New Year - 2023</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2023/june/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/events/2023/june/",
+    "html": "<div><ul><li>[2023-06-04]   <a href=\"/events/2023/june/poson-religious-event/\">Poson Religious Event - 2023</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2023/july/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/events/2023/july/",
+    "html": "<div><ul><li>[2023-07-29]   <a href=\"/events/2023/july/vasaradhana/\">Vassana Aradhana Ceremony - 2023</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2023/october/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/events/2023/october/",
+    "html": "<div><ul><li>[2023-10-28]   <a href=\"/events/2023/october/katina/\">Katina Cheewara Pooja (Robe Donation Ceremony) - 2023</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2024/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/events/2024/",
+    "html": "<div><ul><li>[2024-01-01]   <a href=\"/events/2024/january/blessings/\">Blessings for the New Year - 2024</a></li><li>[2024-04-21]   <a href=\"/events/2024/april/newyear/\">Sri Lankan New Year - 2024</a></li><li>[2024-05-18]   <a href=\"/events/2024/may/vesak-seela-event/\">Vesak Celebration - 2024</a></li><li>[2024-06-16]   <a href=\"/events/2024/june/poson-seela-event/\">Poson Celebration - 2024</a></li><li>[2024-07-20]   <a href=\"/events/2024/july/vasaradhana/\">Vassana Aradhana Ceremony - 2024</a></li><li>[2024-07-26]   <a href=\"/events/2024/vas_religious_events/\">Vassana Weekly Religious Event Series - 2024</a></li><li>[2024-10-26]   <a href=\"/events/2024/october/katina/\">Katina Cheewara Pooja (Robe Donation Ceremony) - 2024</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2024/january/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/events/2024/january/",
+    "html": "<div><ul><li>[2024-01-01]   <a href=\"/events/2024/january/blessings/\">Blessings for the New Year - 2024</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2024/april/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/events/2024/april/",
+    "html": "<div><ul><li>[2024-04-21]   <a href=\"/events/2024/april/newyear/\">Sri Lankan New Year - 2024</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2024/may/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/events/2024/may/",
+    "html": "<div><ul><li>[2024-05-18]   <a href=\"/events/2024/may/vesak-seela-event/\">Vesak Celebration - 2024</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2024/june/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/events/2024/june/",
+    "html": "<div><ul><li>[2024-06-16]   <a href=\"/events/2024/june/poson-seela-event/\">Poson Celebration - 2024</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2024/july/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/events/2024/july/",
+    "html": "<div><ul><li>[2024-07-20]   <a href=\"/events/2024/july/vasaradhana/\">Vassana Aradhana Ceremony - 2024</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2024/october/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/events/2024/october/",
+    "html": "<div><ul><li>[2024-10-26]   <a href=\"/events/2024/october/katina/\">Katina Cheewara Pooja (Robe Donation Ceremony) - 2024</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2022/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/events/2022/",
+    "html": "<div><ul><li>[2022-06-18]   <a href=\"/events/2022/june/poson-religious-event/\">Poson Religious Event - 2022</a></li><li>[2022-07-16]   <a href=\"/events/2022/july/vasaradhana/\">Vassana Aradhana Ceremony - 2022</a></li><li>[2022-08-31]   <a href=\"/events/2022/vas_religious_events/\">Vassana Weekly Religious Event Series - 2022</a></li><li>[2022-10-23]   <a href=\"/events/2022/october/katina/\">Katina Cheewara Pooja (Robe Donation Ceremony) - 2022</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2022/june/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/events/2022/june/",
+    "html": "<div><ul><li>[2022-06-18]   <a href=\"/events/2022/june/poson-religious-event/\">Poson Religious Event - 2022</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2022/july/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/events/2022/july/",
+    "html": "<div><ul><li>[2022-07-16]   <a href=\"/events/2022/july/vasaradhana/\">Vassana Aradhana Ceremony - 2022</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2022/october/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/events/2022/october/",
+    "html": "<div><ul><li>[2022-10-23]   <a href=\"/events/2022/october/katina/\">Katina Cheewara Pooja (Robe Donation Ceremony) - 2022</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2020/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/events/2020/",
+    "html": "<div><ul><li>[2020-01-01]   <a href=\"/events/2020/january/blessings/\">Blessings for the New Year - 2020</a></li><li>[2020-02-01]   <a href=\"/events/2020/february/srilankan_day/\">Sri Lankan Day - 2020</a></li><li>[2020-07-11]   <a href=\"/events/2020/july/vasaradhana/\">Vassana Aradhana Ceremony - 2020</a></li><li>[2020-08-01]   <a href=\"/events/2020/vas_bodhipuja/\">Vassana Weekly Bodhi Pooja Series - 2020</a></li><li>[2020-10-10]   <a href=\"/events/2020/october/katina_fundraiser/\">Katina Cheewara Pooja (Robe Donation Ceremony) Fundraiser - 2020</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2020/january/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/events/2020/january/",
+    "html": "<div><ul><li>[2020-01-01]   <a href=\"/events/2020/january/blessings/\">Blessings for the New Year - 2020</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2020/february/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/events/2020/february/",
+    "html": "<div><ul><li>[2020-02-01]   <a href=\"/events/2020/february/srilankan_day/\">Sri Lankan Day - 2020</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2020/july/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/events/2020/july/",
+    "html": "<div><ul><li>[2020-07-11]   <a href=\"/events/2020/july/vasaradhana/\">Vassana Aradhana Ceremony - 2020</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2020/october/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/events/2020/october/",
+    "html": "<div><ul><li>[2020-10-10]   <a href=\"/events/2020/october/katina_fundraiser/\">Katina Cheewara Pooja (Robe Donation Ceremony) Fundraiser - 2020</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2025/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/events/2025/",
+    "html": "<div><ul><li>[2025-01-01]   <a href=\"/events/2025/january/blessings/\">Blessings for the New Year - 2025</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2025/january/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/events/2025/january/",
+    "html": "<div><ul><li>[2025-01-01]   <a href=\"/events/2025/january/blessings/\">Blessings for the New Year - 2025</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2021/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/events/2021/",
+    "html": "<div><ul><li>[2021-01-01]   <a href=\"/events/2021/january/blessings/\">Blessings for the New Year - 2021</a></li><li>[2021-04-24]   <a href=\"/events/2021/april/new_year/\">Blessings for the Sri Lankan New Year - 2021</a></li><li>[2021-05-29]   <a href=\"/events/2021/may/vesak-seela-event/\">Vesak Seela Event - 2021</a></li><li>[2021-06-26]   <a href=\"/events/2021/june/poson-religious-event/\">Poson Religious Event - 2021</a></li><li>[2021-07-24]   <a href=\"/events/2021/july/vasaradhana/\">Vassana Aradhana Ceremony - 2021</a></li><li>[2021-08-01]   <a href=\"/events/2021/vas_religious_events/\">Vassana Weekly Religious Event Series - 2021</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2021/january/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/events/2021/january/",
+    "html": "<div><ul><li>[2021-01-01]   <a href=\"/events/2021/january/blessings/\">Blessings for the New Year - 2021</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2021/april/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/events/2021/april/",
+    "html": "<div><ul><li>[2021-04-24]   <a href=\"/events/2021/april/new_year/\">Blessings for the Sri Lankan New Year - 2021</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2021/may/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/events/2021/may/",
+    "html": "<div><ul><li>[2021-05-29]   <a href=\"/events/2021/may/vesak-seela-event/\">Vesak Seela Event - 2021</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2021/june/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/events/2021/june/",
+    "html": "<div><ul><li>[2021-06-26]   <a href=\"/events/2021/june/poson-religious-event/\">Poson Religious Event - 2021</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/events/2021/july/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/events/2021/july/",
+    "html": "<div><ul><li>[2021-07-24]   <a href=\"/events/2021/july/vasaradhana/\">Vassana Aradhana Ceremony - 2021</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/news/2020/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/news/2020/",
+    "html": "<div><ul><li>[2020-12-29]   <a href=\"/news/2020/kasawatha/\">Kasawatha TV Program</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  },
+  {
+    "path": "/news/2018/",
+    "title": "SIBC",
+    "source": "https://sibc-tukwila.org/news/2018/",
+    "html": "<div><ul><li>[2018-12-01]   <a href=\"/news/2018/sangha_nayaka_appointment/\">Sangha Nayaka Appointment Ceremony</a></li></ul></div>",
+    "historical": true,
+    "review": "SIBC content review required",
+    "images": []
+  }
+]
