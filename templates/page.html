@@ -1,0 +1,92 @@
+{% extends "base.html" %}
+{% macro link_list(items) %}
+<ul class="archive-list">
+{% for item in items %}
+  <li><a href="/{{ locale }}{{ item.path }}">{{ item.title }} <span aria-hidden="true">↗</span></a></li>
+{% endfor %}
+</ul>
+{% endmacro %}
+{% block content %}
+{% if kind == 'home' %}
+<section class="hero container">
+  <div class="hero-copy">
+    <h1>{{ language.hero }}</h1>
+    <p class="lead">{{ language.welcome }}</p>
+    <div class="actions"><a class="button" href="/{{ locale }}/about/">{{ language.primary }} <span aria-hidden="true">↗</span></a><a class="text-link" href="/{{ locale }}/about/address/">{{ language.directions }} <span aria-hidden="true">↗</span></a></div>
+  </div>
+  <figure class="hero-image"><img lang="en" src="/static/images/temple-5.webp" width="1620" height="1080" alt="Buddha statues beside bamboo at the Sarana International Buddhist Center" fetchpriority="high"><figcaption lang="en">A glimpse of our temple in Tukwila, Washington. <a href="/{{ locale }}/about/media/">Explore the photographs ↗</a></figcaption></figure>
+</section>
+<section class="quick-links container" aria-label="Temple information" lang="en">
+  <a href="/{{ locale }}/about/address/"><span>Find the temple</span><strong>Here in Tukwila</strong><span>Address & directions <b aria-hidden="true">↗</b></span></a>
+  <a href="/{{ locale }}/events/calendar/"><span>Keep in touch</span><strong>The temple calendar</strong><span>Existing calendar & past events <b aria-hidden="true">↗</b></span></a>
+  <a href="/{{ locale }}/donations/"><span>Make a difference</span><strong>Support SIBC</strong><span>Ways to give <b aria-hidden="true">↗</b></span></a>
+</section>
+<section class="welcome-band" lang="en"><div class="container split-section">
+  <h2>Many traditions.<br>One welcoming community.</h2>
+  <div><p class="lead">The temple is open to everyone regardless of religion, tradition and culture.</p><p>We welcome you to spiritual practice, observance of precepts, Seth Pirith and Dhamma discussions. Community events bring monks, friends and families together.</p><a class="text-link" href="/{{ locale }}/about/community/">Community & participation <span aria-hidden="true">↗</span></a></div>
+</div></section>
+<section class="container home-practice split-section" lang="en">
+  <figure><img src="/static/images/temple-1.webp" width="864" height="1080" loading="lazy" alt="Buddha statues and flower offerings inside the temple"></figure>
+  <div><h2>Space to pause.<br>Room to belong.</h2><p class="lead">Learn about the practices and activities already part of life at SIBC.</p><div class="editorial-links"><a href="/{{ locale }}/activities/meditation/">Meditation <span aria-hidden="true">↗</span></a><a href="/{{ locale }}/activities/">Temple activities <span aria-hidden="true">↗</span></a><a href="/{{ locale }}/events/archived/">Community memories <span aria-hidden="true">↗</span></a></div><p class="small muted">Please contact SIBC to confirm current schedules. Historical events are kept in the archive.</p></div>
+</section>
+{% else %}
+<div class="container page-wrap">
+  <nav class="breadcrumbs" aria-label="Breadcrumb" lang="en"><a href="/{{ locale }}/">Home</a><span aria-hidden="true">/</span><span>{{ title }}</span></nav>
+  <header class="page-heading" lang="en"><h1>{{ title }}</h1></header>
+  <div lang="en">
+  {% if kind == 'about' %}
+    <div class="split-section about-intro"><div class="prose"><p class="lead">The mission of Sarana International Buddhist Center is to share the Buddha's message with everyone, bringing peace and happiness within ourselves and the world around us.</p><p>Located in Tukwila, Washington, between Seattle and Tacoma, SIBC welcomes people from all religions, traditions and cultures.</p><p>Spiritual practice and community life meet here: observance of precepts, Seth Pirith, Dhamma discussions and opportunities to meet monks and friends.</p><a class="button" href="/{{ locale }}/about/community/">Community & participation ↗</a></div><img class="portrait-photo" src="/static/images/temple-4.webp" width="730" height="1080" alt="Seated Buddha statue beneath a ceremonial parasol at SIBC"></div>
+    <div class="editorial-links"><a href="/{{ locale }}/about/media/">Temple photographs & videos ↗</a><a href="/{{ locale }}/news/">Historical temple news ↗</a><a href="/{{ locale }}/about/address/">Address & directions ↗</a></div>
+  {% elif kind == 'activities' %}
+    <p class="lead measure">SIBC's existing activities include spiritual practice, learning and community participation. Contact the temple for current arrangements.</p>
+    <div class="feature-list"><section><h2>Meditation</h2><p>The existing site describes meditation as a way to calm the mind.</p><a class="text-link" href="/{{ locale }}/activities/meditation/">Read the existing meditation page ↗</a></section><section><h2>Dhamma School</h2><p>Existing information about children's Dhamma learning is preserved. Its schedule needs confirmation with SIBC.</p><a class="text-link" href="/{{ locale }}/activities/dhamma_school/">Read the existing school information ↗</a></section></div>
+    <a class="text-link" href="/{{ locale }}/about/community/">Community & participation ↗</a>
+  {% elif kind == 'contact' %}
+    <div class="contact-grid"><section><h2>The temple</h2><address class="address-large">Sarana International Buddhist Center<br>15241 51st Ave S<br>Tukwila, WA 98188<br>USA</address><a class="button" href="{{ map_url }}">Open in Google Maps ↗</a><p class="small muted">The existing website's address is preserved. Please contact SIBC to confirm arrangements before coming.</p></section><section><h2>Write to SIBC</h2><p><a class="large-link" href="mailto:info@sibc-tukwila.org">info@sibc-tukwila.org</a></p><p>For current schedules, temple activities and donation questions, contact SIBC directly.</p><a class="text-link" href="/{{ locale }}/contact/temple_mailing_list/">About the temple mailing list ↗</a><p>No opening hours are listed in the source information. We have not invented them.</p></section></div>
+  {% elif kind in ['calendar', 'dana'] %}
+    {% if kind == 'calendar' %}
+    <p class="lead measure">The existing temple calendar brings together activities for SIBC's communities.</p>
+    <aside class="notice"><strong>Current dates need SIBC confirmation.</strong><p>The public master-calendar feed inspected November 13, 2026 contained events only through April 2023. No upcoming events have been verified for this preview. <a href="/{{ locale }}/contact/">Contact SIBC</a> for current information.</p></aside>
+    {% else %}
+    <p class="lead measure">The existing monthly Dana calendar records recurring days for offering meals to the Sangha.</p><aside class="notice"><strong>Existing schedule — please confirm with SIBC.</strong><p>Monthly entries may continue to recur. Assignments and permission to display sponsor information still need review.</p></aside>
+    {% endif %}
+    <div class="actions"><a class="button" href="{{ dana_url if kind == 'dana' else calendar_url }}">Open existing Google Calendar ↗</a>{% if kind == 'calendar' %}<a class="text-link" href="{{ ics_url }}">Subscribe with iCal ↗</a>{% endif %}</div>
+    <p class="small muted">Time zone: America/Los_Angeles. Google Calendar is a third-party service.</p>
+    <details class="calendar-consent"><summary>Show the existing embedded calendar</summary><p>Opening the calendar makes a request to Google. The direct link above is available if the embed does not load.</p><button class="button secondary" type="button" data-calendar="{{ dana_url if kind == 'dana' else calendar_url }}">Load Google Calendar</button><div class="calendar-frame"></div></details>
+    <div class="editorial-links"><a href="/{{ locale }}/events/archived/">Browse historical events ↗</a>{% if kind == 'calendar' %}<a href="/{{ locale }}/donations/dana_schedule/">Monthly Dana calendar ↗</a>{% endif %}</div>
+  {% elif kind == 'archive' %}
+    <p class="lead measure">A record of ceremonies, celebrations and community life, preserved from the existing website.</p><aside class="notice">These are historical records, not upcoming invitations. Old signup and fundraising links may be closed or outdated.</aside>{{ link_list(events) }}
+  {% elif kind == 'news' %}
+    <p class="lead measure">Existing coverage and stories, preserved with their original context. The source news index was last populated in 2020.</p>{{ link_list(news) }}
+  {% elif kind == 'campaigns' %}
+    <p class="lead measure">The existing website describes the following temple projects. Their current status has not been verified.</p><aside class="notice">No campaign is presented as currently active. Funding totals, deadlines and payment details require SIBC review.</aside><div class="editorial-links"><a href="/{{ locale }}/donations/campaigns/wall_project/">2024 Wall Project — historical information ↗</a><a href="/{{ locale }}/donations/campaigns/bathroom_project/">Bathroom Project — historical information ↗</a></div><a class="text-link" href="/{{ locale }}/donations/">Other ways to support SIBC ↗</a>
+  {% elif kind == 'media' %}
+    <p class="lead measure">Photographs collected from SIBC's publicly linked temple album. Permission, image descriptions and crops need SIBC review before publication.</p>
+    <div class="photo-grid">{% for number, alt in [(1,'Buddha statues and flowers inside the temple'),(2,'Outdoor Buddha statue and parasol among bamboo'),(3,'Buddhist flags along the temple boundary'),(4,'Front view of the outdoor Buddha statue'),(5,'Buddha statues in the temple garden')] %}<figure><img src="/static/images/temple-{{ number }}.webp" loading="lazy" alt="{{ alt }}"><figcaption>Existing SIBC temple album · permission review pending</figcaption></figure>{% endfor %}</div>
+    <div class="editorial-links"><a href="https://photos.app.goo.gl/m6tZwVKPqdemoErd7">Original temple photo album ↗</a><a href="https://photos.app.goo.gl/VSdYhdY1dVkus8Ut5">Historical Katina 2018 album ↗</a><a href="https://www.youtube.com/channel/UCxHXa7UJr1KoeDMY4JihwUA">SIBC YouTube channel ↗</a></div>
+  {% elif kind == 'donate' %}
+    {% include "donation.html" %}
+  {% elif kind == 'return' %}
+    <div class="prose"><aside class="notice"><strong>Test checkout only — no live donation.</strong></aside>
+    {% if payment_state == 'paid' %}<h2>Test payment verified.</h2><p>The Stripe test payment was checked server-side and recorded through a verified webhook. This is not a tax receipt or a live donation.</p>
+    {% elif payment_state in ['refunded','partially_refunded','failed'] %}<h2>Test payment status: {{ payment_state|replace('_',' ') }}.</h2><p>Contact SIBC if you need help understanding a payment's status. Do not make a second attempt until the first is checked.</p>
+    {% else %}<h2>Payment is not confirmed.</h2><p>Returning from Checkout does not prove a payment succeeded. Verification may still be pending, or this browser may not hold the matching checkout record. No donation has been confirmed on this page.</p>{% endif %}
+    <a class="button" href="/{{ locale }}/donations/">Return to giving options</a></div>
+  {% elif kind == 'review' %}
+    <p class="lead measure">A review build, not a launched website. English is the editorial source; all content and image permissions still need SIBC sign-off.</p>
+    <div class="review-sections"><section><h2>Content & calendar</h2><p>Confirm the address and monitored email, activity schedules, master calendar and Dana assignments. Financial figures, tax wording, campaign status and historical signup links need review. The 2024 wall project and January 2025 event are not presented as current.</p><a href="https://sibc-tukwila.org/">Existing content source ↗</a></section><section><h2>Translations</h2><p>Sinhala and Khmer navigation and welcome text are unreviewed drafts. English content remains explicitly labeled where translation is not prepared. Assign native-speaking and religious/financial reviewers before approving any translation. Track source revision and reviewer in the locale content file.</p></section><section><h2>Donations</h2><p>Stripe is {{ 'configured for test mode only' if stripe_enabled else 'disabled because the SIBC test configuration is incomplete' }}. Live keys and events are always rejected. SIBC must confirm its separate account, recipients, donation limits, recurring consent/cancellation, fees/refunds, receipt wording and operational owner before activation. PayPal remains an existing external option, not a newly verified recipient.</p></section><section><h2>Known external-link issues</h2><p>Six historical Google Forms were closed. The Divaina article redirects to a newspaper home page, and the Serendib article host failed DNS resolution. The preserved articles provide original-source context, not a guarantee of external availability.</p></section><section><h2>Collected image sources</h2><p>{{ assets|length }} optimized public images were collected. Public visibility is not permission. All require rights, subject-consent, crop and description review; photographs of children or identifiable people require particular care. Metadata and checksums are recorded in the source manifest.</p><ul class="source-list">{% for asset in assets %}<li><a href="{{ asset.source_page }}">{{ asset.file.split('/')[-1] }}</a> — {{ asset.permission }}</li>{% endfor %}</ul></section></div>
+  {% elif kind == 'search' %}
+    <p class="lead">Browse the existing archives and core information.</p><div class="editorial-links"><a href="/{{ locale }}/events/archived/">Historical events ↗</a><a href="/{{ locale }}/news/">Temple news archive ↗</a><a href="/{{ locale }}/contact/">Contact SIBC ↗</a></div>
+  {% elif kind == 'not-found' %}
+    <p class="lead">The address may have changed, or this page may not exist.</p><div class="actions"><a class="button" href="/{{ locale }}/">Return home</a><a class="text-link" href="/{{ locale }}/events/archived/">Find historical events ↗</a></div>
+  {% elif kind == 'legacy' %}
+    <aside class="notice"><strong>{{ 'Historical source content' if page.historical or '/news/' in path or '/events/' in path else 'Preserved source information' }}</strong><p>This page preserves existing SIBC information. {{ 'Dates, amounts and signup links below are not current invitations or verified payment instructions.' if page.historical else 'Schedules, contact/privacy statements and descriptions need SIBC confirmation.' }} <a href="{{ page.source }}">Read the original page ↗</a></p></aside>
+    <div class="legacy-content prose">{{ legacy_html }}</div>
+    {% if page.images %}<section class="legacy-images"><h2>Images from the original page</h2>{% for image in page.images %}{% if image.local %}<figure><img src="{{ image.local }}" loading="lazy" alt="{{ image.alt if image.alt else 'Historical image from the original SIBC page; description needs review' }}"><figcaption>Historical source image · permission and description review pending</figcaption></figure>{% endif %}{% endfor %}</section>{% endif %}
+    <p class="source-note">Original interactive forms, scripts and donor tables are not reproduced. <a href="{{ page.source }}">View the source for historical context</a>. Any retained external signup links may be closed. Personal phone and bank-number details are withheld pending review.</p>
+  {% endif %}
+  {% if page and kind not in ['legacy', 'donate'] %}<p class="source-note">Content source: <a href="{{ page.source }}">existing SIBC website</a>. Information still requires SIBC review.</p>{% endif %}
+  </div>
+</div>
+{% endif %}
+{% endblock %}

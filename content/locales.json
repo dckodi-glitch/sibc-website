@@ -1,0 +1,34 @@
+{
+  "en": {
+    "name": "English",
+    "status": "source",
+    "source_revision": "2026-11-13",
+    "nav": ["Home", "About SIBC", "Activities", "Calendar", "Support SIBC", "Contact"],
+    "hero": "A place for peace.\nA community for everyone.",
+    "welcome": "Sarana International Buddhist Center welcomes everyone to share in the Buddha's message of peace and happiness.",
+    "primary": "About our temple",
+    "directions": "Find us in Tukwila"
+  },
+  "si": {
+    "name": "සිංහල",
+    "status": "draft",
+    "reviewer": null,
+    "source_revision": "2026-11-13",
+    "nav": ["මුල් පිටුව", "අප ගැන", "ක්‍රියාකාරකම්", "දින දර්ශනය", "පරිත්‍යාග", "සම්බන්ධ වන්න"],
+    "hero": "සාමය සඳහා තැනක්.\nසැමට විවෘත ප්‍රජාවක්.",
+    "welcome": "සරණ ජාත්‍යන්තර බෞද්ධ මධ්‍යස්ථානය බුදුන් වහන්සේගේ සාමයේ සහ සතුටේ පණිවිඩය බෙදා ගැනීමට සැමට ආරාධනා කරයි.",
+    "primary": "අපගේ විහාරස්ථානය ගැන",
+    "directions": "ටක්විලාහි අප සොයා ගන්න"
+  },
+  "km": {
+    "name": "ខ្មែរ",
+    "status": "draft",
+    "reviewer": null,
+    "source_revision": "2026-11-13",
+    "nav": ["ទំព័រដើម", "អំពីយើង", "សកម្មភាព", "ប្រតិទិន", "បរិច្ចាគ", "ទំនាក់ទំនង"],
+    "hero": "ទីកន្លែងនៃសន្តិភាព។\nសហគមន៍សម្រាប់មនុស្សគ្រប់គ្នា។",
+    "welcome": "មជ្ឈមណ្ឌលព្រះពុទ្ធសាសនាអន្តរជាតិសរណៈ សូមស្វាគមន៍មនុស្សគ្រប់គ្នា ដើម្បីចែករំលែកព្រះធម៌នៃសន្តិភាព និងសុភមង្គល។",
+    "primary": "អំពីវត្តរបស់យើង",
+    "directions": "ស្វែងរកយើងនៅ Tukwila"
+  }
+}

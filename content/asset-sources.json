@@ -1,0 +1,325 @@
+[
+  {
+    "file": "/static/images/temple-banner.webp",
+    "source_url": "https://sibc-tukwila.org/images/main-banner.jpg",
+    "source_page": "https://sibc-tukwila.org/",
+    "original_dimensions": [
+      2036,
+      694
+    ],
+    "dimensions": [
+      1800,
+      614
+    ],
+    "source_sha256": "92f724b5972e0226bf0fecf3dc883d668de78694f4a5d6d57cdcc29588a2ce6b",
+    "permission": "unverified - SIBC permission and subject-consent review required",
+    "review": "Review crop, accuracy, alt text and any identifiable people before publication",
+    "processing": "EXIF removed; resized and converted to WebP for local review"
+  },
+  {
+    "file": "/static/images/temple-1.webp",
+    "source_url": "https://lh3.googleusercontent.com/Pgd4uvyWSs7utzPlIaLU2Ht12uFR-D9eYuarhpAP6ed__dwHV7-Q6tmakx3x03EXObb6wx5YTBk5xJXeZhMWGt5KoOaMrMWLEOwcT5zQULpgJBz8CzWLB6YDnjukN_5_wBBUdOXS=w1920-h1080",
+    "source_page": "https://sibc-tukwila.org/about/media/",
+    "original_dimensions": [
+      864,
+      1080
+    ],
+    "dimensions": [
+      864,
+      1080
+    ],
+    "source_sha256": "163af4ff1815dff196251346863bcc9708ec764c9687eac172055f869073593d",
+    "permission": "unverified - SIBC permission and subject-consent review required",
+    "review": "Review crop, accuracy, alt text and any identifiable people before publication",
+    "processing": "EXIF removed; resized and converted to WebP for local review"
+  },
+  {
+    "file": "/static/images/temple-2.webp",
+    "source_url": "https://lh3.googleusercontent.com/mLhUn6UsVfXBXdAWRsD2MHirjb6nU1gQeuhm2mF6BCISYGO8OUd09dBZq3FYZNggja7PfejUW32U57Ya1oO4Xw5qa9H5C5fmI9kCRtOLYLfPOYLYSgfzSgPUescGivGU4wq_YC2Z=w1920-h1080",
+    "source_page": "https://sibc-tukwila.org/about/media/",
+    "original_dimensions": [
+      759,
+      1080
+    ],
+    "dimensions": [
+      759,
+      1080
+    ],
+    "source_sha256": "03b6b9e6c1c32eecc21e2d1b6a3915c3a01dd6e6d506345f5114627772269adc",
+    "permission": "unverified - SIBC permission and subject-consent review required",
+    "review": "Review crop, accuracy, alt text and any identifiable people before publication",
+    "processing": "EXIF removed; resized and converted to WebP for local review"
+  },
+  {
+    "file": "/static/images/temple-3.webp",
+    "source_url": "https://lh3.googleusercontent.com/S2EGUzdULjNrUsTqawm17nezGemOgFeI9LNAZQfPOuoPqrfvTMTnWSBOgnO_4pZ6PqsWKjAwv4_DO3K91ynRIIjh2yYCjFhSuHegKapXDlLFLINowIAH8GQJzYbqCqhJ_jGl0emG=w1920-h1080",
+    "source_page": "https://sibc-tukwila.org/about/media/",
+    "original_dimensions": [
+      1620,
+      1080
+    ],
+    "dimensions": [
+      1620,
+      1080
+    ],
+    "source_sha256": "01722209d4d0bcfc039dae6d00f38ef8ffd71c00e943ecd55daf9490e723f03c",
+    "permission": "unverified - SIBC permission and subject-consent review required",
+    "review": "Review crop, accuracy, alt text and any identifiable people before publication",
+    "processing": "EXIF removed; resized and converted to WebP for local review"
+  },
+  {
+    "file": "/static/images/temple-4.webp",
+    "source_url": "https://lh3.googleusercontent.com/dIvePJ48d4xhNUc_NebJTmX-rcvLo92tPkEg5bbvbaBdzxs5WAjE9u2hCs2dSui8obie1WoXxwW93b1O1xz3j-F_ZNosGN1l6Y8gbVhSYbhRUT3VoWnbKzzr8Fm2S8dCwhMDmSxe=w1920-h1080",
+    "source_page": "https://sibc-tukwila.org/about/media/",
+    "original_dimensions": [
+      730,
+      1080
+    ],
+    "dimensions": [
+      730,
+      1080
+    ],
+    "source_sha256": "fe117e429e28d53c75c470897a0090cb3cc3b8f8e2cb122cc0db14699caa19ca",
+    "permission": "unverified - SIBC permission and subject-consent review required",
+    "review": "Review crop, accuracy, alt text and any identifiable people before publication",
+    "processing": "EXIF removed; resized and converted to WebP for local review"
+  },
+  {
+    "file": "/static/images/temple-5.webp",
+    "source_url": "https://lh3.googleusercontent.com/90fnbgcuWL1SISjtPbYl04GelXH6sezcLeBhMeebz0W3ULudulkonLIS_f7VJlpo_zBOV44acv15b9Av8JANurEgjWIuiNtBLFwXakZ506IRj79mYkyzYYhSoslYqvsDsieqSdfJ=w1920-h1080",
+    "source_page": "https://sibc-tukwila.org/about/media/",
+    "original_dimensions": [
+      1620,
+      1080
+    ],
+    "dimensions": [
+      1620,
+      1080
+    ],
+    "source_sha256": "1852e836f9632ebab28da14deb2181d1c8d0df753bac40e1edcbf797e29ab28d",
+    "permission": "unverified - SIBC permission and subject-consent review required",
+    "review": "Review crop, accuracy, alt text and any identifiable people before publication",
+    "processing": "EXIF removed; resized and converted to WebP for local review"
+  },
+  {
+    "file": "/static/images/temple_bathroom_image1_optimized.webp",
+    "source_url": "https://sibc-tukwila.org/images/other/temple_bathroom_image1_optimized.png",
+    "source_page": "https://sibc-tukwila.org/donations/campaigns/bathroom_project/",
+    "original_dimensions": [
+      1750,
+      1125
+    ],
+    "dimensions": [
+      1750,
+      1125
+    ],
+    "source_sha256": "e7da8b844107da8ae62abd12863d29ca9bbc49dffc6db8da4c883c30819ed6a4",
+    "permission": "unverified - SIBC permission and subject-consent review required",
+    "review": "Review crop, accuracy, alt text and any identifiable people before publication",
+    "processing": "EXIF removed; resized and converted to WebP for local review"
+  },
+  {
+    "file": "/static/images/temple_bathroom_image2_optimized.webp",
+    "source_url": "https://sibc-tukwila.org/images/other/temple_bathroom_image2_optimized.png",
+    "source_page": "https://sibc-tukwila.org/donations/campaigns/bathroom_project/",
+    "original_dimensions": [
+      1408,
+      1125
+    ],
+    "dimensions": [
+      1408,
+      1125
+    ],
+    "source_sha256": "96ee46a021ef39331ae4466b02dc0941545de7946f2c434a26e320c81b9e23de",
+    "permission": "unverified - SIBC permission and subject-consent review required",
+    "review": "Review crop, accuracy, alt text and any identifiable people before publication",
+    "processing": "EXIF removed; resized and converted to WebP for local review"
+  },
+  {
+    "file": "/static/images/temple_bathroom_image3_optimized.webp",
+    "source_url": "https://sibc-tukwila.org/images/other/temple_bathroom_image3_optimized.png",
+    "source_page": "https://sibc-tukwila.org/donations/campaigns/bathroom_project/",
+    "original_dimensions": [
+      2000,
+      1125
+    ],
+    "dimensions": [
+      1800,
+      1013
+    ],
+    "source_sha256": "259ab04a3f92f84daf1d8602c2b3a7526bbdf1670e3398610405435b44428bab",
+    "permission": "unverified - SIBC permission and subject-consent review required",
+    "review": "Review crop, accuracy, alt text and any identifiable people before publication",
+    "processing": "EXIF removed; resized and converted to WebP for local review"
+  },
+  {
+    "file": "/static/images/sarana_spam.webp",
+    "source_url": "https://sibc-tukwila.org/images/mailing_list/sarana_spam.png",
+    "source_page": "https://sibc-tukwila.org/contact/temple_mailing_list/",
+    "original_dimensions": [
+      349,
+      151
+    ],
+    "dimensions": [
+      349,
+      151
+    ],
+    "source_sha256": "7ab95ea29fdd76f8e22f802f9c3ff36a47cf8c28d516ecda92b747d87829c24b",
+    "permission": "unverified - SIBC permission and subject-consent review required",
+    "review": "Review crop, accuracy, alt text and any identifiable people before publication",
+    "processing": "EXIF removed; resized and converted to WebP for local review"
+  },
+  {
+    "file": "/static/images/spam_banner.webp",
+    "source_url": "https://sibc-tukwila.org/images/mailing_list/spam_banner.png",
+    "source_page": "https://sibc-tukwila.org/contact/temple_mailing_list/",
+    "original_dimensions": [
+      1501,
+      123
+    ],
+    "dimensions": [
+      1501,
+      123
+    ],
+    "source_sha256": "1ed697a8649c2f7d8ffe2096c6c8f463d3d90c8c7425b77962b835d254f7e989",
+    "permission": "unverified - SIBC permission and subject-consent review required",
+    "review": "Review crop, accuracy, alt text and any identifiable people before publication",
+    "processing": "EXIF removed; resized and converted to WebP for local review"
+  },
+  {
+    "file": "/static/images/sarana_add_to_contacts.webp",
+    "source_url": "https://sibc-tukwila.org/images/mailing_list/sarana_add_to_contacts.png",
+    "source_page": "https://sibc-tukwila.org/contact/temple_mailing_list/",
+    "original_dimensions": [
+      387,
+      209
+    ],
+    "dimensions": [
+      387,
+      209
+    ],
+    "source_sha256": "ce1ea732ad1e8e4622a0a6bc85c4343a3e53739ee192f5ea3351c3e87da5dabe",
+    "permission": "unverified - SIBC permission and subject-consent review required",
+    "review": "Review crop, accuracy, alt text and any identifiable people before publication",
+    "processing": "EXIF removed; resized and converted to WebP for local review"
+  },
+  {
+    "file": "/static/images/poson-event-2021.webp",
+    "source_url": "https://sibc-tukwila.org/images/flyers/poson-event-2021.png",
+    "source_page": "https://sibc-tukwila.org/events/2021/june/poson-religious-event/",
+    "original_dimensions": [
+      1200,
+      1500
+    ],
+    "dimensions": [
+      1200,
+      1500
+    ],
+    "source_sha256": "0725371810f4d698076802dae1078e3eac824dfe5ae4773f73703eefcd0cd01b",
+    "permission": "unverified - SIBC permission and subject-consent review required",
+    "review": "Review crop, accuracy, alt text and any identifiable people before publication",
+    "processing": "EXIF removed; resized and converted to WebP for local review"
+  },
+  {
+    "file": "/static/images/pagnanada_sangha_nayaka.webp",
+    "source_url": "https://sibc-tukwila.org/images/news/pagnanada_sangha_nayaka.jpg",
+    "source_page": "https://sibc-tukwila.org/news/2018/sangha_nayaka_appointment/",
+    "original_dimensions": [
+      853,
+      1280
+    ],
+    "dimensions": [
+      853,
+      1280
+    ],
+    "source_sha256": "69c4408c3eb3a365154c0d84a44faa766d6ccf570dc98969aea4bc7c8425efeb",
+    "permission": "unverified - SIBC permission and subject-consent review required",
+    "review": "Review crop, accuracy, alt text and any identifiable people before publication",
+    "processing": "EXIF removed; resized and converted to WebP for local review"
+  },
+  {
+    "file": "/static/images/vas_aradhana_flyer_2021.webp",
+    "source_url": "https://sibc-tukwila.org/images/flyers/vas_aradhana_flyer_2021.jpg",
+    "source_page": "https://sibc-tukwila.org/events/2021/july/vasaradhana/",
+    "original_dimensions": [
+      2400,
+      3000
+    ],
+    "dimensions": [
+      1440,
+      1800
+    ],
+    "source_sha256": "23d9c45192241aa35f0abd187b93b0e51a373a25ebb1012a3379abae504ee167",
+    "permission": "unverified - SIBC permission and subject-consent review required",
+    "review": "Review crop, accuracy, alt text and any identifiable people before publication",
+    "processing": "EXIF removed; resized and converted to WebP for local review"
+  },
+  {
+    "file": "/static/images/silprogram-web-optimized.webp",
+    "source_url": "https://sibc-tukwila.org/images/flyers/silprogram-web-optimized.png",
+    "source_page": "https://sibc-tukwila.org/events/2021/may/vesak-seela-event/",
+    "original_dimensions": [
+      508,
+      600
+    ],
+    "dimensions": [
+      508,
+      600
+    ],
+    "source_sha256": "3df5da73cb8fec12d784034ef8b3e3e18bc820852f8dd3a4b3486e7484612914",
+    "permission": "unverified - SIBC permission and subject-consent review required",
+    "review": "Review crop, accuracy, alt text and any identifiable people before publication",
+    "processing": "EXIF removed; resized and converted to WebP for local review"
+  },
+  {
+    "file": "/static/images/current_wall.webp",
+    "source_url": "https://sibc-tukwila.org/images/other/wall/current_wall.png",
+    "source_page": "https://sibc-tukwila.org/donations/campaigns/wall_project/",
+    "original_dimensions": [
+      366,
+      427
+    ],
+    "dimensions": [
+      366,
+      427
+    ],
+    "source_sha256": "62f14af1e39908632429b4fca877858d11c67cda8ca35ae61d6c02a3aada15cd",
+    "permission": "unverified - SIBC permission and subject-consent review required",
+    "review": "Review crop, accuracy, alt text and any identifiable people before publication",
+    "processing": "EXIF removed; resized and converted to WebP for local review"
+  },
+  {
+    "file": "/static/images/new_wall.webp",
+    "source_url": "https://sibc-tukwila.org/images/other/wall/new_wall.png",
+    "source_page": "https://sibc-tukwila.org/donations/campaigns/wall_project/",
+    "original_dimensions": [
+      363,
+      207
+    ],
+    "dimensions": [
+      363,
+      207
+    ],
+    "source_sha256": "3d664885618e71eb128e14910affe0d8bac5e9151561ded3ac2433fbf4b1cdc9",
+    "permission": "unverified - SIBC permission and subject-consent review required",
+    "review": "Review crop, accuracy, alt text and any identifiable people before publication",
+    "processing": "EXIF removed; resized and converted to WebP for local review"
+  },
+  {
+    "file": "/static/images/top_wall.webp",
+    "source_url": "https://sibc-tukwila.org/images/other/wall/top_wall.png",
+    "source_page": "https://sibc-tukwila.org/donations/campaigns/wall_project/",
+    "original_dimensions": [
+      241,
+      144
+    ],
+    "dimensions": [
+      241,
+      144
+    ],
+    "source_sha256": "ed9ed1c952e1862f61afd0cf0d336fce68d4a23413c91ee93258dfb03501606b",
+    "permission": "unverified - SIBC permission and subject-consent review required",
+    "review": "Review crop, accuracy, alt text and any identifiable people before publication",
+    "processing": "EXIF removed; resized and converted to WebP for local review"
+  }
+]
